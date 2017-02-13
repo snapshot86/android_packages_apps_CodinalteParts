@@ -13,6 +13,7 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.util.Random;
 
+import org.cyanogenmod.internal.util.FileUtils;
 /**
  * Created by meticulus on 4/7/14.
  */
@@ -126,7 +127,7 @@ public class FunctionsMain {
     public static boolean glove_mode_is_on() {
        String result = "";
        try {
-           result = CommandUtility.ExecuteShellCommandTrimmed("cat /sys/devices/platform/huawei_touch/touch_glove",false,false);
+           result = FileUtils.readOneLine("/sys/devices/platform/huawei_touch/touch_glove");
 
        } catch(Exception e) {e.printStackTrace();}
        Log.i(TAG,"Glove mode is" + result);
@@ -137,10 +138,10 @@ public class FunctionsMain {
 	try {
 	    if(on) {
 		Log.i(TAG, "Setting Glove Mode ON");
-	        CommandUtility.ExecuteNoReturn("echo 1 > /sys/devices/platform/huawei_touch/touch_glove", false, false);
+	        FileUtils.writeLine("/sys/devices/platform/huawei_touch/touch_glove", "1");
 	    } else {
 		Log.i(TAG, "Settings Glove Mode OFF");
-	        CommandUtility.ExecuteNoReturn("echo 0 > /sys/devices/platform/huawei_touch/touch_glove", false, false); 
+	        FileUtils.writeLine("/sys/devices/platform/huawei_touch/touch_glove", "0"); 
 	    }
         } catch(Exception e){e.printStackTrace();}
     }
@@ -148,7 +149,7 @@ public class FunctionsMain {
     public static boolean usb_host_mode_is_on() {
        String result = "";
        try {
-           result = CommandUtility.ExecuteShellCommandTrimmed("cat /sys/devices/ff100000.hisi_usb/plugusb",false,false);
+           result = FileUtils.readOneLine("/sys/devices/ff100000.hisi_usb/plugusb");
 
        } catch(Exception e) {e.printStackTrace();}
        Log.i(TAG,"USB HOST is" + result);
@@ -159,10 +160,10 @@ public class FunctionsMain {
 	try {
 	    if(on) {
 		Log.i(TAG, "Settings USB HOST ON");
-	        CommandUtility.ExecuteNoReturn("echo hoston > /sys/devices/ff100000.hisi_usb/plugusb", false, false);
+	        FileUtils.writeLine("/sys/devices/ff100000.hisi_usb/plugusb", "hoston");
 	    } else {
 		Log.i(TAG, "Settings USB HOST OFF");
-	        CommandUtility.ExecuteNoReturn("echo hostoff > /sys/devices/ff100000.hisi_usb/plugusb", false, false); 
+	        FileUtils.writeLine("/sys/devices/ff100000.hisi_usb/plugusb", "hostoff"); 
 	    }
         } catch(Exception e){e.printStackTrace();}
     }

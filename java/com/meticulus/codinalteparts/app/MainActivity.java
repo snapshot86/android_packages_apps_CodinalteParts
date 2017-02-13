@@ -116,8 +116,8 @@ public class MainActivity extends Activity {
     }
 
     private void prepareUI(){ 
-        charger_show_datetime.setChecked(FunctionsMain.getChargerShowDateTime());
-        charger_no_suspend.setChecked(FunctionsMain.getChargerNoSuspend());
+        //charger_show_datetime.setChecked(FunctionsMain.getChargerShowDateTime());
+        //charger_no_suspend.setChecked(FunctionsMain.getChargerNoSuspend());
         autologcat.setChecked(sharedPref.getBoolean("autologcat",false));
         autokmsg.setChecked(sharedPref.getBoolean("autokmsg",false));
         autoril.setChecked(sharedPref.getBoolean("autoril",false));

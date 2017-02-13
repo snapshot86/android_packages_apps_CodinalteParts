@@ -5,9 +5,9 @@
     <string name="extras_section_name">Extras</string>
     <string name="app_name">Codinalte Parts</string>
     <string name="kernel_header">KERNEL</string> 
-    <string name="otg_title">USB HOST</string>
+    <string name="otg_title">USB Host Mode</string>
     <string name="sim2_title">SIM 2</string>
-    <string name="glove_title">TS: Glove Mode</string>
+    <string name="glove_title">Glove Mode</string>
     <string name="network_header">NETWORKING</string>
     <string name="charger_header">OFFLINE CHARGER</string>
     <string name="workaround_header">WORKAROUNDS</string>
@@ -43,6 +43,6 @@
     <string name="autorillog_desc">Auto ril log enables automatic dumping of the Radio log
     to a file in the root of the sdcard. Does not clean up after itself. Should
     probably keep this off unless I ask you to turn it on.</string>
-    <string name="title_activity_sposnsors">Sposnsors</string>
+    <string name="title_activity_sposnsors">Sponsors</string>
 
 </resources>

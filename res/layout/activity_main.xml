@@ -2,8 +2,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
-    tools:context="com.meticulus.codinalteparts.app.MainActivity"
-    style="@android:style/Theme.Black">
+    tools:context="com.meticulus.codinalteparts.app.MainActivity">
 
     <ScrollView
         android:layout_width="fill_parent"
@@ -11,7 +10,6 @@
         android:id="@+id/scrollView"
         android:layout_alignParentBottom="true"
         android:layout_alignParentStart="true"
-        style="@android:style/Holo.Light.SegmentedButton"
         android:layout_alignParentEnd="false">
 
         <LinearLayout
@@ -25,7 +23,6 @@
                 android:orientation="horizontal"
                 android:layout_width="fill_parent"
                 android:layout_height="fill_parent"
-                android:background="@android:drawable/dialog_holo_dark_frame"
                 android:id="@+id/linearLayout">
 
                 <ImageView
@@ -48,7 +45,6 @@
                         android:typeface="monospace"
                         android:padding="5dp"
                         android:textSize="15dp"
-			android:textColor="#FFFFFF"
                         android:gravity="center_vertical|center_horizontal" />
 
                     <TextView
@@ -58,7 +54,6 @@
                         android:text="@string/extras_section_name"
                         android:id="@+id/textView2"
                         android:typeface="monospace"
-			android:textColor="#FFFFFF"
                         android:textStyle="bold|italic"
                         android:gravity="center_vertical|center_horizontal" />
 
@@ -70,13 +65,17 @@
                         android:id="@+id/textView3"
                         android:typeface="monospace"
                         android:padding="5dp"
-			android:textColor="#FFFFFF"
                         android:textStyle="italic"
                         android:gravity="center_vertical|center_horizontal"
                         android:textSize="10dp"
                         android:visibility="gone" />
                 </LinearLayout>
             </LinearLayout>
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+		android:background="#CCCCCC" />
 
             <TextView
                 style="@android:style/TextAppearance.DeviceDefault.WindowTitle"
@@ -87,11 +86,11 @@
                 android:id="@+id/kernel_textview"
                 android:layout_alignParentBottom="true"
                 android:layout_alignParentStart="true"
-		android:textColor="#FFFFFF"
                 android:textStyle="bold"
-                android:textSize="10dp"
-                android:background="@android:drawable/dialog_holo_dark_frame"
-                android:gravity="center" />
+                android:paddingLeft="20dp"
+                android:paddingTop="20dp"
+		android:textColor="#999999"
+                android:textSize="10dp" />
  
 	    <LinearLayout
                 android:orientation="horizontal"
@@ -101,7 +100,6 @@
                 android:layout_alignParentEnd="true"
                 android:weightSum="1"
                 android:id="@+id/glove_layout"
-                android:background="#444444"
                 android:layout_margin="10dp">
 
                 <Switch
@@ -117,7 +115,6 @@
                     android:focusableInTouchMode="false"
                     android:layout_weight="0.99"
                     android:paddingTop="20dp"
-		    android:textColor="#FFFFFF"
                     android:typeface="monospace"
                     android:textSize="12dp" />
 
@@ -139,7 +136,6 @@
                 android:layout_alignParentEnd="true"
                 android:weightSum="1"
                 android:id="@+id/otg_layout"
-                android:background="#444444"
                 android:layout_margin="10dp">
 
                 <Switch
@@ -155,7 +151,6 @@
                     android:focusableInTouchMode="false"
                     android:layout_weight="0.99"
                     android:paddingTop="20dp"
-		    android:textColor="#FFFFFF"
                     android:typeface="monospace"
                     android:textSize="12dp" />
 
@@ -168,6 +163,11 @@
                     android:paddingLeft="10dp"
                     android:baselineAlignBottom="false" />
             </LinearLayout>
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+		android:background="#CCCCCC" />
  
             <TextView
                 style="@android:style/TextAppearance.DialogWindowTitle"
@@ -179,10 +179,10 @@
                 android:layout_alignParentBottom="true"
                 android:layout_alignParentStart="true"
                 android:textStyle="bold"
-		android:textColor="#FFFFFF"
-                android:textSize="10dp"
-                android:background="@android:drawable/dialog_holo_dark_frame"
-                android:gravity="center" /> 
+                android:paddingLeft="20dp"
+                android:paddingTop="20dp"
+		android:textColor="#999999" 
+                android:textSize="10dp" />
 	    <LinearLayout
                 android:orientation="horizontal"
                 android:layout_width="fill_parent"
@@ -191,7 +191,6 @@
                 android:layout_alignParentEnd="true"
                 android:weightSum="1"
                 android:id="@+id/sim2_layout"
-                android:background="#444444"
                 android:layout_margin="10dp">
 
                 <Switch
@@ -206,8 +205,7 @@
                     android:paddingRight="0dp"
                     android:focusableInTouchMode="false"
                     android:layout_weight="0.99"
-                    android:paddingTop="20dp"
-		    android:textColor="#FFFFFF"
+                    android:paddingTop="20dp" 
                     android:typeface="monospace"
                     android:textSize="12dp" />
 
@@ -220,6 +218,11 @@
                     android:paddingLeft="10dp"
                     android:baselineAlignBottom="false" />
             </LinearLayout>
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+		android:background="#CCCCCC" />
 
             <TextView
                 style="@android:style/TextAppearance.DialogWindowTitle"
@@ -231,10 +234,10 @@
                 android:layout_alignParentBottom="true"
                 android:layout_alignParentStart="true"
                 android:textStyle="bold"
-		android:textColor="#FFFFFF"
-                android:textSize="10dp"
-                android:background="@android:drawable/dialog_holo_dark_frame"
-                android:gravity="center" /> 
+                android:paddingLeft="20dp"
+                android:paddingTop="20dp"
+		android:textColor="#999999" 
+                android:textSize="10dp" />
 	    <LinearLayout
                 android:orientation="horizontal"
                 android:layout_width="fill_parent"
@@ -243,7 +246,6 @@
                 android:layout_alignParentEnd="true"
                 android:weightSum="1"
                 android:id="@+id/google_enc_layout"
-                android:background="#444444"
                 android:layout_margin="10dp">
 
                 <Switch
@@ -259,7 +261,6 @@
                     android:focusableInTouchMode="false"
                     android:layout_weight="0.99"
                     android:paddingTop="20dp"
-		    android:textColor="#FFFFFF"
                     android:typeface="monospace"
                     android:textSize="12dp" />
 
@@ -272,6 +273,12 @@
                     android:paddingLeft="10dp"
                     android:baselineAlignBottom="false" />
             </LinearLayout>
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+		android:background="#CCCCCC" />
+
             <TextView
                 style="@android:style/TextAppearance.DeviceDefault.WindowTitle"
                 android:layout_width="fill_parent"
@@ -281,11 +288,11 @@
                 android:id="@+id/charger_textview"
                 android:layout_alignParentBottom="true"
                 android:layout_alignParentStart="true"
-		android:textColor="#FFFFFF"
+                android:paddingLeft="20dp"
+                android:paddingTop="20dp"
+		android:textColor="#999999" 
                 android:textStyle="bold"
-                android:textSize="10dp"
-                android:background="@android:drawable/dialog_holo_dark_frame"
-                android:gravity="center" />
+                android:textSize="10dp" /> 
 
             <LinearLayout
                 android:orientation="horizontal"
@@ -295,8 +302,7 @@
                 android:layout_alignParentEnd="true"
                 android:weightSum="1"
                 android:id="@+id/charger_show_datetime_layout"
-                android:layout_margin="10dp"
-                android:background="#444444">
+                android:layout_margin="10dp">
 
                 <Switch
                     android:layout_width="wrap_content"
@@ -311,7 +317,6 @@
                     android:focusableInTouchMode="false"
                     android:layout_weight="0.99"
                     android:paddingTop="20dp"
-		    android:textColor="#FFFFFF"
                     android:textSize="12dp"
                     android:typeface="monospace" />
 
@@ -331,8 +336,7 @@
                 android:layout_alignParentEnd="true"
                 android:weightSum="1"
                 android:id="@+id/charger_no_suspend_layout"
-                android:layout_margin="10dp"
-                android:background="#444444">
+                android:layout_margin="10dp">
 
                 <Switch
                     android:layout_width="wrap_content"
@@ -347,7 +351,6 @@
                     android:focusableInTouchMode="false"
                     android:layout_weight="0.99"
                     android:paddingTop="20dp"
-		    android:textColor="#FFFFFF"
                     android:textSize="12dp"
                     android:typeface="monospace" />
 
@@ -358,6 +361,11 @@
                     android:src="@android:drawable/ic_menu_info_details"
                     android:paddingLeft="10dp" />
             </LinearLayout>
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+		android:background="#CCCCCC" />
 
             <TextView
                 style="@android:style/TextAppearance.DialogWindowTitle"
@@ -369,10 +377,10 @@
                 android:layout_alignParentBottom="true"
                 android:layout_alignParentStart="true"
                 android:textSize="10dp"
-		android:textColor="#FFFFFF"
-                android:textStyle="bold"
-                android:background="@android:drawable/dialog_holo_dark_frame"
-                android:gravity="center" />
+                android:paddingLeft="20dp"
+                android:paddingTop="20dp"
+		android:textColor="#999999" 
+                android:textStyle="bold" />
 
             <LinearLayout
                 android:orientation="horizontal"
@@ -382,8 +390,7 @@
                 android:layout_alignParentEnd="true"
                 android:weightSum="1"
                 android:id="@+id/autologcat_layout"
-                android:layout_margin="10dp"
-                android:background="#444444">
+                android:layout_margin="10dp">
 
                 <Switch
                     android:layout_width="wrap_content"
@@ -399,7 +406,6 @@
                     android:layout_weight="0.99"
                     android:paddingTop="20dp"
                     android:textSize="12dp"
-		    android:textColor="#FFFFFF"
                     android:typeface="monospace" />
 
                 <ImageView
@@ -418,8 +424,7 @@
                 android:layout_alignParentEnd="true"
                 android:weightSum="1"
                 android:id="@+id/autokmsg_layout"
-                android:layout_margin="10dp"
-                android:background="#444444">
+                android:layout_margin="10dp">
 
                 <Switch
                     android:layout_width="wrap_content"
@@ -435,7 +440,6 @@
                     android:layout_weight="0.99"
                     android:paddingTop="20dp"
                     android:textSize="12dp"
-		    android:textColor="#FFFFFF"
                     android:typeface="monospace" />
 
                 <ImageView
@@ -454,8 +458,7 @@
                 android:layout_alignParentEnd="true"
                 android:weightSum="1"
                 android:id="@+id/autoril_layout"
-                android:layout_margin="10dp"
-                android:background="#444444">
+                android:layout_margin="10dp">
 
                 <Switch
                     android:layout_width="wrap_content"
@@ -471,7 +474,6 @@
                     android:layout_weight="0.99"
                     android:paddingTop="20dp"
                     android:textSize="12dp"
-		    android:textColor="#FFFFFF"
                     android:typeface="monospace" />
 
                 <ImageView
