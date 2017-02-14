@@ -27,6 +27,12 @@ public class bootreceiver extends BroadcastReceiver  {
         if(sharedPref.getBoolean("autoril",false))
             FunctionsMain.startAutorillog();
 
+	if(sharedPref.getBoolean("glove",false))
+	    FunctionsMain.set_glove(true);
+
+	if(sharedPref.getBoolean("dt2w",false))
+	    FunctionsMain.set_dt2w(true);
+
 
     }
 }

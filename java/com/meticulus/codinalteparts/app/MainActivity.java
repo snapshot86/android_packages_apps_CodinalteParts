@@ -27,13 +27,13 @@ public class MainActivity extends Activity {
 
     TextView kernel, audio, charger,workaround, network, debugging; /* Headers */
 
-    Switch otg, glove, /* Kernel */
+    Switch dt2w, otg, glove, /* Kernel */
 	    sim2, /* Networking */
 	    google_enc, /* Workarounds */
             charger_show_datetime, charger_no_suspend, /* Charger */
             autologcat, autokmsg, autoril; /* Debugging */
 
-    ImageView whatis_otg, whatis_glove, /* Kernel */
+    ImageView whatis_dt2w, whatis_otg, whatis_glove, /* Kernel */
 	    whatis_sim2, /* Networking */
 	    whatis_google_enc, /* Workarounds */
             whatis_charger_show_datetime, whatis_charger_no_suspend, /* Charger */
@@ -61,6 +61,7 @@ public class MainActivity extends Activity {
         debugging = (TextView) findViewById(R.id.debugging_textview);
 
         /* Assign all switches */
+	dt2w = (Switch) findViewById(R.id.switch_dt2w);
         glove = (Switch) findViewById((R.id.switch_glove));
         otg = (Switch) findViewById((R.id.switch_otg));
         sim2 = (Switch) findViewById((R.id.switch_sim2));
@@ -71,7 +72,8 @@ public class MainActivity extends Activity {
         autokmsg = (Switch) findViewById(R.id.switch_autokmsg);
         autoril = (Switch)findViewById(R.id.switch_autorillog);
 
-        /* Assign all switches onCheckChanged*/ 
+        /* Assign all switches onCheckChanged*/
+	dt2w.setOnCheckedChangeListener(switchListener); 
         glove.setOnCheckedChangeListener(switchListener);
         otg.setOnCheckedChangeListener(switchListener);
         sim2.setOnCheckedChangeListener(switchListener);
@@ -81,6 +83,9 @@ public class MainActivity extends Activity {
         autologcat.setOnCheckedChangeListener(switchListener);
         autokmsg.setOnCheckedChangeListener(switchListener);
         autoril.setOnCheckedChangeListener(switchListener);
+
+	whatis_dt2w = (ImageView) findViewById(R.id.whatis_dt2w);
+        whatis_dt2w.setOnClickListener(switchClickListener);
 
 	whatis_glove = (ImageView) findViewById(R.id.whatis_glove);
         whatis_glove.setOnClickListener(switchClickListener);
@@ -124,6 +129,7 @@ public class MainActivity extends Activity {
 	otg.setChecked(FunctionsMain.usb_host_mode_is_on());
 	sim2.setChecked(!SystemProperties.get("persist.radio.multisim.config", "single").equals("single"));
 	glove.setChecked(FunctionsMain.glove_mode_is_on());
+	dt2w.setChecked(FunctionsMain.dt2w_is_on());
 	google_enc.setChecked(SystemProperties.getBoolean("persist.sys.google_avc_enc",false));
     }
 
@@ -134,6 +140,9 @@ public class MainActivity extends Activity {
             ImageView thisSwitch = (ImageView)view;
             if(thisSwitch == whatis_otg){
                 ShowDialog("USB Host Mode",getString(R.string.otg_desc));
+            }
+            else if(thisSwitch == whatis_dt2w){
+                ShowDialog("Doubletap 2 Wake",getString(R.string.dt2w_desc));
             }
             else if(thisSwitch == whatis_google_enc){
                 ShowDialog("Workaround: Google Encoder",getString(R.string.google_enc_desc));
@@ -174,9 +183,17 @@ public class MainActivity extends Activity {
                 }
                 catch(Exception e){e.printStackTrace();}
 	    }
+            else if(thisSwitch == dt2w) {
+		try { 
+                    	FunctionsMain.set_dt2w(b);
+			editor.putBoolean("dt2w",b);
+                }
+                catch(Exception e){e.printStackTrace();}
+	    }
             else if(thisSwitch == glove) {
 		try { 
                     	FunctionsMain.set_glove(b);
+			editor.putBoolean("glove",b);
                 }
                 catch(Exception e){e.printStackTrace();}
 	    }

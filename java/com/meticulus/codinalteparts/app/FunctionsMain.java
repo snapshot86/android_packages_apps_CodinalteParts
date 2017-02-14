@@ -146,6 +146,32 @@ public class FunctionsMain {
         } catch(Exception e){e.printStackTrace();}
     }
 
+    public static boolean dt2w_is_on() {
+       String result = "";
+       String result2 = "";
+       try {
+           result = FileUtils.readOneLine("/sys/devices/platform/huawei_touch/easy_wakeup_gesture");
+           result2 = FileUtils.readOneLine("/sys/devices/platform/huawei_touch/wakeup_gesture_enable");
+
+       } catch(Exception e) {e.printStackTrace();}
+       Log.i(TAG,"DT2W is" + result);
+       return result.equals("0x0001") && result2.equals("1");
+    }
+
+    public static void set_dt2w(boolean on) {
+	try {
+	    if(on) {
+		Log.i(TAG, "Settings DT2W ON");
+	        FileUtils.writeLine("/sys/devices/platform/huawei_touch/easy_wakeup_gesture", "1");
+	        FileUtils.writeLine("/sys/devices/platform/huawei_touch/wakeup_gesture_enable", "1");
+	    } else {
+		Log.i(TAG, "Settings DT2W OFF");
+	        FileUtils.writeLine("/sys/devices/platform/huawei_touch/wakeup_gesture_enable", "0");
+	        FileUtils.writeLine("/sys/devices/platform/huawei_touch/easy_wakeup_gesture", "0");
+	    }
+        } catch(Exception e){e.printStackTrace();}
+    }
+
     public static boolean usb_host_mode_is_on() {
        String result = "";
        try {

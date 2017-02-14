@@ -99,6 +99,42 @@
                 android:layout_alignParentTop="true"
                 android:layout_alignParentEnd="true"
                 android:weightSum="1"
+                android:id="@+id/dt2w_layout"
+                android:layout_margin="10dp">
+
+                <Switch
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/dt2w_title"
+                    android:id="@+id/switch_dt2w"
+                    android:paddingBottom="20dp"
+                    android:checked="false"
+                    android:enabled="true"
+                    android:paddingLeft="20dp"
+                    android:paddingRight="0dp"
+                    android:focusableInTouchMode="false"
+                    android:layout_weight="0.99"
+                    android:paddingTop="20dp"
+                    android:typeface="monospace"
+                    android:textSize="12dp" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:id="@+id/whatis_dt2w"
+                    android:src="@android:drawable/ic_menu_info_details"
+                    android:layout_gravity="center"
+                    android:paddingLeft="10dp"
+                    android:baselineAlignBottom="false" />
+            </LinearLayout>
+
+	    <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:weightSum="1"
                 android:id="@+id/glove_layout"
                 android:layout_margin="10dp">
 
