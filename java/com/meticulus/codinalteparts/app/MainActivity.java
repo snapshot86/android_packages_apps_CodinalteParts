@@ -114,22 +114,35 @@ public class MainActivity extends Activity {
         whatis_autorillog = (ImageView) findViewById(R.id.whatis_autorillog);
         whatis_autorillog.setOnClickListener(switchClickListener);
 
-        sharedPref = PreferenceManager.getDefaultSharedPreferences(this);
- 
+        sharedPref = PreferenceManager.getDefaultSharedPreferences(this); 
         prepareUI();
  
     }
 
     private void prepareUI(){ 
-        //charger_show_datetime.setChecked(FunctionsMain.getChargerShowDateTime());
-        //charger_no_suspend.setChecked(FunctionsMain.getChargerNoSuspend());
+        charger_show_datetime.setChecked(FunctionsMain.getChargerShowDateTime());
+        charger_no_suspend.setChecked(FunctionsMain.getChargerNoSuspend());
         autologcat.setChecked(sharedPref.getBoolean("autologcat",false));
         autokmsg.setChecked(sharedPref.getBoolean("autokmsg",false));
         autoril.setChecked(sharedPref.getBoolean("autoril",false));
-	otg.setChecked(FunctionsMain.usb_host_mode_is_on());
+
+	if(FunctionsMain.usb_host_is_supported())
+	    otg.setChecked(FunctionsMain.usb_host_mode_is_on());
+	else
+	    otg.setClickable(false);
+
 	sim2.setChecked(!SystemProperties.get("persist.radio.multisim.config", "single").equals("single"));
-	glove.setChecked(FunctionsMain.glove_mode_is_on());
-	dt2w.setChecked(FunctionsMain.dt2w_is_on());
+
+	if(FunctionsMain.glove_mode_is_supported())
+	    glove.setChecked(FunctionsMain.glove_mode_is_on());
+	else
+	    glove.setEnabled(false);
+	    
+	if(FunctionsMain.dt2w_is_supported())	
+		dt2w.setChecked(FunctionsMain.dt2w_is_on());
+	else
+	    dt2w.setClickable(false);
+
 	google_enc.setChecked(SystemProperties.getBoolean("persist.sys.google_avc_enc",false));
     }
 
@@ -139,16 +152,16 @@ public class MainActivity extends Activity {
 
             ImageView thisSwitch = (ImageView)view;
             if(thisSwitch == whatis_otg){
-                ShowDialog("USB Host Mode",getString(R.string.otg_desc));
+                ShowDialog("USB Host Mode",FunctionsMain.usb_host_is_supported() ? getString(R.string.otg_desc) : getString(R.string.not_supported));
             }
             else if(thisSwitch == whatis_dt2w){
-                ShowDialog("Doubletap 2 Wake",getString(R.string.dt2w_desc));
+                ShowDialog("Doubletap 2 Wake",FunctionsMain.dt2w_is_supported() ? getString(R.string.dt2w_desc) : getString(R.string.not_supported));
             }
             else if(thisSwitch == whatis_google_enc){
                 ShowDialog("Workaround: Google Encoder",getString(R.string.google_enc_desc));
             }
             else if(thisSwitch == whatis_glove){
-                ShowDialog("Touchscreen: Glove Mode",getString(R.string.glove_desc));
+                ShowDialog("Touchscreen: Glove Mode",FunctionsMain.glove_mode_is_supported() ? getString(R.string.glove_desc) : getString(R.string.not_supported));
             }
             else if(thisSwitch == whatis_charger_show_datetime){
                 ShowDialog("Date and Time in Charger",getString(R.string.charger_showdatetime_desc));

@@ -30,7 +30,7 @@
 	sensativity of the touch screen so touches can be registered while wearing gloves?
 	</string>
     <string name="sim2_desc">Enables the second sim. This should not be activated unless there is
-	a sim card in the second slot.</string>
+	a sim card in the second slot. (Requires Reboot!)</string>
     <string name="google_enc_desc">This works around issues with Snapchat, Instagram and other video recording apps. 
 	Uses the google avc encoder instead of the hw avc encoder. You may need to restart the app or restart the device
 	before this setting takes effect. This may also cause some video recording apps not to work.</string>
@@ -47,5 +47,6 @@
     to a file in the root of the sdcard. Does not clean up after itself. Should
     probably keep this off unless I ask you to turn it on.</string>
     <string name="title_activity_sposnsors">Sponsors</string>
+    <string name="not_supported">Not supported by this device...</string>
 
 </resources>
