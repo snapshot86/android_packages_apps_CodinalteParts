@@ -6,6 +6,7 @@
     <string name="app_name">Codinalte Parts</string>
     <string name="kernel_header">KERNEL</string> 
     <string name="otg_title">USB Host Mode</string>
+    <string name="sensorex_title">SensorEx</string>
     <string name="sim2_title">SIM 2</string>
     <string name="glove_title">Glove Mode</string>
     <string name="dt2w_title">Double Tap 2 Wake</string>

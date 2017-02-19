@@ -27,19 +27,19 @@ public class MainActivity extends Activity {
 
     TextView kernel, audio, charger,workaround, network, debugging; /* Headers */
 
-    Switch dt2w, otg, glove, /* Kernel */
+    Switch dt2w, otg, glove, sensorex, /* Kernel */
 	    sim2, /* Networking */
 	    google_enc, /* Workarounds */
             charger_show_datetime, charger_no_suspend, /* Charger */
             autologcat, autokmsg, autoril; /* Debugging */
 
-    ImageView whatis_dt2w, whatis_otg, whatis_glove, /* Kernel */
+    ImageView whatis_dt2w, whatis_otg, whatis_glove, whatis_sensorex,/* Kernel */
 	    whatis_sim2, /* Networking */
 	    whatis_google_enc, /* Workarounds */
             whatis_charger_show_datetime, whatis_charger_no_suspend, /* Charger */
             whatis_autologcat,whatis_autokmsg, whatis_autorillog; /* Debugging */
 
-    LinearLayout otg_layout, glove_layout, /* Kernel */
+    LinearLayout otg_layout, glove_layout, sensorex_layout,/* Kernel */
 	    sim2_layout, /* Networking */
 	    google_enc_layout, /* Workarounds */
             charger_show_datetime_layout, charger_no_suspend_layout, /* Charger */
@@ -64,6 +64,7 @@ public class MainActivity extends Activity {
 	dt2w = (Switch) findViewById(R.id.switch_dt2w);
         glove = (Switch) findViewById((R.id.switch_glove));
         otg = (Switch) findViewById((R.id.switch_otg));
+        sensorex = (Switch) findViewById((R.id.switch_sensorex));
         sim2 = (Switch) findViewById((R.id.switch_sim2));
         google_enc = (Switch) findViewById((R.id.switch_google_enc));
         charger_show_datetime = (Switch) findViewById(R.id.switch_charger_show_datetime);
@@ -76,6 +77,7 @@ public class MainActivity extends Activity {
 	dt2w.setOnCheckedChangeListener(switchListener); 
         glove.setOnCheckedChangeListener(switchListener);
         otg.setOnCheckedChangeListener(switchListener);
+        sensorex.setOnCheckedChangeListener(switchListener);
         sim2.setOnCheckedChangeListener(switchListener);
         google_enc.setOnCheckedChangeListener(switchListener);
         charger_show_datetime.setOnCheckedChangeListener(switchListener);
@@ -92,6 +94,9 @@ public class MainActivity extends Activity {
 
 	whatis_otg = (ImageView) findViewById(R.id.whatis_otg);
         whatis_otg.setOnClickListener(switchClickListener);
+
+	whatis_sensorex = (ImageView) findViewById(R.id.whatis_sensorex);
+        whatis_sensorex.setOnClickListener(switchClickListener);
 
 	whatis_sim2 = (ImageView) findViewById(R.id.whatis_sim2);
         whatis_sim2.setOnClickListener(switchClickListener);
@@ -144,6 +149,7 @@ public class MainActivity extends Activity {
 	    dt2w.setClickable(false);
 
 	google_enc.setChecked(SystemProperties.getBoolean("persist.sys.google_avc_enc",false));
+	sensorex.setChecked(SystemProperties.getBoolean("persist.sys.sensorex",false));
     }
 
     private View.OnClickListener switchClickListener = new View.OnClickListener() {
@@ -156,6 +162,9 @@ public class MainActivity extends Activity {
             }
             else if(thisSwitch == whatis_dt2w){
                 ShowDialog("Doubletap 2 Wake",FunctionsMain.dt2w_is_supported() ? getString(R.string.dt2w_desc) : getString(R.string.not_supported));
+            }
+            else if(thisSwitch == whatis_sensorex){
+                ShowDialog("SensorsEx",getString(R.string.sensorex_desc));
             }
             else if(thisSwitch == whatis_google_enc){
                 ShowDialog("Workaround: Google Encoder",getString(R.string.google_enc_desc));
@@ -210,6 +219,9 @@ public class MainActivity extends Activity {
                 }
                 catch(Exception e){e.printStackTrace();}
 	    }
+            else if(thisSwitch == sensorex){
+                SystemProperties.set("persist.sys.sensorex",String.valueOf(b));
+            }
             else if(thisSwitch == google_enc){
                 SystemProperties.set("persist.sys.google_avc_enc",String.valueOf(b));
             }
