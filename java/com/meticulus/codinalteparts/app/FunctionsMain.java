@@ -80,7 +80,7 @@ public class FunctionsMain {
 
     public static boolean getChargerShowDateTime() {
 
-        return new File(CHARGER_SHOWDATETIME_PATH).exists();
+        return SystemProperties.get("persist.sys.charger_showtime","0").equals("1");
 
     }
     public static void setChargerNoSuspend(boolean enabled) {
@@ -99,7 +99,7 @@ public class FunctionsMain {
 
     public static boolean getChargerNoSuspend() {
 
-        return new File(CHARGER_NOSUSPEND_PATH).exists();
+        return SystemProperties.get("persist.sys.charger_nosuspend", "0").equals("1");
 
     } 
 
