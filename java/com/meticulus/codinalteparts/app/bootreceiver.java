@@ -19,20 +19,10 @@ public class bootreceiver extends BroadcastReceiver  {
     {
         sharedPref = PreferenceManager.getDefaultSharedPreferences(arg0.getApplicationContext());
 
-        if(sharedPref.getBoolean("autologcat", false))
-            FunctionsMain.startAutologcat();
-
-        if(sharedPref.getBoolean("autokmsg", false))
-            FunctionsMain.startAutokmsg();
-        if(sharedPref.getBoolean("autoril",false))
-            FunctionsMain.startAutorillog();
-
 	if(FunctionsMain.glove_mode_is_supported() && sharedPref.getBoolean("glove",false))
 	    FunctionsMain.set_glove(true);
 
 	if(FunctionsMain.dt2w_is_supported() && sharedPref.getBoolean("dt2w",false))
 	    FunctionsMain.set_dt2w(true);
-
-
     }
 }

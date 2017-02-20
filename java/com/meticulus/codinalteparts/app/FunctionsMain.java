@@ -22,26 +22,6 @@ public class FunctionsMain {
 
     private static final String TAG = "Codinalte Parts";
 
-    /* General */
-
-    private static final String TEMP_DIR_CMD = "mkdir -p /data/local/tmp";
-
-    /* Offline Charging */
-
-    private static final String CHARGER_SETTINGS_PATH = "/cache/misc/charger";
-
-    private static final String CHARGER_SHOWDATETIME_PATH = CHARGER_SETTINGS_PATH + "/charger_show_datetime";
-
-    private static final String CHARGER_SHOWDATETIME_ENABLE = "touch " + CHARGER_SHOWDATETIME_PATH;
-
-    private static final String CHARGER_SHOWDATETIME_DISABLE = "rm " + CHARGER_SHOWDATETIME_PATH;
-
-    private static final String CHARGER_NOSUSPEND_PATH = CHARGER_SETTINGS_PATH + "/charger_no_suspend";
-
-    private static final String CHARGER_NOSUSPEND_ENABLE = "touch " + CHARGER_NOSUSPEND_PATH;
-
-    private static final String CHARGER_NOSUSPEND_DISABLE = "rm " + CHARGER_NOSUSPEND_PATH;
-
     private static final String GLOVE_MODE_FILE = "/sys/devices/platform/huawei_touch/touch_glove";
 
     private static final String EASY_WAKEUP_GESTURE_FILE = "/sys/devices/platform/huawei_touch/easy_wakeup_gesture";
@@ -49,87 +29,6 @@ public class FunctionsMain {
     private static final String WAKEUP_GESTURE_ENABLE_FILE = "/sys/devices/platform/huawei_touch/wakeup_gesture_enable";
 
     private static final String USB_HOST_FILE = "/sys/devices/ff100000.hisi_usb/plugusb";
-
-    /* Logging Vars */
-
-    private static final String CMD_KMSG = "cat /proc/kmsg | while read LINE;do " + "" +
-            "DATE=$(busybox date -I); echo \"$(busybox date | cut -d ' ' -f5) - $LINE\" >> "+
-            "/sdcard/autolog_kmsg_\"$DATE\".txt;done &";
-
-    private static final String CMD_LOGCAT = "logcat | while read LINE;do "+
-            "DATE=$(busybox date -I); echo \"$(busybox date | cut -d ' ' -f4) - $LINE\" >> "+
-            "/sdcard/autolog_logcat_\"$DATE\".txt;done &";
-
-    private static final String CMD_RILLOG = "cat /dev/log/radio | while read LINE;do "+
-            "DATE=$(busybox date -I); echo \"$(busybox date | cut -d ' ' -f4) - $LINE\" >> "+
-            "/sdcard/autolog_rillog_\"$DATE\".txt;done &";
-
-    public static void setChargerShowDateTime(boolean enabled) {
-
-        try {
-            if (enabled) {
-                Log.i(TAG, "Enabling ChargerShowDateTime");
-		SystemProperties.set("persist.sys.charger_showtime","1");
-            } else {
-                Log.i(TAG, "Disabling ChargerShowDateTime");
-                SystemProperties.set("persist.sys.charger_showtime","0");
-            }
-        }catch(Exception ex){ex.printStackTrace();}
-
-    }
-
-    public static boolean getChargerShowDateTime() {
-
-        return SystemProperties.get("persist.sys.charger_showtime","0").equals("1");
-
-    }
-    public static void setChargerNoSuspend(boolean enabled) {
-
-        try {
-            if (enabled) {
-                Log.i(TAG, "Enabling ChargerNoSuspend");
-		SystemProperties.set("persist.sys.charger_nosuspend","1");
-            } else {
-                Log.i(TAG, "Disabling ChargerNoSuspend");
-		SystemProperties.set("persist.sys.charger_nosuspend","0");
-            }
-        }catch(Exception ex){ex.printStackTrace();}
-
-    }
-
-    public static boolean getChargerNoSuspend() {
-
-        return SystemProperties.get("persist.sys.charger_nosuspend", "0").equals("1");
-
-    } 
-
-    public static void startAutokmsg()
-    {
-        try
-        {
-            Log.i(TAG, "Running auto kmsg...");
-            CommandUtility.ExecuteNoReturn(CMD_KMSG,true, false);
-        }
-        catch(Exception e){e.printStackTrace();}
-    }
-    public static void startAutologcat()
-    {
-        try
-        {
-            Log.i(TAG, "Running auto logcat...");
-            CommandUtility.ExecuteNoReturn(CMD_LOGCAT,true, false);
-        }
-        catch(Exception e){e.printStackTrace();}
-    }
-    public static void startAutorillog()
-    {
-        try
-        {
-            Log.i(TAG, "Running auto ril log...");
-            CommandUtility.ExecuteNoReturn(CMD_RILLOG,true, false);
-        }
-        catch(Exception e){e.printStackTrace();}
-    }
 
     public static boolean glove_mode_is_supported() {
 
@@ -216,9 +115,5 @@ public class FunctionsMain {
 	    }
         } catch(Exception e){e.printStackTrace();}
     }
-
-    public static void testProp()
-    {
-        Log.e(TAG, "Device is: " + Build.MODEL);
-    }
+ 
 }

@@ -25,25 +25,19 @@ import com.meticulus.codinalteparts.app.FunctionsMain;
 
 public class MainActivity extends Activity {
 
-    TextView kernel, audio, charger,workaround, network, debugging; /* Headers */
+    TextView kernel, workaround, network; /* Headers */
 
     Switch dt2w, otg, glove, sensorex, /* Kernel */
 	    sim2, /* Networking */
-	    google_enc, /* Workarounds */
-            charger_show_datetime, charger_no_suspend, /* Charger */
-            autologcat, autokmsg, autoril; /* Debugging */
+	    google_enc; /* Workarounds */
 
     ImageView whatis_dt2w, whatis_otg, whatis_glove, whatis_sensorex,/* Kernel */
 	    whatis_sim2, /* Networking */
-	    whatis_google_enc, /* Workarounds */
-            whatis_charger_show_datetime, whatis_charger_no_suspend, /* Charger */
-            whatis_autologcat,whatis_autokmsg, whatis_autorillog; /* Debugging */
+	    whatis_google_enc; /* Workarounds */
 
     LinearLayout otg_layout, glove_layout, sensorex_layout,/* Kernel */
 	    sim2_layout, /* Networking */
-	    google_enc_layout, /* Workarounds */
-            charger_show_datetime_layout, charger_no_suspend_layout, /* Charger */
-            autologcat_layout, autokmsg_layout, autoril_layout; /* Debugging */
+	    google_enc_layout; /* Workarounds */
 
     SharedPreferences sharedPref;
     String device =  "";
@@ -56,9 +50,7 @@ public class MainActivity extends Activity {
         /* Headers */
         kernel = (TextView) findViewById(R.id.kernel_textview);
         network = (TextView) findViewById(R.id.network_textview);
-        charger = (TextView) findViewById(R.id.charger_textview);
         workaround  = (TextView) findViewById(R.id.workaround_textview);
-        debugging = (TextView) findViewById(R.id.debugging_textview);
 
         /* Assign all switches */
 	dt2w = (Switch) findViewById(R.id.switch_dt2w);
@@ -66,12 +58,7 @@ public class MainActivity extends Activity {
         otg = (Switch) findViewById((R.id.switch_otg));
         sensorex = (Switch) findViewById((R.id.switch_sensorex));
         sim2 = (Switch) findViewById((R.id.switch_sim2));
-        google_enc = (Switch) findViewById((R.id.switch_google_enc));
-        charger_show_datetime = (Switch) findViewById(R.id.switch_charger_show_datetime);
-        charger_no_suspend = (Switch) findViewById(R.id.switch_charger_no_suspend);
-        autologcat = (Switch) findViewById(R.id.switch_autologcat);
-        autokmsg = (Switch) findViewById(R.id.switch_autokmsg);
-        autoril = (Switch)findViewById(R.id.switch_autorillog);
+        google_enc = (Switch) findViewById((R.id.switch_google_enc)); 
 
         /* Assign all switches onCheckChanged*/
 	dt2w.setOnCheckedChangeListener(switchListener); 
@@ -80,11 +67,6 @@ public class MainActivity extends Activity {
         sensorex.setOnCheckedChangeListener(switchListener);
         sim2.setOnCheckedChangeListener(switchListener);
         google_enc.setOnCheckedChangeListener(switchListener);
-        charger_show_datetime.setOnCheckedChangeListener(switchListener);
-        charger_no_suspend.setOnCheckedChangeListener(switchListener);
-        autologcat.setOnCheckedChangeListener(switchListener);
-        autokmsg.setOnCheckedChangeListener(switchListener);
-        autoril.setOnCheckedChangeListener(switchListener);
 
 	whatis_dt2w = (ImageView) findViewById(R.id.whatis_dt2w);
         whatis_dt2w.setOnClickListener(switchClickListener);
@@ -104,33 +86,12 @@ public class MainActivity extends Activity {
 	whatis_google_enc = (ImageView) findViewById(R.id.whatis_google_enc);
         whatis_google_enc.setOnClickListener(switchClickListener);
 
-        whatis_charger_show_datetime = (ImageView) findViewById(R.id.what_is_charger_show_datetime);
-        whatis_charger_show_datetime.setOnClickListener(switchClickListener);
-
-        whatis_charger_no_suspend = (ImageView) findViewById(R.id.what_is_charger_no_suspend);
-        whatis_charger_no_suspend.setOnClickListener(switchClickListener);
-
-        whatis_autologcat = (ImageView) findViewById(R.id.whatis_autologcat);
-        whatis_autologcat.setOnClickListener(switchClickListener);
-
-        whatis_autokmsg = (ImageView) findViewById(R.id.whatis_autokmsg);
-        whatis_autokmsg.setOnClickListener(switchClickListener);
-
-        whatis_autorillog = (ImageView) findViewById(R.id.whatis_autorillog);
-        whatis_autorillog.setOnClickListener(switchClickListener);
-
         sharedPref = PreferenceManager.getDefaultSharedPreferences(this); 
         prepareUI();
  
     }
 
     private void prepareUI(){ 
-        charger_show_datetime.setChecked(FunctionsMain.getChargerShowDateTime());
-        charger_no_suspend.setChecked(FunctionsMain.getChargerNoSuspend());
-        autologcat.setChecked(sharedPref.getBoolean("autologcat",false));
-        autokmsg.setChecked(sharedPref.getBoolean("autokmsg",false));
-        autoril.setChecked(sharedPref.getBoolean("autoril",false));
-
 	if(FunctionsMain.usb_host_is_supported())
 	    otg.setChecked(FunctionsMain.usb_host_mode_is_on());
 	else
@@ -158,37 +119,22 @@ public class MainActivity extends Activity {
 
             ImageView thisSwitch = (ImageView)view;
             if(thisSwitch == whatis_otg){
-                ShowDialog("USB Host Mode",FunctionsMain.usb_host_is_supported() ? getString(R.string.otg_desc) : getString(R.string.not_supported));
+                ShowDialog(getResources().getString(R.string.otg_title),FunctionsMain.usb_host_is_supported() ? getString(R.string.otg_desc) : getString(R.string.not_supported));
             }
             else if(thisSwitch == whatis_dt2w){
-                ShowDialog("Doubletap 2 Wake",FunctionsMain.dt2w_is_supported() ? getString(R.string.dt2w_desc) : getString(R.string.not_supported));
+                ShowDialog(getResources().getString(R.string.dt2w_title),FunctionsMain.dt2w_is_supported() ? getString(R.string.dt2w_desc) : getString(R.string.not_supported));
             }
             else if(thisSwitch == whatis_sensorex){
-                ShowDialog("SensorsEx",getString(R.string.sensorex_desc));
+                ShowDialog(getResources().getString(R.string.sensorex_title),getString(R.string.sensorex_desc));
             }
             else if(thisSwitch == whatis_google_enc){
-                ShowDialog("Workaround: Google Encoder",getString(R.string.google_enc_desc));
+                ShowDialog(getResources().getString(R.string.google_enc_title),getString(R.string.google_enc_desc));
             }
             else if(thisSwitch == whatis_glove){
-                ShowDialog("Touchscreen: Glove Mode",FunctionsMain.glove_mode_is_supported() ? getString(R.string.glove_desc) : getString(R.string.not_supported));
-            }
-            else if(thisSwitch == whatis_charger_show_datetime){
-                ShowDialog("Date and Time in Charger",getString(R.string.charger_showdatetime_desc));
+                ShowDialog(getResources().getString(R.string.glove_title),FunctionsMain.glove_mode_is_supported() ? getString(R.string.glove_desc) : getString(R.string.not_supported));
             }
             else if(thisSwitch == whatis_sim2){
-                ShowDialog("SIM 2",getString(R.string.sim2_desc));
-            }
-            else if(thisSwitch == whatis_charger_no_suspend){
-                ShowDialog("No Suspend in Charger",getString(R.string.charger_nosuspend_desc));
-            }
-            else if(thisSwitch == whatis_autologcat){
-                ShowDialog("Auto Logcat",getString(R.string.autologcat_desc));
-            }
-            else if(thisSwitch == whatis_autokmsg){
-                ShowDialog("Auto kmsg",getString(R.string.autokmsg_desc));
-            }
-            else if(thisSwitch == whatis_autorillog){
-                ShowDialog("Auto kmsg",getString(R.string.autorillog_desc));
+                ShowDialog(getResources().getString(R.string.sim2_title),getString(R.string.sim2_desc));
             }
         }
     };
@@ -225,51 +171,12 @@ public class MainActivity extends Activity {
             else if(thisSwitch == google_enc){
                 SystemProperties.set("persist.sys.google_avc_enc",String.valueOf(b));
             }
-            else if(thisSwitch == charger_show_datetime){
-                FunctionsMain.setChargerShowDateTime(b);
-            }
             else if(thisSwitch == sim2){
 		if(b)
                     SystemProperties.set("persist.radio.multisim.config","dsds");
 		else
                     SystemProperties.set("persist.radio.multisim.config","single");
 
-            }
-            else if(thisSwitch == charger_no_suspend){
-                FunctionsMain.setChargerNoSuspend(b);
-            } 
-            else if(thisSwitch == autologcat){
-                if(b != sharedPref.getBoolean("autologcat",false))
-                {
-                    if(b)
-                        ShowDialog("Auto logcat","Will be started on the next reboot.");
-                    else
-                        ShowDialog("Auto logcat","Will NOT be started on the next reboot. "+
-                                "Still running till then");
-                }
-                editor.putBoolean("autologcat", b);
-            }
-            else if(thisSwitch == autokmsg){
-                if(b != sharedPref.getBoolean("autokmsg",false))
-                {
-                    if(b)
-                        ShowDialog("Auto kmsg","Will be started on the next reboot.");
-                    else
-                        ShowDialog("Auto kmsg","Will NOT be started on the next reboot. "+
-                                "Still running till then");
-                }
-                editor.putBoolean("autokmsg", b);
-            }
-            else if(thisSwitch == autoril){
-                if(b != sharedPref.getBoolean("autoril",false))
-                {
-                    if(b)
-                        ShowDialog("Auto RIL log","Will be started on the next reboot.");
-                    else
-                        ShowDialog("Auto RIL log","Will NOT be started on the next reboot. "+
-                                "Still running till then");
-                }
-                editor.putBoolean("autoril", b);
             }
             editor.apply();
         }
