@@ -37,7 +37,6 @@
                         android:layout_height="wrap_content"
                         android:text="@string/development_name"
                         android:id="@+id/textView"
-                        android:typeface="monospace"
                         android:padding="5dp"
                         android:textSize="15dp"
                         android:gravity="center_vertical|center_horizontal" />
@@ -48,7 +47,6 @@
                         android:textAppearance="?android:attr/textAppearanceMedium"
                         android:text="@string/sponsors"
                         android:id="@+id/textView2"
-                        android:typeface="monospace"
                         android:textStyle="bold|italic"
                         android:gravity="center_vertical|center_horizontal" />
 
@@ -58,7 +56,6 @@
                         android:textAppearance="?android:attr/textAppearanceSmall"
                         android:text="@string/sponsor_thank_you"
                         android:id="@+id/textView3"
-                        android:typeface="monospace"
                         android:padding="5dp"
                         android:textStyle="italic"
                         android:gravity="center_vertical|center_horizontal"
