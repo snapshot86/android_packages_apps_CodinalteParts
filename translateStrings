@@ -1,0 +1,63 @@
+#!/bin/bash
+
+FILENAME="${1}"
+
+WORKING_FILE="";
+translate_code() {
+CODE="${1}"
+mkdir -p res/values-$CODE
+WORKING_FILE="res/values-$CODE/$FILENAME"
+if [[ -e $WORKING_FILE ]]; then
+echo "--skipping code $CODE"
+return
+fi
+rm $WORKING_FILE
+echo '<?xml version="1.0" encoding="utf-8"?>' > $WORKING_FILE
+echo '<resources>' >> $WORKING_FILE
+while read line
+do
+    tag="$(echo $line | cut -d '>' -f1)>"
+    endtag="<$(echo $line | cut -d '<' -f3)"
+    string="$(echo $line | cut -d '>' -f2 | cut -d '<' -f1)"
+    if [[ "$tag" != <string* ]]; then
+        echo "skipping; not a string: $line"
+        continue;
+    fi
+    if [[ "$string" == "" ]]; then
+        echo "skipping; empty string: $line"
+	continue
+    fi
+    trans_string=$(trans -b -no-auto en:$CODE \'$string\')
+    trans_string=$(echo $trans_string | sed s/\"//g | sed s/\'//g);
+    if [[ $(echo $line | grep -c 'name=') -eq 1 ]]; then
+	echo "$string -> $trans_string"
+    	echo "$tag$trans_string$endtag" >> $WORKING_FILE
+    fi
+done < "res/values/$FILENAME"
+echo '</resources>' >> $WORKING_FILE
+
+}
+clean_up() {
+if [[ -e $WORKING_FILE ]]; then
+    rm $WORKING_FILE
+    echo
+    echo "User Interupt removed working file: $WORKING_FILE"
+    exit 0
+fi
+}
+
+trap clean_up SIGHUP SIGINT SIGTERM
+
+if [[ "$FILENAME" == "" ]]; then
+    FILENAME="strings.xml"
+fi
+
+echo "Translating values in file $FILENAME"
+
+while read line
+do
+L="$(echo $line | cut -d ':' -f1)"
+CODE="$(echo $line | cut -d ':' -f2)"
+echo "Translating to $L"
+translate_code "$CODE"
+done < langlist.txt
