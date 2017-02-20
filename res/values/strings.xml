@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
     <string name="development_name">Meticulus Development</string>
-    <string name="extras_section_name">Extras</string>
+    <string name="extras_section_name">Extra</string>
     <string name="app_name">Codinalte Parts</string>
     <string name="kernel_header">KERNEL</string> 
     <string name="otg_title">USB Host Mode</string>
@@ -21,33 +20,18 @@
     <string name="autokmsg_title">Auto kmsg</string>
     <string name="autoril_title">Auto RIL log</string>
     <string name="action_settings">Settings</string>
-    <string name="dt2w_desc">Allows you to wake the device by double tapping on the screen.
-	</string>
-    <string name="otg_desc">Allows you to connect usb drives. When activated other device related
-	USB functions, such as adb and mtp, will not be available until this is disabled or the
-	device is rebooted.
-	</string>
-    <string name="glove_desc">Enables "glove" mode on the touchscreen. Apparently increases the
-	sensativity of the touch screen so touches can be registered while wearing gloves?
-	</string>
-    <string name="sim2_desc">Enables the second sim. This should not be activated unless there is
-	a sim card in the second slot. (Requires Reboot!)</string>
-    <string name="google_enc_desc">This works around issues with Snapchat, Instagram and other video recording apps. 
-	Uses the google avc encoder instead of the hw avc encoder. You may need to restart the app or restart the device
-	before this setting takes effect. This may also cause some video recording apps not to work.</string>
-    <string name="charger_showdatetime_desc">Displays the date and time on the offline charging
-    screen.</string>
+    <string name="dt2w_desc">Allows you to wake the device by double tapping on the screen.</string>
+    <string name="otg_desc">Allows you to connect usb drives. When activated other device related USB functions, such as adb and mtp, will not be available until this is disabled or the device is rebooted.</string>
+    <string name="glove_desc">Enables "glove" mode on the touchscreen. Apparently increases the sensativity of the touch screen so touches can be registered while wearing gloves?</string>
+    <string name="sim2_desc">Enables the second sim. This should not be activated unless there is a sim card in the second slot. (Requires Reboot!)</string>
+    <string name="google_enc_desc">This works around issues with Snapchat, Instagram and other video recording apps. Uses the google avc encoder instead of the hw avc encoder. You may need to restart the app or restart the device before this setting takes effect. This may also cause some video recording apps not to work.</string>
+    <string name="charger_showdatetime_desc">Displays the date and time on the offline charging screen.</string>
     <string name="charger_nosuspend_desc">Keeps the offline charging screen on.</string>
-    <string name="autologcat_desc">Auto logcat enables automatic dumping of the log
-    to a file in the root of the sdcard. Does not clean up after itself. Should
-    probably keep this off unless I ask you to turn it on.</string>
-    <string name="autokmsg_desc">Auto kmsg enables automatic dumping of the kernel log
-    to a file in the root of the sdcard. Does not clean up after itself. Should
-    probably keep this off unless I ask you to turn it on.</string>
-    <string name="autorillog_desc">Auto ril log enables automatic dumping of the Radio log
-    to a file in the root of the sdcard. Does not clean up after itself. Should
-    probably keep this off unless I ask you to turn it on.</string>
-    <string name="title_activity_sposnsors">Sponsors</string>
+    <string name="sensorex_desc">Test experimental gyroscope sensor! (Requires Reboot)</string>
+    <string name="autologcat_desc">Auto logcat enables automatic dumping of the log to a file in the root of the sdcard. Does not clean up after itself. Should probably keep this off unless I ask you to turn it on.</string>
+    <string name="autokmsg_desc">Auto kmsg enables automatic dumping of the kernel log to a file in the root of the sdcard. Does not clean up after itself. Should probably keep this off unless I ask you to turn it on.</string>
+    <string name="autorillog_desc">Auto ril log enables automatic dumping of the Radio log to a file in the root of the sdcard. Does not clean up after itself. Should probably keep this off unless I ask you to turn it on.</string>
+    <string name="sponsors">Sponsors</string>
     <string name="not_supported">Not supported by this device...</string>
-
+    <string name="sponsor_thank_you">Thank you all for you support!</string>
 </resources>
