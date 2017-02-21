@@ -19,7 +19,7 @@ do
     tag="$(echo $line | cut -d '>' -f1)>"
     endtag="<$(echo $line | cut -d '<' -f3)"
     string="$(echo $line | cut -d '>' -f2 | cut -d '<' -f1)"
-    if [[ "$tag" != <string* ]]; then
+    if [[ "$tag" != "<string"* ]]; then
         echo "skipping; not a string: $line"
         continue;
     fi
