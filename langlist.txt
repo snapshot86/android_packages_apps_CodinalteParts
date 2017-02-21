@@ -20,7 +20,6 @@ Danish:da
 Dutch:nl
 Esperanto:eo
 Estonian:et
-Fijian:fj
 Filipino:tl
 Finnish:fi
 French:fr
@@ -88,10 +87,8 @@ Swahili:sw
 Swedish:sv 
 Tajik:tg 
 Tamil:ta
-Tatar:tt 
 Telugu:te 
 Thai:th 
-Tongan:to 
 Turkish:tr 
 Ukrainian:uk
 Urdu:ur 
