@@ -3,6 +3,35 @@
 FILENAME="${1}"
 
 WORKING_FILE="";
+
+translate_string() {
+string=${1}
+code=${2}
+empty_retry=0
+while true
+do
+    trans_string=$(timeout --kill-after=58s 60s trans -b -no-auto en:$code \'$string\')
+    error=$?
+    if [[ $error -eq 0 ]]; then
+	if [[ "$trans_string" == "" ]]; then
+	    >&2  echo "Empty trans: retrying..."
+	    empty_retry=$[empty_retry + 1]
+	    if [[ $empty_retry -gt 5 ]]; then
+		echo $string
+		empty_retry=0
+		break;
+	    fi
+	    continue
+	else
+	    echo $trans_string
+	fi
+	break;
+    fi
+    >&2 echo "Timeout: retrying..."
+done
+
+}
+
 translate_code() {
 CODE="${1}"
 mkdir -p res/values-$CODE
@@ -27,7 +56,7 @@ do
         echo "skipping; empty string: $line"
 	continue
     fi
-    trans_string=$(trans -b -no-auto en:$CODE \'$string\')
+    trans_string=$(translate_string "$string" "$CODE")
     trans_string=$(echo $trans_string | sed s/\"//g | sed s/\'//g);
     if [[ $(echo $line | grep -c 'name=') -eq 1 ]]; then
 	echo "$string -> $trans_string"
