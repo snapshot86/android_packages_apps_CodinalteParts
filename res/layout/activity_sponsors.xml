@@ -71,7 +71,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/t_nissecke_23082" >
+                android:id="@+id/t_nissecke_7236" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -87,7 +87,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/t_nissecke_23082"
+                    android:text="@string/t_nissecke_7236"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -98,7 +98,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/d_hopf_13696" >
+                android:id="@+id/d_hopf_19911" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -114,7 +114,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/d_hopf_13696"
+                    android:text="@string/d_hopf_19911"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -125,7 +125,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/p_bradeen_2544" >
+                android:id="@+id/p_bradeen_22945" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -141,7 +141,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/p_bradeen_2544"
+                    android:text="@string/p_bradeen_22945"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -152,7 +152,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/j_gudec_30628" >
+                android:id="@+id/j_gudec_6238" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -168,7 +168,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/j_gudec_30628"
+                    android:text="@string/j_gudec_6238"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -179,7 +179,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/e_rodriguez_18130" >
+                android:id="@+id/e_rodriguez_17674" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -195,7 +195,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/e_rodriguez_18130"
+                    android:text="@string/e_rodriguez_17674"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -206,7 +206,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/m_edwards_16213" >
+                android:id="@+id/m_edwards_15714" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -222,7 +222,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/m_edwards_16213"
+                    android:text="@string/m_edwards_15714"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -233,7 +233,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/a_gndz_6541" >
+                android:id="@+id/a_gndz_29369" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -249,7 +249,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/a_gndz_6541"
+                    android:text="@string/a_gndz_29369"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -260,7 +260,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/m_pttker_12008" >
+                android:id="@+id/m_pttker_28056" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -276,7 +276,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/m_pttker_12008"
+                    android:text="@string/m_pttker_28056"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -287,7 +287,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/l_johan_16522" >
+                android:id="@+id/l_johan_17500" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -303,7 +303,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/l_johan_16522"
+                    android:text="@string/l_johan_17500"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -314,7 +314,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/m_katz_9409" >
+                android:id="@+id/m_katz_12486" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -330,7 +330,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/m_katz_9409"
+                    android:text="@string/m_katz_12486"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -341,7 +341,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/j_fontenot_13047" >
+                android:id="@+id/j_fontenot_7618" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -357,7 +357,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/j_fontenot_13047"
+                    android:text="@string/j_fontenot_7618"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -368,7 +368,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/r_nicholas_10992" >
+                android:id="@+id/r_nicholas_12511" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -384,7 +384,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/r_nicholas_10992"
+                    android:text="@string/r_nicholas_12511"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -395,7 +395,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/k_mikulski_2540" >
+                android:id="@+id/k_mikulski_14118" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -411,7 +411,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/k_mikulski_2540"
+                    android:text="@string/k_mikulski_14118"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -422,7 +422,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/j_schramm_3231" >
+                android:id="@+id/j_schramm_18881" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -438,7 +438,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/j_schramm_3231"
+                    android:text="@string/j_schramm_18881"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -449,7 +449,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/j_lin_8587" >
+                android:id="@+id/j_lin_16076" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -465,7 +465,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/j_lin_8587"
+                    android:text="@string/j_lin_16076"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -476,7 +476,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/f_sterneder_15197" >
+                android:id="@+id/f_sterneder_22939" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -492,7 +492,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/f_sterneder_15197"
+                    android:text="@string/f_sterneder_22939"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -503,7 +503,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/e_brand_1444" >
+                android:id="@+id/e_brand_20546" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -519,7 +519,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/e_brand_1444"
+                    android:text="@string/e_brand_20546"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -530,7 +530,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/m_katz_1360" >
+                android:id="@+id/m_katz_8287" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -546,7 +546,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/m_katz_1360"
+                    android:text="@string/m_katz_8287"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -557,7 +557,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/v_medina_26321" >
+                android:id="@+id/v_medina_20340" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -573,7 +573,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/v_medina_26321"
+                    android:text="@string/v_medina_20340"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -584,7 +584,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/t_torri_14156" >
+                android:id="@+id/t_torri_1067" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -600,7 +600,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/t_torri_14156"
+                    android:text="@string/t_torri_1067"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -611,7 +611,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/s_yasin_660" >
+                android:id="@+id/s_yasin_13115" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -627,7 +627,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/s_yasin_660"
+                    android:text="@string/s_yasin_13115"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -638,7 +638,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/r_ltd_22330" >
+                android:id="@+id/r_ltd_6474" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -654,7 +654,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/r_ltd_22330"
+                    android:text="@string/r_ltd_6474"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -665,7 +665,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/r_vacenovsky_12627" >
+                android:id="@+id/r_vacenovsky_30154" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -681,7 +681,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/r_vacenovsky_12627"
+                    android:text="@string/r_vacenovsky_30154"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -692,7 +692,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/n_spearman_32021" >
+                android:id="@+id/n_spearman_14681" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -708,7 +708,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/n_spearman_32021"
+                    android:text="@string/n_spearman_14681"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -719,7 +719,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/n_vaughn_3391" >
+                android:id="@+id/n_vaughn_1604" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -735,7 +735,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/n_vaughn_3391"
+                    android:text="@string/n_vaughn_1604"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -746,7 +746,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/m_enterprises_21945" >
+                android:id="@+id/m_enterprises_26891" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -762,7 +762,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/m_enterprises_21945"
+                    android:text="@string/m_enterprises_26891"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -773,7 +773,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/m_cornet_9459" >
+                android:id="@+id/m_cornet_22833" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -789,7 +789,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/m_cornet_9459"
+                    android:text="@string/m_cornet_22833"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -800,7 +800,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/m_rintanen_23858" >
+                android:id="@+id/m_rintanen_22839" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -816,7 +816,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/m_rintanen_23858"
+                    android:text="@string/m_rintanen_22839"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -827,7 +827,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/m_rigg_626" >
+                android:id="@+id/m_rigg_11370" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -843,7 +843,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/m_rigg_626"
+                    android:text="@string/m_rigg_11370"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -854,7 +854,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/l_hiatt_3339" >
+                android:id="@+id/l_hiatt_29835" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -870,7 +870,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/l_hiatt_3339"
+                    android:text="@string/l_hiatt_29835"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -881,7 +881,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/j_warner_32600" >
+                android:id="@+id/j_warner_3834" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -897,7 +897,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/j_warner_32600"
+                    android:text="@string/j_warner_3834"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -908,7 +908,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/j_hall_27398" >
+                android:id="@+id/j_hall_19432" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -924,7 +924,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/j_hall_27398"
+                    android:text="@string/j_hall_19432"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -935,7 +935,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/h_hwang_30444" >
+                android:id="@+id/h_hwang_1535" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -951,7 +951,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/h_hwang_30444"
+                    android:text="@string/h_hwang_1535"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -962,7 +962,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/f_steinmetz_3200" >
+                android:id="@+id/f_steinmetz_13381" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -978,7 +978,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/f_steinmetz_3200"
+                    android:text="@string/f_steinmetz_13381"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -989,7 +989,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/f_bervas_15666" >
+                android:id="@+id/f_bervas_21901" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -1005,7 +1005,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/f_bervas_15666"
+                    android:text="@string/f_bervas_21901"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -1016,7 +1016,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/e_morales_12891" >
+                android:id="@+id/e_morales_19092" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -1032,7 +1032,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/e_morales_12891"
+                    android:text="@string/e_morales_19092"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -1043,7 +1043,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/d_mitev_5415" >
+                android:id="@+id/d_mitev_21835" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -1059,7 +1059,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/d_mitev_5415"
+                    android:text="@string/d_mitev_21835"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -1070,7 +1070,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/d_genin_19362" >
+                android:id="@+id/d_genin_24453" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -1086,7 +1086,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/d_genin_19362"
+                    android:text="@string/d_genin_24453"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -1097,7 +1097,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/j_duncan_13768" >
+                android:id="@+id/j_duncan_5445" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -1113,7 +1113,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/j_duncan_13768"
+                    android:text="@string/j_duncan_5445"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -1124,7 +1124,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/p_weaver_25253" >
+                android:id="@+id/a_andreytkachenko64_994" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -1140,7 +1140,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/p_weaver_25253"
+                    android:text="@string/a_andreytkachenko64_994"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -1151,7 +1151,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/v_flabat_32461" >
+                android:id="@+id/p_weaver_2148" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -1167,7 +1167,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/v_flabat_32461"
+                    android:text="@string/p_weaver_2148"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -1178,7 +1178,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/v_ptri_23691" >
+                android:id="@+id/v_flabat_4837" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -1194,7 +1194,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/v_ptri_23691"
+                    android:text="@string/v_flabat_4837"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -1205,7 +1205,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/t_smith_26570" >
+                android:id="@+id/v_ptri_6677" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -1221,7 +1221,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/t_smith_26570"
+                    android:text="@string/v_ptri_6677"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -1232,7 +1232,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/s_barrett_6211" >
+                android:id="@+id/t_smith_5228" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -1248,7 +1248,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/s_barrett_6211"
+                    android:text="@string/t_smith_5228"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -1259,7 +1259,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/s_spiegel_25205" >
+                android:id="@+id/s_barrett_21949" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -1275,7 +1275,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/s_spiegel_25205"
+                    android:text="@string/s_barrett_21949"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -1286,7 +1286,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/r_plunkett_28550" >
+                android:id="@+id/s_spiegel_8782" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -1302,7 +1302,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/r_plunkett_28550"
+                    android:text="@string/s_spiegel_8782"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -1313,7 +1313,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/r_rebaterealm_26230" >
+                android:id="@+id/r_plunkett_13891" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -1329,7 +1329,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/r_rebaterealm_26230"
+                    android:text="@string/r_plunkett_13891"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -1340,7 +1340,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/n_software_27409" >
+                android:id="@+id/r_rebaterealm_4545" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -1356,7 +1356,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/n_software_27409"
+                    android:text="@string/r_rebaterealm_4545"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -1367,7 +1367,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/m_jones_11723" >
+                android:id="@+id/n_software_15472" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -1383,7 +1383,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/m_jones_11723"
+                    android:text="@string/n_software_15472"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -1394,7 +1394,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/m_frelick_7605" >
+                android:id="@+id/m_jones_846" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -1410,7 +1410,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/m_frelick_7605"
+                    android:text="@string/m_jones_846"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -1421,7 +1421,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/l_leavitt_2129" >
+                android:id="@+id/m_frelick_30412" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -1437,7 +1437,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/l_leavitt_2129"
+                    android:text="@string/m_frelick_30412"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -1448,7 +1448,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/k_louque_12721" >
+                android:id="@+id/l_leavitt_26043" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -1464,7 +1464,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/k_louque_12721"
+                    android:text="@string/l_leavitt_26043"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -1475,7 +1475,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/j_tindall_29404" >
+                android:id="@+id/k_louque_1892" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -1491,7 +1491,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/j_tindall_29404"
+                    android:text="@string/k_louque_1892"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -1502,7 +1502,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/j_scotti_28797" >
+                android:id="@+id/j_tindall_20149" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -1518,7 +1518,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/j_scotti_28797"
+                    android:text="@string/j_tindall_20149"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -1529,7 +1529,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/j_feliciano_17755" >
+                android:id="@+id/j_scotti_27359" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -1545,7 +1545,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/j_feliciano_17755"
+                    android:text="@string/j_scotti_27359"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -1556,7 +1556,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/j_timothy_27873" >
+                android:id="@+id/j_feliciano_4642" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -1572,7 +1572,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/j_timothy_27873"
+                    android:text="@string/j_feliciano_4642"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -1583,7 +1583,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/h_elghahuagi_16652" >
+                android:id="@+id/j_timothy_3535" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -1599,7 +1599,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/h_elghahuagi_16652"
+                    android:text="@string/j_timothy_3535"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -1610,7 +1610,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/f_ramos_31874" >
+                android:id="@+id/h_elghahuagi_17760" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -1626,7 +1626,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/f_ramos_31874"
+                    android:text="@string/h_elghahuagi_17760"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -1637,7 +1637,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/f_tamborra_31421" >
+                android:id="@+id/f_ramos_8679" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -1653,7 +1653,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/f_tamborra_31421"
+                    android:text="@string/f_ramos_8679"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -1664,7 +1664,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/e_gro_6576" >
+                android:id="@+id/f_tamborra_24868" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -1680,7 +1680,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/e_gro_6576"
+                    android:text="@string/f_tamborra_24868"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -1691,7 +1691,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/d_banga_7661" >
+                android:id="@+id/e_gro_2625" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -1707,7 +1707,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/d_banga_7661"
+                    android:text="@string/e_gro_2625"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -1718,7 +1718,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/c_reynolds_17667" >
+                android:id="@+id/d_banga_16940" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -1734,7 +1734,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/c_reynolds_17667"
+                    android:text="@string/d_banga_16940"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -1745,7 +1745,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/b_callens_1177" >
+                android:id="@+id/c_reynolds_3507" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -1761,7 +1761,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/b_callens_1177"
+                    android:text="@string/c_reynolds_3507"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -1772,7 +1772,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/a_hin_4520" >
+                android:id="@+id/b_callens_29090" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -1788,7 +1788,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/a_hin_4520"
+                    android:text="@string/b_callens_29090"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -1799,7 +1799,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/a_angerstein_24866" >
+                android:id="@+id/a_hin_22092" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -1815,7 +1815,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/a_angerstein_24866"
+                    android:text="@string/a_hin_22092"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -1826,7 +1826,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/a_march_569" >
+                android:id="@+id/a_angerstein_16657" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -1842,7 +1842,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/a_march_569"
+                    android:text="@string/a_angerstein_16657"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -1853,7 +1853,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/s_razvan_8644" >
+                android:id="@+id/a_march_25429" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -1869,7 +1869,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/s_razvan_8644"
+                    android:text="@string/a_march_25429"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -1880,7 +1880,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/s_gordon_31835" >
+                android:id="@+id/s_razvan_2772" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -1896,7 +1896,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/s_gordon_31835"
+                    android:text="@string/s_razvan_2772"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -1907,7 +1907,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/b_sprouse_23057" >
+                android:id="@+id/s_gordon_6692" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -1923,7 +1923,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/b_sprouse_23057"
+                    android:text="@string/s_gordon_6692"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -1934,7 +1934,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/j_van_9062" >
+                android:id="@+id/b_sprouse_24530" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -1950,7 +1950,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/j_van_9062"
+                    android:text="@string/b_sprouse_24530"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -1961,7 +1961,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/j_lewis_15674" >
+                android:id="@+id/j_van_27448" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -1977,7 +1977,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/j_lewis_15674"
+                    android:text="@string/j_van_27448"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -1988,7 +1988,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/g_laporta_22338" >
+                android:id="@+id/j_lewis_12124" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -2004,7 +2004,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/g_laporta_22338"
+                    android:text="@string/j_lewis_12124"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -2015,7 +2015,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/c_fleming_13187" >
+                android:id="@+id/g_laporta_29750" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -2031,7 +2031,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/c_fleming_13187"
+                    android:text="@string/g_laporta_29750"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -2042,7 +2042,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/a_nenchoo_29618" >
+                android:id="@+id/c_fleming_9017" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -2058,7 +2058,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/a_nenchoo_29618"
+                    android:text="@string/c_fleming_9017"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -2069,7 +2069,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/a_mundy_21943" >
+                android:id="@+id/a_nenchoo_5213" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -2085,7 +2085,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/a_mundy_21943"
+                    android:text="@string/a_nenchoo_5213"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -2096,7 +2096,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/s_seng_28100" >
+                android:id="@+id/a_mundy_3543" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -2112,7 +2112,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/s_seng_28100"
+                    android:text="@string/a_mundy_3543"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -2123,7 +2123,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/r_jones_28170" >
+                android:id="@+id/s_seng_14095" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -2139,7 +2139,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/r_jones_28170"
+                    android:text="@string/s_seng_14095"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -2150,7 +2150,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/o_f_25739" >
+                android:id="@+id/r_jones_29350" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -2166,7 +2166,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/o_f_25739"
+                    android:text="@string/r_jones_29350"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -2177,7 +2177,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/m_cokain_26130" >
+                android:id="@+id/o_f_8552" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -2193,7 +2193,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/m_cokain_26130"
+                    android:text="@string/o_f_8552"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -2204,7 +2204,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/e_olszewska_23285" >
+                android:id="@+id/m_cokain_24867" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -2220,7 +2220,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/e_olszewska_23285"
+                    android:text="@string/m_cokain_24867"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -2231,7 +2231,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/d_dauria_5841" >
+                android:id="@+id/e_olszewska_30945" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -2247,7 +2247,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/d_dauria_5841"
+                    android:text="@string/e_olszewska_30945"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -2258,7 +2258,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/d_alleyne_13028" >
+                android:id="@+id/d_dauria_4115" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -2274,7 +2274,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/d_alleyne_13028"
+                    android:text="@string/d_dauria_4115"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -2285,7 +2285,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/b_garcia_18822" >
+                android:id="@+id/d_alleyne_29108" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -2301,7 +2301,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/b_garcia_18822"
+                    android:text="@string/d_alleyne_29108"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
@@ -2312,7 +2312,7 @@
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/a_perez_544" >
+                android:id="@+id/b_garcia_1962" >
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -2328,7 +2328,34 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:text="@string/a_perez_544"
+                    android:text="@string/b_garcia_1962"
+                    android:textAlignment="gravity"
+                    android:singleLine="true"
+                    android:layout_gravity="center"
+                    android:gravity="center_vertical"
+                    android:textStyle="italic" />
+            </LinearLayout>
+             <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/a_perez_11771" >
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/sponsor"
+                    android:padding="5dp"
+                    android:maxHeight="30dp"
+                    android:maxWidth="30dp"
+                    android:minHeight="30dp"
+                    android:minWidth="30dp" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="@string/a_perez_11771"
                     android:textAlignment="gravity"
                     android:singleLine="true"
                     android:layout_gravity="center"
