@@ -3,14 +3,14 @@
     <string name="development_name">Meticulus Development</string>
     <string name="extras_section_name">Extra</string>
     <string name="app_name">Meticulus Parts</string>
-    <string name="kernel_header">KERNEL</string> 
+    <string name="kernel_header">Kernel</string> 
     <string name="otg_title">USB Host Mode</string>
     <string name="sensorex_title">Experimental Sensors</string>
     <string name="glove_title">Glove Mode</string>
     <string name="dt2w_title">Double Touch To Wake</string>
-    <string name="network_header">NETWORKING</string>
+    <string name="network_header">Network</string>
     <string name="sim2_title">Sim Card Slot 2</string>
-    <string name="workaround_header">WORKAROUNDS</string>
+    <string name="workaround_header">Work Around</string>
     <string name="google_enc_title">Use Google H264</string>
     <string name="action_settings">Settings</string>
     <string name="dt2w_desc">Allows you to wake the device by double tapping on the screen.</string>
