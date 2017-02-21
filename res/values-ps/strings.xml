@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">suluciteM  ایتخارپ</string>
+<string name="extras_section_name">وړګناځ</string>
+<string name="app_name">suluciteM  وخرب</string>
+<string name="kernel_header">Kernel</string>
+<string name="otg_title">BSU هبروک  رکا</string>
+<string name="sensorex_title">يوبرجت  سح</string>
+<string name="glove_title">هشکتسد  رکا</string>
+<string name="dt2w_title">elbuoD سمل هت  هتسورو</string>
+<string name="network_header"> ېکبش د</string>
+<string name="sim2_title">میس draC ۍکوڅ د  2</string>
+<string name="workaround_header">راک د  اوخواش</string>
+<string name="google_enc_title">لوراک elgooG  462H</string>
+<string name="action_settings">Settings</string>
+<string name="dt2w_desc">يوکرو هزاجا هت وسات هت هبوخ هل د هلآ اوخ هل هود هل تیلم د هپ د  .هدرپ</string>
+<string name="otg_desc">يوکرو هزاجا هت وسات هت يولښن هرس BSU .لیاسو هلك هلاعف رون هلآ دنوړا BSU ،ودند لوډ هګوت هپ ايسآ د وا ،نیعرتخم هب هن يو هتش رت ېد هد ونيلولعم ای وا د هلآ هد .detoober هن لوټ BSU يکوت هب  .يړکو راک</string>
+<string name="glove_desc">ېلاوتایز د د تیساسح د د سمل هدرپ ون يشانحلا يش یالوک يو تبث ېک لاح ېساد هپ لتسوغا  .وشکتسد</string>
+<string name="sim2_desc">اوت ېدد د مهود میس تراک .ۍکوڅ د اد دياب هن يو هلاعف رګم هتله هد وی میس تراک هپ د مهود .ۍکوڅ د يرل ايتړا هت(  !)toobeR</string>
+<string name="google_enc_desc">اد دياوف د اوخواش تاعوضوم هرس ،tahcpanS مارګاټسنا وا رون ویډیو تبث .هنوکیلنتښوغ يټګ هغه د elgoog cva redocne یاځ رپ د د WH cva .redocne وسات یم يرل ایتړا هت هت لوک هناښور ایب د نشیکیلپا ای وا لوک هناښور ایب د هلآ هل ېکخم ېد ولوړوج د يلخا .رثا اد یم مه لمال رېمش وي ویډیو تبث هنوکیلنتښوغ هن هت  .يړکو راک</string>
+<string name="sensorex_desc">هنیومزا يتښېمزآ epocsoryg !رسنیس يرل ايتړا هت(  )toobeR</string>
+<string name="sponsors">لېا يډ</string>
+<string name="not_supported">هن ړتالم اوخ هل ېد  ...هلآ</string>
+<string name="sponsor_thank_you">هننم وسات لوټ هراپل وسات ! ړتالم</string>
+</resources>

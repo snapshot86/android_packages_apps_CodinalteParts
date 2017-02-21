@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus Ontwikkeling</string>
+<string name="extras_section_name">Ekstra</string>
+<string name="app_name">Meticulus Dele</string>
+<string name="kernel_header">Kern</string>
+<string name="otg_title">n USB host Wyse</string>
+<string name="sensorex_title">Eksperimentele sensors</string>
+<string name="glove_title">Glove Wyse</string>
+<string name="dt2w_title">Dubbel raak om Wake </string>
+<string name="network_header">Netwerk</string>
+<string name="sim2_title">sim Kaart Slot 2 </string>
+<string name="workaround_header">Werk rondom </string>
+<string name="google_enc_title">Gebruik Google H264 </string>
+<string name="action_settings">Stellings</string>
+<string name="dt2w_desc">Laat jy om wakker die toestel deur dubbel afluister op die skerm.</string>
+<string name="otg_desc">Laat jy om verbind USB toestelle. Wanneer geaktiveer ander toestel verwante USB funksies, soos soos ADB en MTP, sal nie wees beskikbaar totdat hierdie is gestremde of die toestel is weer begin. nie almal USB toestelle sal werk.</string>
+<string name="glove_desc">Verhogings die sensitiwiteit van die raak skerm sodat raak kan wees geregistreer terwyl dra handskoene.</string>
+<string name="sim2_desc">In staat stel om die tweede sim kaart slot. dit moet nie wees geaktiveer tensy daar is n sim kaart in die tweede slot. (Vereis Herlaai!) </string>
+<string name="google_enc_desc">Dit werke rondom kwessies met Snapchat, Instagram en ander video opname programme. Gebruike die Google AVC encoder plaas van die HW AVC encoder. jy mag nodig om begin oor die artikels of begin oor die toestel voor hierdie omgewing neem effek. dit mag ook oorsaak sommige video opname programme nie om werk.</string>
+<string name="sensorex_desc">toets eksperimentele gyroscoop sensor! (Vereis Reboot) </string>
+<string name="sponsors">Borge</string>
+<string name="not_supported">Nie ondersteun deur hierdie toestel...</string>
+<string name="sponsor_thank_you">Dankie jy almal vir jy ondersteun!</string>
+</resources>

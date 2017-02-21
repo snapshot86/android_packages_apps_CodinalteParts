@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus Sviluppo</string>
+<string name="extras_section_name">Extra</string>
+<string name="app_name">Meticulus Parti</string>
+<string name="kernel_header">Kernel</string>
+<string name="otg_title">USB Ospite Modalità</string>
+<string name="sensorex_title">Sperimentale sensori </string>
+<string name="glove_title">Guanto Modalità</string>
+<string name="dt2w_title">Raddoppiare Toccare A Wake </string>
+<string name="network_header">Rete</string>
+<string name="sim2_title">Sim Carta Fessura 2 </string>
+<string name="workaround_header">Lavoro In giro</string>
+<string name="google_enc_title">Uso Google H264 </string>
+<string name="action_settings">Impostazioni</string>
+<string name="dt2w_desc">Permette tu a svegliare il dispositivo di raddoppiare maschiatura sopra il schermo.</string>
+<string name="otg_desc">Permette tu a Collegare USB dispositivi. quando attivato altro dispositivo relazionato USB funzioni, come come ADB e MTP, volere non essere a disposizione fino a Questo è Disabilitato o il dispositivo è riavviato. Non tutti USB dispositivi volere lavoro.</string>
+<string name="glove_desc">Aumenti il sensibilità di il toccare schermo così tocchi può essere registrato mentre indossare guanti.</string>
+<string name="sim2_desc">Abilita il secondo sim carta fessura. Questo dovrebbero non essere attivato salvo che Là è un sim carta in il secondo fessura. (Richiede Riavviare!) </string>
+<string name="google_enc_desc">Questo lavori in giro problemi con Snapchat, Instagram e altro video registrazione Apps. usi il Google avc codificatore anziché di il hw avc codificatore. tu può bisogno a ricomincia il App o ricomincia il dispositivo prima Questo ambientazione prende effetto. Questo può anche causa alcuni video registrazione applicazioni non a lavoro.</string>
+<string name="sensorex_desc">Test sperimentale giroscopio sensore! (Richiede Reboot) </string>
+<string name="sponsors">Sponsor</string>
+<string name="not_supported">Non supportato di Questo dispositivo...</string>
+<string name="sponsor_thank_you">Ringraziare tu tutti per tu supporto!</string>
+</resources>

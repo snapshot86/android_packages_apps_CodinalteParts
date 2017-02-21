@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">ريوطت</string>
+<string name="extras_section_name"></string>
+<string name="app_name">ءازجأ</string>
+<string name="kernel_header">ةاون</string>
+<string name="otg_title">يب سا وي فيضم عضولا</string>
+<string name="sensorex_title">يبيرجت</string>
+<string name="glove_title">زافق عضولا</string>
+<string name="dt2w_title">جودزم ةلص .لاصتا .سمل ىلإ ظقيتسا</string>
+<string name="network_header">لاصتالا</string>
+<string name="sim2_title">ةقاطب ةحتف  2</string>
+<string name="workaround_header">لمع لوح</string>
+<string name="google_enc_title">لامعتسا لجوج</string>
+<string name="action_settings"></string>
+<string name="dt2w_desc">حامسلا تنأ ىلإ ظقيتسا لا زاهج ةطساوب جودزم رقن ىلع لا .ةشاش</string>
+<string name="otg_desc">حامسلا تنأ ىلإ لاصتالا يب سا وي .ةزهجألا ىتم لعفم رخآ زاهج ةلص تاذ يب سا وي ،ماهملا هذه لثم يويسآلا ةيمنتلا كنب و ،لجألا ةطسوتملا ةطخلا فوس سيل نوكي حاتم ىتح هذه وه قاعم وأ لا زاهج وه .ليغشت ةداعإ سيل لكلا يب سا وي ةزهجألا فوس .لمع</string>
+<string name="glove_desc">ديزي لا ةيساسح نم لا ةلص .لاصتا .سمل ةشاش يلاتلابو تاسمللا عيطتسي نوكي لجسم نيح يف سبلي</string>
+<string name="sim2_desc">لا ايناث ميس ةقاطب .ةحتف هذه يغبني سيل نوكي لعفم مل ام كانه وه ا ميس ةقاطب يف لا ايناث .ةحتف بلطتي( )!ليغشتلا ةداعا</string>
+<string name="google_enc_desc">هذه لامعأ لوح لئاسم عم ،تاش بانس مارقتسنالا و رخآ ويديف ليجست .تاقيبطتلا تامادختسالا لا لجوج CVA ريفشتلا نأ نيح يف نم لا بألا CVA .ريفشتلا تنأ دق ىلإ ةجاحب ىلإ ءدب ةداعإ لا قيبطتلا وأ ءدب ةداعإ لا زاهج لبق هذه طبض ذخأي .ريثأت هذه دق اضيأ ببس ضعب ويديف ليجست تاقيبطتلا سيل ىلإ .لمع</string>
+<string name="sensorex_desc">رابتخا يبيرجت بوكسوريج !رعشتسملا بلطتي( )ليغشتلا ةداعا</string>
+<string name="sponsors"></string>
+<string name="not_supported">سيل ديأ ةطساوب هذه ...زاهج</string>
+<string name="sponsor_thank_you">اركش تنأ لكلا ىلع نع ىلإ تنأ !معدلا</string>
+</resources>

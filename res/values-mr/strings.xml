@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus विकास</string>
+<string name="extras_section_name">अतिरिक्त</string>
+<string name="app_name">Meticulus भाग </string>
+<string name="kernel_header">कर्नल</string>
+<string name="otg_title">युएसबी यजमान मोड </string>
+<string name="sensorex_title">प्रायोगिक सेन्सर्स </string>
+<string name="glove_title">ग्लोव्ह मोड </string>
+<string name="dt2w_title">डबल स्पर्श करण्यासाठी वेक </string>
+<string name="network_header">नेटवर्क</string>
+<string name="sim2_title">सिम कार्ड स्लॉट 2 </string>
+<string name="workaround_header">काम सुमारे </string>
+<string name="google_enc_title">वापरा Google H264 </string>
+<string name="action_settings">सेटिंग्ज</string>
+<string name="dt2w_desc">अनुमती देते आपण ते जागे अगोदर निर्देश केलेल्या बाबीसंबंधी बोलताना डिव्हाइस करून दुहेरी टॅप वर अगोदर निर्देश केलेल्या बाबीसंबंधी बोलताना स्क्रीन. </string>
+<string name="otg_desc">अनुमती देते आपण ते कनेक्ट युएसबी साधने. कधी सक्रिय इतर डिव्हाइस संबंधित युएसबी कार्ये, अशा म्हणून दोन संस्थांचा समावेश आहे आणि MTP, होईल नाही असेल उपलब्ध पर्यंत या आहे अक्षम किंवा अगोदर निर्देश केलेल्या बाबीसंबंधी बोलताना डिव्हाइस आहे पुनः सुरू. नाही सर्व युएसबी साधने होईल काम.</string>
+<string name="glove_desc">वाढते अगोदर निर्देश केलेल्या बाबीसंबंधी बोलताना संवेदनशीलता च्या अगोदर निर्देश केलेल्या बाबीसंबंधी बोलताना स्पर्श स्क्रीन त्यामुळे स्पर्श करू शकता असेल नोंदणीकृत तर परिधान हातमोजे. </string>
+<string name="sim2_desc">सक्षम करते अगोदर निर्देश केलेल्या बाबीसंबंधी बोलताना दुसरा सिम कार्ड स्लॉट. या पाहिजे नाही असेल सक्रिय तोपर्यंत तेथे आहे एक सिम कार्ड मध्ये अगोदर निर्देश केलेल्या बाबीसंबंधी बोलताना दुसरा स्लॉट. (आवश्यक पुनः सुरू करा!) </string>
+<string name="google_enc_desc">हे कामे सुमारे समस्या सह Snapchat, Instagram आणि इतर व्हिडिओ रेकॉर्डिंग अनुप्रयोग. वापर अगोदर निर्देश केलेल्या बाबीसंबंधी बोलताना google AVC एन्कोडर त्याऐवजी च्या अगोदर निर्देश केलेल्या बाबीसंबंधी बोलताना घातक कचरा AVC एन्कोडर. आपण मे गरज ते पुन्हा सुरू करा अगोदर निर्देश केलेल्या बाबीसंबंधी बोलताना अनुप्रयोग किंवा पुन्हा सुरू करा अगोदर निर्देश केलेल्या बाबीसंबंधी बोलताना डिव्हाइस आधी या सेटिंग घेते परिणाम. या मे देखील कारण काही व्हिडिओ रेकॉर्डिंग अनुप्रयोग नाही ते काम.</string>
+<string name="sensorex_desc">कसोटी प्रायोगिक जायरोस्कोप सेन्सर! (आवश्यक रीबूट) </string>
+<string name="sponsors">प्रायोजक</string>
+<string name="not_supported">नाही समर्थित करून या डिव्हाइस...</string>
+<string name="sponsor_thank_you">धन्यवाद आपण सर्व च्या साठी आपण समर्थन! </string>
+</resources>

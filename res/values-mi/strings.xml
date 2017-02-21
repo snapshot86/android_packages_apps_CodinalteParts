@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus whanaketanga </string>
+<string name="extras_section_name">Anō</string>
+<string name="app_name">Meticulus wāhanga </string>
+<string name="kernel_header">Kākano</string>
+<string name="otg_title">USB Kaihautū aratau </string>
+<string name="sensorex_title">whakamātautau pūoko </string>
+<string name="glove_title">karapu aratau </string>
+<string name="dt2w_title">taurua pa ki ki Wake </string>
+<string name="network_header">Whatunga</string>
+<string name="sim2_title">Sim kāri Kāniwha 2 </string>
+<string name="workaround_header">Mahi a tawhio noa </string>
+<string name="google_enc_title">Whakamahi Google H264 </string>
+<string name="action_settings">Tautuhinga</string>
+<string name="dt2w_desc">Āhei koe ki ara te pūrere e rua mirimiri i runga i te mata. </string>
+<string name="otg_desc">Āhei koe ki hono USB pūrere. A, no te whakahohe te tahi atu pūrere e pā ana USB mahi, taua rite ADB a MTP, e e kore kia wātea tae noa ki tenei ko monokia ranei te pūrere ko anō. e kore katoa USB pūrere e mahi. </string>
+<string name="glove_desc">piki te tūtohutanga o te pa ki mata na pa taea kia rēhita ia mau karapu. </string>
+<string name="sim2_desc">Ka whakahohe i te tuarua sim kāri mokamoka. tenei kia e kore kia whakahohe te kore reira ko he sim kāri i roto i te tuarua mokamoka. (Me Anō!) </string>
+<string name="google_enc_desc">tenei mahi a tawhio noa take ki Snapchat, Instagram a te tahi atu ataata tuhi taupānga. whakamahinga te google avc encoder hei utu o te HW avc encoder. koe kia Me ki tīmata te taupānga ranei tīmata te pūrere i mua i tenei tautuhinga e pānga. tenei kia hoki take etahi ataata tuhi taupānga e kore ki mahi. </string>
+<string name="sensorex_desc">Test whakamātau wira pūoko! (Me Anō) </string>
+<string name="sponsors">Kaitautoko</string>
+<string name="not_supported">Kāore i tautoko e tenei pūrere... </string>
+<string name="sponsor_thank_you">Mauruuru koe katoa hoki koe tautoko! </string>
+</resources>

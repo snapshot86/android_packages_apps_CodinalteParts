@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus ipsum,</string>
+<string name="extras_section_name">Extra,</string>
+<string name="app_name">Meticulus Parts:</string>
+<string name="kernel_header">Nucleum</string>
+<string name="otg_title">USB Host modum</string>
+<string name="sensorex_title">Potassium sensoriis,</string>
+<string name="glove_title">DIGITABULUM modum</string>
+<string name="dt2w_title">Double Gloria Ad Surgere</string>
+<string name="network_header">Network</string>
+<string name="sim2_title">Sim Card slot II,</string>
+<string name="workaround_header">Opus Circum</string>
+<string name="google_enc_title">Use Google H264:</string>
+<string name="action_settings">Occasus</string>
+<string name="dt2w_desc">Permittit vos ut surgere quod fabrica per geminus percussoque in quod screen.</string>
+<string name="otg_desc">Permittit vos ut connect USB cogitationes. cum activated aliud fabrica Related USB functiones, huiusmodi quod ADB, et MTP, autem non quod available usque haec est disabled uel quod fabrica est rebooted. non omnes USB cogitationes autem opus.</string>
+<string name="glove_desc">incrementa quod sensum autem quod tangeret Screen ita tractus potes quod perscribat cum gerens caestus. </string>
+<string name="sim2_desc">Enables quod secundo, Sim card foramen. haec ut non quod activated nisi ibi est a Sim card in quod secundo, foramen. (Requires Reboot!)</string>
+<string name="google_enc_desc">Hoc operibus circum exitus apud Snapchat, Instagram et aliud Video recording apps. usibus quod Google AVC Encoder sed autem quod HW AVC Encoder. Vos ut necessitudo ut Sileo quod App uel Sileo quod fabrica ante haec occasum accipit effectus. haec ut etiam causam quidam Video recording Apps non ut opus.</string>
+<string name="sensorex_desc">Test Potassium gyroscope sensorem! (Requires Reboot)</string>
+<string name="sponsors">Sponsors</string>
+<string name="not_supported">Non suscepit per haec device... </string>
+<string name="sponsor_thank_you">Gratias vos omnes quia vos sustinere?</string>
+</resources>

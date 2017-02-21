@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus развој</string>
+<string name="extras_section_name">Екстра</string>
+<string name="app_name">Meticulus Делови</string>
+<string name="kernel_header">Јадрото</string>
+<string name="otg_title">USB домаќинот режим</string>
+<string name="sensorex_title">Експериментални сензори</string>
+<string name="glove_title">ракавица режим</string>
+<string name="dt2w_title">Двојно Допир До будење</string>
+<string name="network_header">Мрежа</string>
+<string name="sim2_title">Некој картичка Процеп 2 </string>
+<string name="workaround_header">работа околу</string>
+<string name="google_enc_title">Користи Google H264</string>
+<string name="action_settings">Settings</string>
+<string name="dt2w_desc">Овозможува ќе до се разбудам на уред од двојно прислушување на на екран.</string>
+<string name="otg_desc">Овозможува ќе до поврзување USB уреди. Кога активен други уред поврзани со USB функции, како како АДБ и MTP, ќе не биде достапен додека ова е со посебни потреби или на уред е рестартира. Не сите USB уреди ќе работа.</string>
+<string name="glove_desc">Зголемувањето на чувствителност на на допир екран така допири може биде регистриран а носење ракавици.</string>
+<string name="sim2_desc">Овозможува на вториот СМС картичка процеп. ова треба не биде активен освен ако таму е на СМС картичка во на вториот процеп. (Потребна Рестартирајте!)</string>
+<string name="google_enc_desc">Ова работи околу прашања со Snapchat, Instagram и други Видео снимање апликации. употреба на Google AVC енкодер наместо на на хардвер AVC кодерот. можете може треба до рестарт на стан или рестарт на уред пред ова поставување се ефект. ова може исто така, причина некои Видео снимање апликации не до работа.</string>
+<string name="sensorex_desc">тест експериментален жироскоп сензор! (Потребна Рестартирајте)</string>
+<string name="sponsors">Спонзори</string>
+<string name="not_supported">Не поддржан од ова уред...</string>
+<string name="sponsor_thank_you">Ти благодарам ќе сите за ќе поддршка!</string>
+</resources>

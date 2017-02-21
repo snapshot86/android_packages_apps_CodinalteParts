@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus plėtra</string>
+<string name="extras_section_name">Ekstra</string>
+<string name="app_name">Meticulus dalys</string>
+<string name="kernel_header">Branduolio</string>
+<string name="otg_title">USB kariuomenė režimas</string>
+<string name="sensorex_title">eksperimentinis jutikliai</string>
+<string name="glove_title">pirštinės režimas</string>
+<string name="dt2w_title">Dvigubas liesti į Wake</string>
+<string name="network_header">Tinklas</string>
+<string name="sim2_title">sim korta anga 2 </string>
+<string name="workaround_header">darbas aplink</string>
+<string name="google_enc_title">Use Google H264</string>
+<string name="action_settings">Nustatymai</string>
+<string name="dt2w_desc">Leidžia tu į pažadinti prietaisas iki dvigubai paliesdami apie ekranas.</string>
+<string name="otg_desc">Leidžia tu į Prisijungti USB prietaisai. Kada aktyvuota kitas prietaisas susijęs USB funkcijos, toks kaip ADB ir MTP, valia ne būti pasiekiamas iki tai yra neįgalusis arba prietaisas yra perleist. ne visi USB prietaisai valia dirbti.</string>
+<string name="glove_desc">Didėja jautrumas apie liesti ekranas taip paliečia galima būti registruotas o dėvėjimas pirštinės.</string>
+<string name="sim2_desc">Leidžia antra SIM korta lizdą. tai turėtų ne būti aktyvuota nebent ten yra SIM korta į antra lizdą. (Reikalingas Perkraukite!)</string>
+<string name="google_enc_desc">Tai kūryba aplink Problemos su Snapchat, Instagram ir kitas video įrašymo programos. naudoja Google AVC Encoder užuot apie HW AVC Encoder. Tu Gegužė reikėti į perkrauti programa arba perkrauti prietaisas prieš tai nustatymas trunka poveikis. tai Gegužė taip pat priežastis keletas video įrašymo programos ne į dirbti.</string>
+<string name="sensorex_desc">Bandymo eksperimentinis giroskopas jutiklis! (Reikalingas Perkraukite)</string>
+<string name="sponsors">Rėmėjai</string>
+<string name="not_supported">Ne remia iki tai prietaisas...</string>
+<string name="sponsor_thank_you">Ačiū tu visi dėl tu remti!</string>
+</resources>

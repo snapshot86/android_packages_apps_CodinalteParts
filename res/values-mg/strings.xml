@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus Fampandrosoana</string>
+<string name="extras_section_name">Extra</string>
+<string name="app_name">Meticulus Parts </string>
+<string name="kernel_header">Voam</string>
+<string name="otg_title">USB Host Mode </string>
+<string name="sensorex_title">fanandramana Sela Mpandray Hafanana </string>
+<string name="glove_title">Glove Mode </string>
+<string name="dt2w_title">Double mikasika To Wake </string>
+<string name="network_header">Network</string>
+<string name="sim2_title">Sim Card slot 2 </string>
+<string name="workaround_header">Work Around </string>
+<string name="google_enc_title">Ampiasao Google H264 </string>
+<string name="action_settings">Settings</string>
+<string name="dt2w_desc">Ahafahanny ianao ny mifoha ny fitaovana aminny avo roa heny nipaipaika aminny ny lamba. </string>
+<string name="otg_desc">Ahafahanny ianao ny mifandray USB fitaovana. Rahoviana mampandeha hafa fitaovana mifandraika USB asa, toy izany toy ny ADB ary MTP, dia tsy ho misy mandra- izany dia kilemaina na ny fitaovana dia rebooted. tsy rehetra USB fitaovana dia miasa. </string>
+<string name="glove_desc">Nitombo ny ny fahatsapana ny ny mikasika efijery toy izany voakasiky afaka ho voasoratra anarana raha manao fonon-tanana. </string>
+<string name="sim2_desc">Mamelona ireo ny faharoa sim karatra slot. izany tokony tsy ho mampandeha raha tsy Ery dia ny sim karatra in ny faharoa slot. (mitaky Reboot!) </string>
+<string name="google_enc_desc">Izao asa manodidina olana aminny Snapchat, Instagram ary hafa Video peo fampiharana. fampiasana ny Google avc encoder fa tsy ny ny hw avc encoder. ianao mety mila ny haverina velomina ny App na haverina velomina ny fitaovana alohanny izany toerana Mila vokany. izany mety koa antony sasany Video peo Apps tsy ny miasa. </string>
+<string name="sensorex_desc">Test andrana gyroscope sensor! (mitaky Reboot) </string>
+<string name="sponsors">Sponsors</string>
+<string name="not_supported">Tsy nanohana aminny izany fitaovana... </string>
+<string name="sponsor_thank_you">Misaotra ianao rehetra ho anny ianao manohana! </string>
+</resources>

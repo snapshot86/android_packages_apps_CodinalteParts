@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus развіццё</string>
+<string name="extras_section_name">Экстра</string>
+<string name="app_name">Meticulus часткі </string>
+<string name="kernel_header">Кернел</string>
+<string name="otg_title">USB гаспадар рэжым </string>
+<string name="sensorex_title">Эксперыментальная датчыкі </string>
+<string name="glove_title">пальчатка рэжым </string>
+<string name="dt2w_title">Падвойны дакранацца да паслуга</string>
+<string name="network_header">Сетка</string>
+<string name="sim2_title">Sim карта слот 2 </string>
+<string name="workaround_header">Праца вакол </string>
+<string name="google_enc_title">Выкарыстоўваць Google H264 </string>
+<string name="action_settings">Налады</string>
+<string name="dt2w_desc">Дазваляе вы да абуджаць прылада па двайны націснуўшы на Экран .</string>
+<string name="otg_desc">Дазваляе вы да злучаць USB прылад. Калі актываваны іншы прылада роднасны USB функцыі, такія у якасці Азіяцкі банк развіцця і MTP, волі ня быць даступны да гэта зяўляецца інвалід або прылада зяўляецца перазагрузіцца. ня усе USB прыборы волі працаваць.</string>
+<string name="glove_desc">Павелічэнне адчувальнасць з чапаць экран так рыскі можа быць зарэгістраваны у той час як нашэнне пальчаткі.</string>
+<string name="sim2_desc">Уключае другі сім карта слот. гэта павінен ня быць актываваны калі там зяўляецца сім карта ў другі слот. (Патрабуецца Перазагрузка!) </string>
+<string name="google_enc_desc">Гэта завод вакол пытанняў з Snapchat, Instagram і іншы відэа запіс прыкладанняў. карысці Google АВК кадавальнік замест з HW АВК кодэр. вы можа трэба да перазапуск дадатак або перазапуск прылада перад тым гэта налада прымае эфект. гэта можа таксама прычына некаторыя відэа запіс прыкладання ня да працаваць.</string>
+<string name="sensorex_desc">Test эксперыментальны гіраскоп Датчык! (Патрабуецца Reboot) </string>
+<string name="sponsors">Спонсары</string>
+<string name="not_supported">Ці не падтрыманы па гэта Прылада... </string>
+<string name="sponsor_thank_you">Дзякуй вы усе для вы падтрымка!</string>
+</resources>

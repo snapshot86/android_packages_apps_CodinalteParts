@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus razvoj</string>
+<string name="extras_section_name">Ekstra</string>
+<string name="app_name">Meticulus deli </string>
+<string name="kernel_header">Jedra</string>
+<string name="otg_title">USB Host način</string>
+<string name="sensorex_title">Eksperimentalna senzorji</string>
+<string name="glove_title">Glove način</string>
+<string name="dt2w_title">Double Dotaknite se Za Wake</string>
+<string name="network_header">Mreža</string>
+<string name="sim2_title">Sim Kartica slot 2 </string>
+<string name="workaround_header">delo okoli</string>
+<string name="google_enc_title">Uporaba Google H264</string>
+<string name="action_settings">»Nastavitve«</string>
+<string name="dt2w_desc">Omogoča jo za zbudi naprava jo double prisluškovanje na zaslon.</string>
+<string name="otg_desc">Omogoča jo za povezati USB naprave. Kdaj aktivirana druga naprava povezane USB funkcije, kot kot ADB in MTP, volja ne biti na voljo dokler ta je onemogočeno ali naprava je ponovno zagnal. ne vse USB naprave volja delo.</string>
+<string name="glove_desc">Povečanja občutljivost za na dotik zaslon tako dotakne lahko biti registrirana medtem nošenje rokavice.</string>
+<string name="sim2_desc">Omogoča drugi sim kartica reža. Ta naj ne biti aktivirana razen tam je sim kartica v drugi reža. (Zahteva Reboot!)</string>
+<string name="google_enc_desc">Ta dela okoli vprašanja z Snapchat, Instagram in druga video snemanje aplikacije. uporabe google AVC kodirnik namesto za hw AVC kodirnik. vi lahko potrebujemo za ponovni zagon aplikacija ali ponovni zagon naprava pred ta nastavitev je Učinek. Ta lahko prav tako vzrok nekaj video snemanje aplikacije ne za delo.</string>
+<string name="sensorex_desc">Preskusni eksperimentalni vrtavka senzor! (Zahteva Reboot)</string>
+<string name="sponsors">Sponzorji</string>
+<string name="not_supported">Ni podpira jo ta Naprava...</string>
+<string name="sponsor_thank_you">Hvala jo vse za jo podporo!</string>
+</resources>

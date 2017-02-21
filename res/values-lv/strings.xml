@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus attīstība</string>
+<string name="extras_section_name">Ekstra</string>
+<string name="app_name">Meticulus Parts</string>
+<string name="kernel_header">Kodols</string>
+<string name="otg_title">USB saimnieks Mode</string>
+<string name="sensorex_title">Eksperimentālā Sensors</string>
+<string name="glove_title">Glove Mode</string>
+<string name="dt2w_title">Double pieskarties līdz Wake</string>
+<string name="network_header">Network</string>
+<string name="sim2_title">Sim karte sprauga 2 </string>
+<string name="workaround_header">Darba Around</string>
+<string name="google_enc_title">Lietot Google H264</string>
+<string name="action_settings">Iestatījumi</string>
+<string name="dt2w_desc">Ļauj tu līdz uzmodināt ierīce līdz dubults pieskaroties uz ekrāna.</string>
+<string name="otg_desc">Ļauj tu līdz savienot USB ierīces. Kad aktivizēta cits ierīce saistīts USB funkcijas, šāds kā ADB un MTP, griba nav būt pieejams līdz šis ir invalīdiem vai ierīce ir rebooted. nav visi USB ierīces griba darbu.</string>
+<string name="glove_desc">Pieaugums jutīgums no pieskarties ekrāns tā pieskaras var būt reģistrēts kamēr nogurdinošs cimdi.</string>
+<string name="sim2_desc">Ļauj otrais sim karte slots. šis vajadzētu nav būt aktivizēta ja vien tur ir sim karte uz otrais slots. (Nepieciešama Pārstartēt!)</string>
+<string name="google_enc_desc">Šī darbi apkārt jautājumi ar Snapchat, Instagram un cits video ierakstīšana progr. Izmanto google AVC kodētājs vietā no hw AVC kodētāju. tu var vajadzība līdz restartēt app vai restartēt ierīce pirms šis vide aizņem efekts. šis var arī cēlonis daži video ierakstīšana progr nav līdz darbu.</string>
+<string name="sensorex_desc">Pārbaude eksperimentāls žiroskops sensors! (Nepieciešama Reboot)</string>
+<string name="sponsors">Sponsori</string>
+<string name="not_supported">Nav atbalstīts līdz šis ierīce...</string>
+<string name="sponsor_thank_you">Paldies tu visi par tu atbalstīt!</string>
+</resources>

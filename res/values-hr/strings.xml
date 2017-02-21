@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus Razvoj</string>
+<string name="extras_section_name">Ekstra</string>
+<string name="app_name">Meticulus Dijelovi </string>
+<string name="kernel_header">Zrno</string>
+<string name="otg_title">USB Domaćin Način </string>
+<string name="sensorex_title">Eksperimentalna Senzori </string>
+<string name="glove_title">Rukavica Način </string>
+<string name="dt2w_title">Dvostruko Dodir Do Probuditi</string>
+<string name="network_header">Mreža</string>
+<string name="sim2_title">Sim Kartica prorez 2 </string>
+<string name="workaround_header">Raditi Oko</string>
+<string name="google_enc_title">Koristiti Google H264 </string>
+<string name="action_settings">Postavke</string>
+<string name="dt2w_desc">Dopušta vas do probuditi uređaj po dvostruko kuckanje na zaslon.</string>
+<string name="otg_desc">Dopušta vas do Spojiti USB uređaji. Kada aktiviran drugo uređaj povezan USB funkcije, takav kao ADB i MTP, htjeti ne biti dostupno do ovaj je onesposobljen ili uređaj je digne. Ne svi USB uređaji htjeti raditi.</string>
+<string name="glove_desc">Povećava osjetljivost od dodir zaslon tako dotakne može biti zabilježen dok nošenje rukavice.</string>
+<string name="sim2_desc">Omogućava drugi sim kartica utor. Ovaj trebao ne biti aktiviran osim ako tamo je sim kartica u drugi utor. (Zahtijeva Ponovno podizanje sustava!)</string>
+<string name="google_enc_desc">Ovaj djela oko pitanja s Snapchat Instagram i drugo video snimanje aplikacije. koristi google AVC koder umjesto od hW AVC enkoder. Vas svibanj potreba do restart aplikacija ili restart uređaj prije ovaj postavljanje traje posljedica. Ovaj svibanj također uzrok neki video snimanje aplikacije ne do raditi.</string>
+<string name="sensorex_desc">Test eksperimentalan žiroskop senzor! (Zahtijeva Ponovno podizanje sustava)</string>
+<string name="sponsors">Sponzori</string>
+<string name="not_supported">Ne podržano po ovaj uređaj...</string>
+<string name="sponsor_thank_you">Zahvaliti vas svi za vas podršku! </string>
+</resources>

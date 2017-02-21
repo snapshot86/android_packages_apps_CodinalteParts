@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus Development</string>
+<string name="extras_section_name">Extra</string>
+<string name="app_name">Meticulus Parts </string>
+<string name="kernel_header">Kernel</string>
+<string name="otg_title">USB Ev sahibi Mode</string>
+<string name="sensorex_title">Təcrübi Sensors</string>
+<string name="glove_title">Glove Mode</string>
+<string name="dt2w_title">Double toxunmaq qədər Wake</string>
+<string name="network_header">Network </string>
+<string name="sim2_title">Sim kart dəlik 2 </string>
+<string name="workaround_header">İş Around </string>
+<string name="google_enc_title">Use Google H264</string>
+<string name="action_settings">Ayarlar</string>
+<string name="dt2w_desc">verir Sən qədər ayıltmaq the qurğu ilə ikiqat tıqqıltı haqqında the ekran.</string>
+<string name="otg_desc">verir Sən qədər birləşdirmək USB cihazlar. Nə vaxt aktiv digər qurğu əlaqədar USB funksiyaları, bu cür kimi AİB və MTP, iradə yox olmaq mövcud qədər bu edir əlil və ya the qurğu edir rebooted. yox bütün USB qurğular iradə iş.</string>
+<string name="glove_desc">artırır the həssaslıq of the toxunmaq ekran belə ki üz bacarmaq olmaq qeydiyyatdan isə yorucu əlcəklər.</string>
+<string name="sim2_desc">verir the ikinci sim kart slot. bu gərək yox olmaq aktiv əgər orada edir bir sim kart ilə the ikinci slot. (tələb Yenidən başladın!)</string>
+<string name="google_enc_desc">Bu işləri ətrafında məsələlər ilə Snapchat, Instagram və digər video qeyd apps. İstifadəsi the Google AVC encoder yerinə of the HW AVC encoder. Sən bilər ehtiyac qədər yenidən başlamaq the app və ya yenidən başlamaq the qurğu əvvəl bu qəbulu edir təsiri. bu bilər də səbəb bir video qeyd apps yox qədər iş.</string>
+<string name="sensorex_desc">Test eksperimental gyroscope sensor! (tələb Reboot)</string>
+<string name="sponsors">Sponsorlar</string>
+<string name="not_supported">Not dəstək ilə bu qurğu...</string>
+<string name="sponsor_thank_you">edirik  Sən bütün üçün Sən dəstək!</string>
+</resources>

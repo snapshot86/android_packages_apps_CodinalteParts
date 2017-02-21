@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus þróun</string>
+<string name="extras_section_name">Extra</string>
+<string name="app_name">Meticulus Varahlutir </string>
+<string name="kernel_header">Kernel</string>
+<string name="otg_title">USB Host Mode </string>
+<string name="sensorex_title">Experimental Skynjarar </string>
+<string name="glove_title">Hanski Mode </string>
+<string name="dt2w_title">Double snerta til wake </string>
+<string name="network_header">Network</string>
+<string name="sim2_title">Sim Card Slot 2 </string>
+<string name="workaround_header">Vinna Around </string>
+<string name="google_enc_title">Use Google H264 </string>
+<string name="action_settings">Stillingar</string>
+<string name="dt2w_desc">Leyfir þú að vakna sem tæki með tvöfaldur að slá á sem skjár.</string>
+<string name="otg_desc">Leyfir þú að tengja USB tæki. Hvenær virk annað tæki skyld USB aðgerðir, svo sem ADB og MTP, mun ekki vera laus þar þetta er fatlaður eða sem tæki er endurræsa. ekki allt USB tæki mun vinna.</string>
+<string name="glove_desc">Eykur sem viðkvæmni af sem snerta skjár svo snertir dós vera skráð en þreytandi hanska.</string>
+<string name="sim2_desc">Gerir sem annað sim kort rifa. Þetta ætti ekki vera virk nema það er a sim kort í sem annað rifa. (Krefst Endurfæddur!)</string>
+<string name="google_enc_desc">Þetta virkar um vandamál með Snapchat, Instagram og annað video upptöku forrit. notar sem Google AVC kóðun í staðinn af sem HW AVC kóðun. þú heimilt þörf að endurræsa sem app eða endurræsa sem tæki áður þetta stilling tekur áhrif. Þetta heimilt einnig orsök sumir video upptöku forrit ekki að vinna.</string>
+<string name="sensorex_desc">Test tilrauna gyroscope skynjari! (Krefst Endurfæddur)</string>
+<string name="sponsors">Styrktaraðilar</string>
+<string name="not_supported">Ekki stutt með þetta tæki...</string>
+<string name="sponsor_thank_you">Þakka þú allt fyrir þú styðja!</string>
+</resources>

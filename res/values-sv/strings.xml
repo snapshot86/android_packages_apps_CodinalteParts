@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus Utveckling</string>
+<string name="extras_section_name">Extra</string>
+<string name="app_name">Meticulus Delar</string>
+<string name="kernel_header">Kärna</string>
+<string name="otg_title">USB Värd Läge</string>
+<string name="sensorex_title">Experimentell sensorer</string>
+<string name="glove_title">Handske Läge</string>
+<string name="dt2w_title">Dubbel Rör Till Vakna</string>
+<string name="network_header">Nätverk</string>
+<string name="sim2_title">Sim Kort Spår 2 </string>
+<string name="workaround_header">Arbete Runt</string>
+<string name="google_enc_title">Använda sig av Google H264 </string>
+<string name="action_settings">Inställningar</string>
+<string name="dt2w_desc">Tillåter du till vakna de anordning av dubbel tappning på de skärm.</string>
+<string name="otg_desc">Tillåter du till ansluta USB enheter. När aktiverad andra anordning relaterad USB funktioner, sådan som ADB och MTP, kommer inte vara tillgängliga fram tills detta är Inaktiverad eller de anordning är startas. Inte Allt USB enheter kommer arbete.</string>
+<string name="glove_desc">Ökar de känslighet av de Rör skärm så berör Kan vara registrerad medan bär handskar.</string>
+<string name="sim2_desc">Möjliggör de andra sim kort spår. Detta skall inte vara aktiverad såvida inte där är en sim kort i de andra spår. (Kräver Starta!)</string>
+<string name="google_enc_desc">Detta Arbetar runt frågor med Snapchat, Instagram och andra video- inspelning appar. användningar de Google avc kodare istället av de hw avc kodare. Du Maj behöver till omstart de app eller omstart de anordning innan detta miljö tar effekt. Detta Maj också orsak några video- inspelning appar inte till arbete.</string>
+<string name="sensorex_desc">Testa experimentell gyroskop sensor! (Kräver Omstart)</string>
+<string name="sponsors">Sponsorer</string>
+<string name="not_supported">Inte stöds av detta anordning...</string>
+<string name="sponsor_thank_you">Tacka du Allt för du Stöd!</string>
+</resources>

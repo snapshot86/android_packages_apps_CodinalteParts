@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">suluciteM  يقرت</string>
+<string name="extras_section_name">Extra</string>
+<string name="app_name">suluciteM  ردنڪس</string>
+<string name="kernel_header">Kernel</string>
+<string name="otg_title">ڪرو ٽين نابزيم  ڊوم</string>
+<string name="sensorex_title">شئامزآ  srosneS</string>
+<string name="glove_title">اناتسد  ڊوم</string>
+<string name="dt2w_title">اٽٻ وطبار فرط يج  يراٿا</string>
+<string name="network_header">ڪرو</string>
+<string name="sim2_title">مس ڊراڪ ترازو  2</string>
+<string name="workaround_header">مڪ  يراڌوچ</string>
+<string name="google_enc_title">لامعتسا وج لگوگ  462H</string>
+<string name="action_settings">Settings</string>
+<string name="dt2w_desc">يئڏ تزاجا يج ناهوت فرط يج يراٿا يج رازوا يج لبڊ gnippat يت يج  .نيرڪسا</string>
+<string name="otg_desc">يئڏ تزاجا يج ناهوت فرط يج ڻڍنڳ ناس ڪرو ٽين .زسيئاوڊ نهڏج ولاچ يئٻ رازوا ليپاڳال ناس ڪرو ٽين ،مڪ يڙها نئيج BDA ۽ ،PTM ودنيٿ هن يٿ دوجوم ردق يرتيا نه يهآ روذعم اي يج رازوا يهآ .detoober هن ڀس ڪرو ٽين زسيئاوڊ ودنيٿ  .مڪ</string>
+<string name="glove_desc">يئاڌو يج ytivitisnes يج يج وطبار نيرڪسا ءوپ يھڇ اٿ نهگس يٿ لخاد هت نهڏج يئاپ  .ناتسد</string>
+<string name="sim2_desc">وٿ يئاڻب يج نويٻ مس ڊراڪ .يج ترازو يه يڃو هن يٿ ولاچ نيئاتسيج هن يهآ ڪه مس ڊراڪ ۾ يج نويٻ .يج ترازو ترورض يج(  )!وياله يرو</string>
+<string name="google_enc_desc">يه مڪ يراڌوچ نلئسم ناس ،tahcpanS margatsnI ۽ يئٻ ويڊو گنڊراڪر .سپيا لامعتسا يج لگوگ cva redocne ناردب يج يج wh cva .redocne ناهوت يئم ترورض فرط يج وياله يرو يج پئا اي وياله يرو يج رازوا ڳا ناک نه ڙوج اٿ نڳل .رثا يه يئم هب ببس ههجڪ ويڊو گنڊراڪر سپيا هن فرط يج  .مڪ</string>
+<string name="sensorex_desc">ٽسيٽ يتابرجت epocsoryg !rosnes ترورض يج(  )وياله يرو</string>
+<string name="sponsors">Sponsors</string>
+<string name="not_supported">هن وراهس يج نه  ...رازوا</string>
+<string name="sponsor_thank_you">ينابرهم ناهوت ڀس ءال ناهوت  !تيامح</string>
+</resources>

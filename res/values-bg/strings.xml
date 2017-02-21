@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus развитие</string>
+<string name="extras_section_name">Екстра</string>
+<string name="app_name">Meticulus Части</string>
+<string name="kernel_header">Ядрото</string>
+<string name="otg_title">USB домакин Mode</string>
+<string name="sensorex_title">Експериментална Сензори</string>
+<string name="glove_title">Ръкавица Mode</string>
+<string name="dt2w_title">Double докосване Да се Събуждам</string>
+<string name="network_header">Network</string>
+<string name="sim2_title">Sim карта прорез 2 </string>
+<string name="workaround_header">Работа Около</string>
+<string name="google_enc_title">Използване Google H264</string>
+<string name="action_settings">Настройки</string>
+<string name="dt2w_desc">Позволява Вие да се събуждам на приспособление от двойно почукване за на екран.</string>
+<string name="otg_desc">Позволява Вие да се свържете USB устройства. Кога активиран друг приспособление сроден USB функции, такъв като ADB и MTP, ще не бъда на разположение до това е хора с увреждания или на приспособление е рестартира. Не всичко USB устройства ще работи.</string>
+<string name="glove_desc">Се увеличава на чувствителност на на докосване екран така щрихи мога бъда препоръчано докато носенето ръкавици.</string>
+<string name="sim2_desc">Позволява на втори SIM карта слот. Това Трябва не бъда активиран освен ако там е а SIM карта в на втори слот. (Изисква Рестартирайте!)</string>
+<string name="google_enc_desc">Това върши работа около въпроси с Snapchat, Instagram и друг видео запис Приложения. Ползването на Google AVC енкодер вместо на на ТВ AVC енкодер. Вие може трябва да се рестартирам на ап или рестартирам на приспособление преди това обстановка отнема ефект. Това може също кауза някои видео запис приложения не да се работи.</string>
+<string name="sensorex_desc">Тест експериментален жироскоп сензор! (Изисква Reboot)</string>
+<string name="sponsors">Спонсорите</string>
+<string name="not_supported">Не подкрепена от това устройство...</string>
+<string name="sponsor_thank_you">Благодаря Вие всичко за Вие поддържа!</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus Phát triển</string>
+<string name="extras_section_name">Thêm</string>
+<string name="app_name">Meticulus Các bộ phận</string>
+<string name="kernel_header">Hạt nhân</string>
+<string name="otg_title">USB chủ nhà Chế độ</string>
+<string name="sensorex_title">thực nghiệm Bộ cảm biến </string>
+<string name="glove_title">Găng tay Chế độ</string>
+<string name="dt2w_title">Gấp đôi Chạm Đến Wake </string>
+<string name="network_header">Mạng</string>
+<string name="sim2_title">Sim Thẻ khe 2 </string>
+<string name="workaround_header">Công việc Xung quanh</string>
+<string name="google_enc_title">Sử dụng Google H264 </string>
+<string name="action_settings">Cài đặt</string>
+<string name="dt2w_desc">Cho phép bạn đến thức các thiết bị qua gấp đôi khai thác trên các màn.</string>
+<string name="otg_desc">Cho phép bạn đến kết nối USB thiết bị. Khi nào kích hoạt khác thiết bị có liên quan USB chức năng, như là như ADB và MTP, sẽ không phải được có sẵn cho đến khi điều này là tàn tật hoặc là các thiết bị là khởi động lại. không phải tất cả các USB thiết bị sẽ công việc.</string>
+<string name="glove_desc">Tăng các nhạy cảm của các chạm màn vì thế chạm có thể được đăng ký trong khi mặc găng tay.</string>
+<string name="sim2_desc">Cho phép các thứ hai sim Thẻ khe. Điều này Nên không phải được kích hoạt trừ khi đó là một sim Thẻ trong các thứ hai khe. (Đòi hỏi Khởi động lại!)</string>
+<string name="google_enc_desc">Điều này công trinh xung quanh vấn đề với Snapchat Instagram và khác video ghi âm ứng dụng. Sử dụng các Google avc mã hoá thay thế của các hw avc mã hoá. Bạn Tháng Năm nhu cầu đến khởi động lại các ứng dụng hoặc là khởi động lại các thiết bị trước điều này cài đặt mất hiệu ứng. Điều này Tháng Năm cũng thế nguyên nhân một số video ghi âm ứng dụng không phải đến công việc.</string>
+<string name="sensorex_desc">Thử nghiệm thực nghiệm máy con quay cảm biến! (Đòi hỏi Khởi động lại)</string>
+<string name="sponsors">Tài trợ</string>
+<string name="not_supported">Không phải hỗ trợ qua điều này thiết bị... </string>
+<string name="sponsor_thank_you">Cảm tạ bạn tất cả các vì bạn ủng hộ!</string>
+</resources>

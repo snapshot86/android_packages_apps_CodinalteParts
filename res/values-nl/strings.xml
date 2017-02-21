@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus Ontwikkeling</string>
+<string name="extras_section_name">Extra</string>
+<string name="app_name">Meticulus Onderdelen</string>
+<string name="kernel_header">Kernel</string>
+<string name="otg_title">USB gastheer mode </string>
+<string name="sensorex_title">Experimental sensoren </string>
+<string name="glove_title">Handschoen mode </string>
+<string name="dt2w_title">Dubbele aanraken Tot Wake </string>
+<string name="network_header">Netwerk</string>
+<string name="sim2_title">Sim Kaart Sleuf 2 </string>
+<string name="workaround_header">Werk In de omgeving van</string>
+<string name="google_enc_title">Gebruik Google H264 </string>
+<string name="action_settings">Instellingen</string>
+<string name="dt2w_desc">Maakt u tot wekken de apparaat door dubbele tikken op de scherm.</string>
+<string name="otg_desc">Maakt u tot aansluiten USB toestellen. Wanneer geactiveerd anders apparaat verwant USB functies zodanig als ADB en MTP, wil niet worden beschikbaar tot deze is invalide of de apparaat is opgestart. Niet alle USB apparaten wil werk.</string>
+<string name="glove_desc">Verhoogt de gevoeligheid van de aanraken scherm zo aanrakingen kan worden geregistreerd terwijl vervelend handschoenen. </string>
+<string name="sim2_desc">Maakt de tweede sim kaart sleuf. Deze moeten niet worden geactiveerd tenzij er is een sim kaart in de tweede sleuf. (Vereist Reboot!) </string>
+<string name="google_enc_desc">Deze werken in de omgeving van kwesties met Snapchat, Instagram en anders video- opname apps. Toepassingen de google avc encoder in plaats daarvan van de hw avc encoder. U mei noodzaak tot herstarten de app of herstarten de apparaat voor deze omgeving neemt effect. Deze mei ook oorzaak sommige video- opname apps niet tot werk.</string>
+<string name="sensorex_desc">Test experimenteel gyroscoop sensor! (Vereist Reboot) </string>
+<string name="sponsors">Sponsors</string>
+<string name="not_supported">Niet ondersteunde door deze apparaat...</string>
+<string name="sponsor_thank_you">Dank u alle voor u ondersteuning!</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus Development </string>
+<string name="extras_section_name">Tambahan</string>
+<string name="app_name">Meticulus bagian </string>
+<string name="kernel_header">Kernel</string>
+<string name="otg_title">USB nu boga imah mode </string>
+<string name="sensorex_title">Experimental sensor </string>
+<string name="glove_title">sarung mode </string>
+<string name="dt2w_title">Double nyabak ka hudang </string>
+<string name="network_header">Network</string>
+<string name="sim2_title">Sim kartu slot 2 </string>
+<string name="workaround_header">Gawé Kira </string>
+<string name="google_enc_title">Pamakéan Google H264 </string>
+<string name="action_settings">Setélan</string>
+<string name="dt2w_desc">ngamungkinkeun anjeun ka hudang nu pakakas ku ganda ngetok dina nu layar. </string>
+<string name="otg_desc">ngamungkinkeun anjeun ka nyambungan USB alat. Iraha diaktipkeun nu lain pakakas patali USB fungsi, siga siga ADB jeung MTP, bakal teu aya kasadia dugi ka ieu nyaeta cacad atawa nu pakakas nyaeta rebooted. teu sadaya USB alat bakal digawe. </string>
+<string name="glove_desc">Nambahan nu lemes parasaanana ti nu nyabak layar janten némpél bisa aya kadaptar waktu maké sarung. </string>
+<string name="sim2_desc">nyandak nu kadua sim kartu slot. ieu sakuduna teu aya diaktipkeun kecuali lamun Tuh nyaeta a sim kartu di nu kadua slot. (Merlukeun Reboot!) </string>
+<string name="google_enc_desc">Ieu karya kira-kira isu jeung Snapchat, Instagram jeung nu lain video rekaman aktip. Mangpaat nu google AVC encoder tibatan ti nu HW AVC encoder. anjeun meunang ngabutuhkeun ka uihan deui nu app atawa uihan deui nu pakakas saencan ieu setting nyokot pangaruh. ieu meunang oge sabab sababaraha video rekaman aktip teu ka digawe. </string>
+<string name="sensorex_desc">Test ékspérimén gyroscope sensor! (Merlukeun Reboot) </string>
+<string name="sponsors">Sponsor</string>
+<string name="not_supported">Teu dirojong ku ieu alat... </string>
+<string name="sponsor_thank_you">Hatur anjeun sadaya keur anjeun ngarojong! </string>
+</resources>

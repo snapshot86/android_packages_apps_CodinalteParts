@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">suluciteM תוחתפתה</string>
+<string name="extras_section_name"></string>
+<string name="app_name">suluciteM םיקלח</string>
+<string name="kernel_header"></string>
+<string name="otg_title">יב סא וי חראמ בצמ</string>
+<string name="sensorex_title">יִנֹויסִנ  םינשייח</string>
+<string name="glove_title">הָפָפְּכ בצמ</string>
+<string name="dt2w_title">ליִּפכַהְל תעגל ל רֵרֹועְתִהְל</string>
+<string name="network_header"></string>
+<string name="sim2_title">יתמייס סיִטְרַּכ ץיִרָח  2</string>
+<string name="workaround_header">הָדֹובֲע ביִבְס</string>
+<string name="google_enc_title">שמתשהל elgooG  462H</string>
+<string name="action_settings"></string>
+<string name="dt2w_desc">רשפאמ התא ל רֵרֹועְתִהְל ה ןקתה ידי לע ליִּפכַהְל הָׁשָקַה לַע ה .ךָסָמ</string>
+<string name="otg_desc">רשפאמ התא ל רֵּבַחְל יב סא וי .םינקתה יתמ לָעפּומ רֵחַא ןקתה רּוׁשָק יב סא וי ,תויצקנופ ןוגכ ש יפכ BDA ו ,PTM ןֹוצָר אֹל תֹויהִל ןימז דע הֶז אוה הֶכָנ ֹוא ה ןקתה אוה .שדחמ לעפוה אֹל לכ תא יב סא וי םינקתה ןֹוצָר .הָדֹובֲע</string>
+<string name="glove_desc">ריבגמ ה תּוׁשיִגְר לֶׁש ה תעגל ךָסָמ ךכ תועיגנ תיחפ תֹויהִל םושר ןמזב שבול</string>
+<string name="sim2_desc">רשפאמ ה הָיִנְׁש mis סיִטְרַּכ .ץיִרָח הֶז ךירצ אֹל תֹויהִל לָעפּומ םִא אָלֶא םש אוה א mis סיִטְרַּכ ב ה הָיִנְׁש .ץיִרָח שרוד( )!לֵחתַאְל</string>
+<string name="google_enc_desc">הֶז תודובע ביִבְס םיאשונ םע ,tahcpanS םרגטסניא ו רֵחַא ֹואֵדיִו הטלקה .תויצקילפא םישומיש ה elgoog CVA יִאַדֹוק םוקמב לֶׁש ה wh CVA .יִאַדֹוק התא יאמ ךֶרֹוצ ל לוחתיא ה היצקילפאה ֹוא לוחתיא ה ןקתה ינפל הֶז הרדגה חקול .העפשה הֶז יאמ םַג םרוג המכ ֹואֵדיִו הטלקה תויצקילפא אֹל ל .הָדֹובֲע</string>
+<string name="sensorex_desc">ןָחְבִמ יִנֹויסִנ ּפֹוקסֹוריִג !ןשייח שרוד( )לֵחתַאְל</string>
+<string name="sponsors">תוסח ינתונ</string>
+<string name="not_supported">אֹל ךמתנ ידי לע הֶז ...ןקתה</string>
+<string name="sponsor_thank_you">תודוהל התא לכ תא ל התא !הכימת</string>
+</resources>

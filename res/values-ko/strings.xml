@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">정신 의학 개발</string>
+<string name="extras_section_name">특별한</string>
+<string name="app_name">정신 의학 부분품</string>
+<string name="kernel_header">핵심</string>
+<string name="otg_title">USB 숙주 방법</string>
+<string name="sensorex_title">실험적 센서 </string>
+<string name="glove_title">장갑 방법</string>
+<string name="dt2w_title">더블 접촉 에 일어나 다</string>
+<string name="network_header">회로망</string>
+<string name="sim2_title">심 카드 슬롯 2 </string>
+<string name="workaround_header">작업 약</string>
+<string name="google_enc_title">용도 Google H264 </string>
+<string name="action_settings">설정</string>
+<string name="dt2w_desc">허용 당신 에 일어나 다 그만큼 장치 으로 더블 두드림 ...에 그만큼 화면.</string>
+<string name="otg_desc">허용 당신 에 잇다 USB 장치. 언제 활성화 된 다른 장치 관련 USB 기능, 이러한 같이 ADB 과 MTP, 의지 아니 있다 유효한 ...까지 이 ~이다. 장애인 또는 그만큼 장치 ~이다. 재부팅되었습니다. 아니 모든 USB 장치들 의지 작업.</string>
+<string name="glove_desc">증가 그만큼 감광도 의 그만큼 접촉 화면 그래서 감동 양철통 있다 등기 동안 착용 장갑.</string>
+<string name="sim2_desc">사용 가능 그만큼 둘째 시뮬레이션 카드 슬롯. 이 할까요 아니 있다 활성화 된 ~ 않는 한 그곳에 ~이다. 에이 시뮬레이션 카드 ...에서 그만큼 둘째 슬롯. (요구 사항 재부팅!) </string>
+<string name="google_enc_desc">이 공장 약 문제 와 Snapchat, 인스 타 그램 과 다른 비디오 녹음 앱. 용도 그만큼 구글 avc 인코더 대신에 의 그만큼 hw avc 인코더. 당신 할 수있다 필요한 것 에 재시작 그만큼 앱 또는 재시작 그만큼 장치 전에 이 환경 걸리다 효과. 이 할 수있다 또한 원인 약간 비디오 녹음 앱 아니 에 작업.</string>
+<string name="sensorex_desc">테스트 실험적인 자이로 스코프 감지기! (요구 사항 재부팅) </string>
+<string name="sponsors">스폰서</string>
+<string name="not_supported">아니 지원되는 으로 이 장치...</string>
+<string name="sponsor_thank_you">감사 당신 모든 ...에 대한 당신 지원하다!</string>
+</resources>

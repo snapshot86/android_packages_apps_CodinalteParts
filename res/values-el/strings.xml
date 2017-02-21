@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">«Meticulus Ανάπτυξη</string>
+<string name="extras_section_name">Επιπλέον</string>
+<string name="app_name">«Meticulus μέρη »</string>
+<string name="kernel_header">Πυρήνας</string>
+<string name="otg_title">USB Πλήθος Τρόπος</string>
+<string name="sensorex_title">Πειραματικός Αισθητήρες</string>
+<string name="glove_title">Γάντι Τρόπος</string>
+<string name="dt2w_title">Διπλό Αφή Προς την Ιχνη</string>
+<string name="network_header">Δίκτυο</string>
+<string name="sim2_title">«Sim Κάρτα Θυρίδα 2 </string>
+<string name="workaround_header">Δουλειά Γύρω</string>
+<string name="google_enc_title">Χρήση Google H264 </string>
+<string name="action_settings">Ρυθμίσεις</string>
+<string name="dt2w_desc">«Επιτρέπει εσείς προς την ίχνη ο συσκευή με διπλό τρύπημα επί ο οθόνη.</string>
+<string name="otg_desc">«Επιτρέπει εσείς προς την συνδέω USB συσκευές. Πότε ενεργοποιημένη άλλα συσκευή σχετίζεται με USB λειτουργίες, τέτοιος όπως και ADB και MTP, θα δεν είναι διαθέσιμος μέχρις ότου Αυτό είναι άτομα με ειδικές ανάγκες ή ο συσκευή είναι επανεκκίνηση. Δεν όλα USB συσκευές θα δουλειά.</string>
+<string name="glove_desc">«Αυξήσεις ο ευαισθησία του ο αφή οθόνη Έτσι πινελιές μπορώ είναι εγγεγραμμένος ενώ κουραστικός γάντια.</string>
+<string name="sim2_desc">Δίνει τη δυνατότητα ο δεύτερος sim κάρτα θυρίδα. Αυτό πρέπει δεν είναι ενεργοποιημένη εκτός εκεί είναι ένα sim κάρτα σε ο δεύτερος θυρίδα. (Απαιτεί Επανεκκινήστε!) </string>
+<string name="google_enc_desc">Αυτό εργοστάσιο γύρω θέματα με Snapchat, Instagram και άλλα βίντεο εγγραφή εφαρμογές. χρήσεις ο google AVC κωδικοποιητή αντι αυτου του ο hw AVC κωδικοποιητή. Εσείς ενδέχεται χρειάζομαι προς την επανεκκίνηση ο app ή επανεκκίνηση ο συσκευή πριν Αυτό σύνθεση λαμβάνει αποτέλεσμα. Αυτό ενδέχεται επίσης αιτία μερικοί βίντεο εγγραφή εφαρμογές δεν προς την δουλειά.</string>
+<string name="sensorex_desc">Δοκιμή πειραματικός γυροσκόπιο αισθητήρα! (Απαιτεί Επανεκκίνηση) »</string>
+<string name="sponsors">«Χορηγοί»</string>
+<string name="not_supported">Δεν υποστηρίζονται με Αυτό συσκευή...</string>
+<string name="sponsor_thank_you">Ευχαριστώ εσείς όλα για την εσείς υποστήριξη!</string>
+</resources>

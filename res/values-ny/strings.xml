@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus Development </string>
+<string name="extras_section_name">Owonjezera</string>
+<string name="app_name">Meticulus mbali </string>
+<string name="kernel_header">Zokhala</string>
+<string name="otg_title">USB khamu akafuna </string>
+<string name="sensorex_title">Experimental masensa </string>
+<string name="glove_title">mogwirizana akafuna </string>
+<string name="dt2w_title">Iwiri kukhudza kuti Rute </string>
+<string name="network_header">Network</string>
+<string name="sim2_title">SIM khadi Polowera 2 </string>
+<string name="workaround_header">Ntchito padziko </string>
+<string name="google_enc_title">Kugwiritsa Google H264 </string>
+<string name="action_settings">Zikhazikiko</string>
+<string name="dt2w_desc">amalola inu kuti kudzuka ndi chipangizo ndi kawiri pogogoda pa ndi chophimba. </string>
+<string name="otg_desc">amalola inu kuti kugwirizana USB zipangizo. Liti adamulowetsa ena chipangizo okhudzana USB ntchito, chotero monga ADB ndi MTP, nditero osati kukhala lilipo mpaka izi ndi wolumala kapena ndi chipangizo ndi rebooted. osati onse USB zipangizo nditero ntchito. </string>
+<string name="glove_desc">Kwambiri ndi tilinazo wa ndi kukhudza yotchinga kotero chikunena mungathe kukhala anawerengedwa pamene atavala magolovesi. </string>
+<string name="sim2_desc">Kumathandiza ndi lachiwiri SIM khadi kagawo. izi ayenera osati kukhala adamulowetsa kupatula Apo ndi ndi SIM khadi mu ndi lachiwiri kagawo. (Amafuna Kuyambiransoko!) </string>
+<string name="google_enc_desc">Izi ntchito kuzungulira nkhani ndi Snapchat, Instagram ndi ena kanema kujambula mapulogalamu. ntchito ndi sakani avc encoder mmalo wa ndi hw avc encoder. inu mulole amafunika kuti yambitsaninso ndi app kapena yambitsaninso ndi chipangizo pamaso izi kolowera amatenga kwenikweni. izi mulole komanso chifukwa ena kanema kujambula mapulogalamu osati kuti ntchito. </string>
+<string name="sensorex_desc">Mayeso experimental gyroscope kachipangizo! (Amafuna Kuyambiransoko) </string>
+<string name="sponsors">Othandizira</string>
+<string name="not_supported">Sikuti anathandiza ndi izi chipangizo...</string>
+<string name="sponsor_thank_you">Thokozani inu onse chifukwa inu kuthandiza! </string>
+</resources>

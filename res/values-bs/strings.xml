@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus razvoj </string>
+<string name="extras_section_name">Extra</string>
+<string name="app_name">Meticulus Dijelovi </string>
+<string name="kernel_header">Kernel</string>
+<string name="otg_title">USB domaćin Mode </string>
+<string name="sensorex_title">Experimental Senzori </string>
+<string name="glove_title">rukavica Mode </string>
+<string name="dt2w_title">Double dodir u Wake </string>
+<string name="network_header">Mreža</string>
+<string name="sim2_title">Sim kartica prorez 2 </string>
+<string name="workaround_header">Rad oko </string>
+<string name="google_enc_title">Use Google H264 </string>
+<string name="action_settings">Postavke</string>
+<string name="dt2w_desc">Dozvoljava vas u probuditi u uređaj po dvostruko kuckanje na u ekran. </string>
+<string name="otg_desc">Dozvoljava vas u spojiti USB uređajima. Kada uskoro drugi uređaj povezan USB funkcije, takav kao ADB i MTP, volja ne biti dostupan do ovo je invaliditetom ili u uređaj je restartovao. ne sve USB uređaji volja raditi. </string>
+<string name="glove_desc">Povećava u osjetljivost od u dodir ekran tako dodire moći biti registrovan dok nošenje rukavice.</string>
+<string name="sim2_desc">Omogućava u sekunda sim kartica slot. Ovo treba ne biti uskoro osim ako tamo je a sim kartica u u sekunda slot. (Potreban Reboot!)</string>
+<string name="google_enc_desc">Ovo djela oko problemi sa Snapchat, Instagram i drugi video snimanje aplikacije. upotreba u Google AVC enkoder umjesto toga od u hw AVC enkoder. vas može trebati u Restart u aplikacija ili Restart u uređaj prije ovo postavljanje uzima efekt. Ovo može takođe uzrok neki video snimanje aplikacije ne u raditi. </string>
+<string name="sensorex_desc">Test eksperimentalan žiroskop Senzor! (Potreban Reboot) </string>
+<string name="sponsors">Sponzori</string>
+<string name="not_supported">nije podržano po ovo uređaj... </string>
+<string name="sponsor_thank_you">Hvala vas sve za vas podržavaju! </string>
+</resources>

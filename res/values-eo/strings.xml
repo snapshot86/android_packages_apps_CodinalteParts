@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus evoluo </string>
+<string name="extras_section_name">Ekstra</string>
+<string name="app_name">Meticulus partoj </string>
+<string name="kernel_header">Kernel</string>
+<string name="otg_title">USB gastiganto reĝimo </string>
+<string name="sensorex_title">Eksperimenta sentilojn </string>
+<string name="glove_title">Ganto reĝimo </string>
+<string name="dt2w_title">Duobla tuŝi al maldormo </string>
+<string name="network_header">Reto</string>
+<string name="sim2_title">Sim karto fendo 2 </string>
+<string name="workaround_header">Laboro ĉirkaŭ </string>
+<string name="google_enc_title">Uzu google H264 </string>
+<string name="action_settings">Settings</string>
+<string name="dt2w_desc">permesas vi al vekiĝi la artefakto per duoblaj frapetante sur la ekrano.</string>
+<string name="otg_desc">permesas vi al konekti USB aparatoj. Kiam aktivigita alia artefakto rilatajn USB funkcioj, tia kiel ADB kaj MTP, volas ne esti havebla ĝis ĉi estas malfunkciigita aŭ la artefakto estas rebooted. ne ĉiuj USB aparatoj volas labori.</string>
+<string name="glove_desc">Pliigas la sentemeco el la tuŝi ekrano tiel tuŝas povas esti registrita dum portante gantoj.</string>
+<string name="sim2_desc">Ebligas la dua sim karto fendo. ĉi devus ne esti aktivigita se tie estas oni sim karto en la dua fendo. (Postulas Reboot!) </string>
+<string name="google_enc_desc">Tiele verkoj ĉirkaŭ temoj kun Snapchat, instagram kaj alia video registrado apps. uzoj la google AVC codificador anstataŭe el la hw AVC codificador. vi eble bezonas al rekomenci la app aŭ rekomenci la artefakto antaŭ ĉi fikso prenas efekto. ĉi eble ankaŭ kaŭzo iuj video registrado apps ne al labori.</string>
+<string name="sensorex_desc">Testo eksperimenta giroscopio Sensilo! (Postulas Reboot) </string>
+<string name="sponsors">Sponsoroj</string>
+<string name="not_supported">Ne apogita per ĉi aparato... </string>
+<string name="sponsor_thank_you">Dankon vi ĉiuj por vi subteno!</string>
+</resources>

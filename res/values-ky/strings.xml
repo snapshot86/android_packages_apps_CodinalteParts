@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">«Meticulus өнүктүрүү «</string>
+<string name="extras_section_name">«Extra»</string>
+<string name="app_name">«Meticulus бөлүктөр «</string>
+<string name="kernel_header">«Өзөк»</string>
+<string name="otg_title">«USB кожоюн режими «</string>
+<string name="sensorex_title">«Эксперименталдык сенсорлор «</string>
+<string name="glove_title">«Байлык режими «</string>
+<string name="dt2w_title">«Double тийүү үчүн ойготуу «</string>
+<string name="network_header">«Тармак»</string>
+<string name="sim2_title">«Sim карта Slot 2 </string>
+<string name="workaround_header">«Work Around «</string>
+<string name="google_enc_title">«Use Гугл H264 </string>
+<string name="action_settings">«Орнотуулар»</string>
+<string name="dt2w_desc">«ачат сиз үчүн ойгонуу The түзмөк менен эки эсе көп таптоо боюнча The экран. «</string>
+<string name="otg_desc">«ачат сиз үчүн байланышуу USB түзмөк. качан кошуу башка түзмөк байланышкан USB милдеттери, ушундай катары АӨБ жана MTP, болот жок болуу жеткиликтүү чейин бул болуп саналат өчүрүлгөн же The түзмөк болуп саналат rebooted. жок бардык USB түзмөктөр болот иштеп жатат. «</string>
+<string name="glove_desc">«күчөшү The сезгичтик боюнча The тийүү экран ушундай токтолгон алат болуу катталган жатканда кийип, перчатки «.</string>
+<string name="sim2_desc">«иштетет The экинчи сим карта оюн. бул керек жок болуу кошуу башкача каралбаса, жок болуп саналат бир сим карта боюнча The экинчи оюн. (талап кылат Кайра жүктөө!) «</string>
+<string name="google_enc_desc">«Бул иштери жанында маселелер менен Снэпчат, Instagram жана башка Video жазуу колдонмо. колдонуу The гугл AVC коддогуч ордуна боюнча The HW AVC коддогуч. сиз Май керек үчүн кайра жүргүзүү The колдонмо же кайра жүргүзүү The түзмөк мурун бул жөндөө алат таасири. бул Май дагы себеп кээ бир Video жазуу колдонмо жок үчүн иштеп жатат. «</string>
+<string name="sensorex_desc">«Test тажрыйба датчик сенсор! (талап кылат Өчүрүп)</string>
+<string name="sponsors">«Sponsors»</string>
+<string name="not_supported">«Жок, колдоо менен бул түзмөк... «</string>
+<string name="sponsor_thank_you">«рахмат сиз бардык үчүн сиз колдоо! «</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus Pengembangan</string>
+<string name="extras_section_name">Tambahan</string>
+<string name="app_name">Meticulus bagian </string>
+<string name="kernel_header">Inti</string>
+<string name="otg_title">USB Tuan rumah Mode</string>
+<string name="sensorex_title">Eksperimental sensor </string>
+<string name="glove_title">Sarung tangan Mode</string>
+<string name="dt2w_title">Dua kali lipat Menyentuh Untuk Bangun</string>
+<string name="network_header">Jaringan</string>
+<string name="sim2_title">Sim Kartu celah 2 </string>
+<string name="workaround_header">Kerja Sekitar</string>
+<string name="google_enc_title">Menggunakan Google H264 </string>
+<string name="action_settings">Settings</string>
+<string name="dt2w_desc">Memungkinkan kamu untuk bangun itu alat oleh dua kali lipat penyadapan di itu layar.</string>
+<string name="otg_desc">Memungkinkan kamu untuk menghubungkan USB perangkat. Kapan diaktifkan lain alat terkait USB fungsi, seperti itu sebagai ADB dan MTP, akan tidak menjadi tersedia sampai ini aku s cacat atau itu alat aku s reboot. Tidak semua USB perangkat akan kerja.</string>
+<string name="glove_desc">Meningkatkan itu kepekaan dari itu menyentuh layar begitu sentuhan bisa menjadi terdaftar sementara mengenakan sarung tangan.</string>
+<string name="sim2_desc">Memungkinkan itu kedua sim kartu Slot. Ini harus tidak menjadi diaktifkan kecuali kalau sana aku s Sebuah sim kartu di itu kedua Slot. (Membutuhkan Reboot!) </string>
+<string name="google_enc_desc">Ini karya sekitar Masalah dengan Snapchat, Instagram dan lain video rekaman aplikasi. penggunaan itu google avc encoder sebagai gantinya dari itu hw avc encoder. Kamu mungkin perlu untuk mengulang kembali itu aplikasi atau mengulang kembali itu alat sebelum ini pengaturan dibutuhkan efek. Ini mungkin juga sebab beberapa video rekaman aplikasi tidak untuk kerja.</string>
+<string name="sensorex_desc">Uji eksperimental giroskop sensor! (Membutuhkan Reboot) </string>
+<string name="sponsors">Sponsor</string>
+<string name="not_supported">Tidak didukung oleh ini alat...</string>
+<string name="sponsor_thank_you">Terima kamu semua untuk kamu mendukung!</string>
+</resources>

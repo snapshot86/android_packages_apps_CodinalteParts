@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus rozvoj</string>
+<string name="extras_section_name">Extra</string>
+<string name="app_name">Meticulus časti</string>
+<string name="kernel_header">Jadrá</string>
+<string name="otg_title">USB Hostiteľ mode</string>
+<string name="sensorex_title">Experimentálne senzory</string>
+<string name="glove_title">Glove mode</string>
+<string name="dt2w_title">Double dotyk na Wake </string>
+<string name="network_header">Network</string>
+<string name="sim2_title">Sim karta štrbina 2 </string>
+<string name="workaround_header">Práca Okolo</string>
+<string name="google_enc_title">Use Google H264</string>
+<string name="action_settings">Nastavenie</string>
+<string name="dt2w_desc">Umožňuje vy na prebudiť zariadenie podľa dvojitý poklepaním na obrazovka.</string>
+<string name="otg_desc">Umožňuje vy na pripojiť USB zariadení. Kedy aktivovaný ostatné zariadenie príbuzný USB funkcie, taký ako ADB a MTP, vôľa nie byť k dispozícii kým toto je invalidný alebo zariadenie je reštartuje. nie všetko USB zariadení vôľa práca.</string>
+<string name="glove_desc">Zvýšenie citlivosť z dotyk plátno tak dotyky môcť byť registrovaný zatiaľ čo nosenie rukavice.</string>
+<string name="sim2_desc">Umožňuje druhý sim karta slot. toto mal nie byť aktivovaný pokiaľ tam je sim karta v druhý slot. (vyžaduje Reštartovať!)</string>
+<string name="google_enc_desc">Táto práce okolo problémy s snapchat, Instagram a ostatné video záznam aplikácie. použitie Google AVC kodér namiesto z hw AVC kodér. vy smieť potrebovať na reštart aplikácie alebo reštart zariadenie pred toto nastavenie berie účinok. toto smieť taktiež príčina niečo video záznam aplikácie nie na práca.</string>
+<string name="sensorex_desc">Skúšobným experimentálne gyroskop Senzor! (vyžaduje Reboot)</string>
+<string name="sponsors">Sponzori</string>
+<string name="not_supported">Nie podporovaný podľa toto zariadenie...</string>
+<string name="sponsor_thank_you">Poďakovať vy všetko pre vy podpora!</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus maendeleo </string>
+<string name="extras_section_name">Extra</string>
+<string name="app_name">Meticulus sehemu </string>
+<string name="kernel_header">Kernel</string>
+<string name="otg_title">USB jeshi mode </string>
+<string name="sensorex_title">Experimental Sensors </string>
+<string name="glove_title">Glove mode </string>
+<string name="dt2w_title">Double kugusa kwa Wake </string>
+<string name="network_header">Network</string>
+<string name="sim2_title">Sim kadi Slot 2 </string>
+<string name="workaround_header">Kazi karibu </string>
+<string name="google_enc_title">Matumizi Google H264 </string>
+<string name="action_settings">Settings</string>
+<string name="dt2w_desc">Inaruhusu wewe kwa kuamka the kifaa na mara mbili kugonga juu ya the screen. </string>
+<string name="otg_desc">Inaruhusu wewe kwa kuungana USB vifaa. Lini kuanzishwa mengine kifaa kuhusiana na USB kazi, kama kama ADB na MTP, mapenzi si kuwa inapatikana mpaka huu ni walemavu au the kifaa ni rebooted. si zote USB vifaa mapenzi kazi. </string>
+<string name="glove_desc">Ongezeko the unyeti ya the kugusa screen hivyo kumgusa Unaweza kuwa kusajiliwa wakati amevaa kinga. </string>
+<string name="sim2_desc">Inawezesha the pili sim kadi yanayopangwa. hii lazima si kuwa kuanzishwa isipokuwa kuna ni a sim kadi katika the pili yanayopangwa. (Inahitaji Reboot!) </string>
+<string name="google_enc_desc">Hii kazi karibu mambo na Snapchat, Instagram na mengine video kurekodi programu. matumizi the google AVC encoder badala ya the hw AVC encoder. You may haja kwa Anzisha tena the programu au Anzisha tena the kifaa kabla huu mazingira inachukua athari. hii may pia sababu baadhi video kurekodi programu si kwa kazi. </string>
+<string name="sensorex_desc">Mtihani majaribio gyroscope sensor! (Inahitaji Reboot) </string>
+<string name="sponsors">Wadhamini</string>
+<string name="not_supported">Si mkono na huu kifaa... </string>
+<string name="sponsor_thank_you">Asante wewe zote kwa wewe kuunga mkono! </string>
+</resources>

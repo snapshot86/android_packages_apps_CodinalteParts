@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus Forbairt</string>
+<string name="extras_section_name">Extra</string>
+<string name="app_name">Meticulus Páirteanna </string>
+<string name="kernel_header">Eithne</string>
+<string name="otg_title">USB óstríomhaire mód </string>
+<string name="sensorex_title">Experimental braiteoirí </string>
+<string name="glove_title">Glove mód </string>
+<string name="dt2w_title">Double dteagmháil Chun Dúisigh</string>
+<string name="network_header">Líonra</string>
+<string name="sim2_title">Sim cárta sliotán 2 </string>
+<string name="workaround_header">Obair Thart </string>
+<string name="google_enc_title">Úsáid google H264 </string>
+<string name="action_settings">Settings</string>
+<string name="dt2w_desc">Ceadaíonn tú chun dúisigh an gléas ag dúbailte cnagadh ar an scáileán. </string>
+<string name="otg_desc">Ceadaíonn tú chun ceangal USB feistí. Cathain gníomhachtaithe eile gléas gaolmhara USB feidhmeanna, sórt mar ADB agus Gléas, beidh nach bhfuil bheith fáil go dtí seo Is faoi ​​mhíchumas nó an gléas Is rebooted. Nach bhfuil gach USB feistí beidh ag obair. </string>
+<string name="glove_desc">Méaduithe an íogaireacht na an dteagmháil scáileán mar sin baint Is féidir bheith cláraithe cé caitheamh lámhainní. </string>
+<string name="sim2_desc">Cumasaigh an dara sim cárta sliotán. seo Ba chóir nach bhfuil bheith gníomhachtaithe mura rud é ann Is a sim cárta i an dara sliotán. (Éilíonn Atosaigh!) </string>
+<string name="google_enc_desc">seo oibreacha thart ceisteanna le Snapchat, Instagram agus eile físeán taifeadadh apps. úsáidí an google AVC Ionchódóir ina ionad sin na an hw AVC ionchódóra. Tá tú féadfaidh Ní mór chun Tosaigh arís an app nó Tosaigh arís an gléas roimh seo leagan Tógann éifeacht. seo féadfaidh chomh faoi ​​deara roinnt físeán taifeadadh apps nach bhfuil chun ag obair. </string>
+<string name="sensorex_desc">Scrúdú turgnamhach gyroscope braiteoir! (Éilíonn Atosaigh) </string>
+<string name="sponsors">Urraitheoirí</string>
+<string name="not_supported">Nach bhfuil tacaíocht ag seo gléas... </string>
+<string name="sponsor_thank_you">Go raibh maith tú gach do tú tacaíocht a thabhairt! </string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus хөгжлийн</string>
+<string name="extras_section_name">Нэмэлт</string>
+<string name="app_name">Meticulus эд анги </string>
+<string name="kernel_header">Цөмийн</string>
+<string name="otg_title">USB Host Mode</string>
+<string name="sensorex_title">Туршилтын мэдрэгчүүд нь</string>
+<string name="glove_title">бээлий Mode</string>
+<string name="dt2w_title">Давхар хүр тулд Сэрэх</string>
+<string name="network_header">Сүлжээний</string>
+<string name="sim2_title">Sim карт Slot 2 </string>
+<string name="workaround_header">Ажлын орчим</string>
+<string name="google_enc_title">ашиглах Google-ийн H264</string>
+<string name="action_settings">Тохиргоо</string>
+<string name="dt2w_desc">зөвшөөрдөг Та нь сэрэх олон тоо төхөөрөмж гэхэд хоёр түншээд дээр олон тоо дэлгэц.</string>
+<string name="otg_desc">зөвшөөрдөг Та нь холбох USB төхөөрөмжүүд нь. үед идэвхжүүлсэн бусад төхөөрөмж холбогдох USB үйл ажиллагаа, ийм зэрэг АХБ-ны болон MTP, болно үгүй биш байх боломжтой хүртэл энэ байна Хөгжлийн бэрхшээлтэй эсвэл олон тоо төхөөрөмж байна дахин ачаалж. бус, бүх USB төхөөрөмжүүд болно ажиллаж байна.</string>
+<string name="glove_desc">өсөлт олон тоо мэдрэмжийн нь олон тоо барих дэлгэц тэгээд хүрсэн болно байх бүртгэгдсэн бол өмссөн бээлий.</string>
+<string name="sim2_desc">идэвхжүүлнэ олон тоо хоёр дахь карт карт оролт. энэ нь байх ёстой үгүй биш байх идэвхжүүлсэн бол Тэнд байна нь карт карт -д олон тоо хоёр дахь оролт. (шаарддаг Дахин ачаалах хэрэгтэй!) </string>
+<string name="google_enc_desc">Энэ ажил эргэн тойронд асуудлууд нь Snapchat, Instagram болон бусад видео бичлэг апп-ууд. хэрэглээ олон тоо Гүүгл AVC кодчилогч оронд нь нь олон тоо HW AVC кодчилогч. Та болох хэрэгтэй нь дахин ачааллах олон тоо програм эсвэл дахин ачааллах олон тоо төхөөрөмж өмнө энэ тохиргоо авдаг нөлөө. энэ нь болох мөн шалтгаан зарим видео бичлэг апп-ууд үгүй биш нь ажиллаж байна.</string>
+<string name="sensorex_desc">Туршилтын туршилтын үүсгэгч мэдрэгч! (шаарддаг Дахин ачаалан) </string>
+<string name="sponsors">Ивээн тэтгэгч</string>
+<string name="not_supported">бус, дэмжигдсэн гэхэд энэ төхөөрөмж нь...</string>
+<string name="sponsor_thank_you">баярлалаа Та бүх нь Та дэмжих!</string>
+</resources>

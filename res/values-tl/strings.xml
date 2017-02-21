@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus Development </string>
+<string name="extras_section_name">Extra</string>
+<string name="app_name">Meticulus Parts </string>
+<string name="kernel_header">Kernel</string>
+<string name="otg_title">USB punong-abala mode </string>
+<string name="sensorex_title">Experimental sensors </string>
+<string name="glove_title">Glove mode </string>
+<string name="dt2w_title">Double kalabitin upang Wake </string>
+<string name="network_header">Network</string>
+<string name="sim2_title">Sim kard slot 2 </string>
+<string name="workaround_header">Work Around </string>
+<string name="google_enc_title">Gamitin ang Google H264 </string>
+<string name="action_settings">Mga Setting</string>
+<string name="dt2w_desc">Pinapayagan ikaw upang gisingin ang aparato sa pamamagitan ng doble pag-tap sa ang screen. </string>
+<string name="otg_desc">Pinapayagan ikaw upang ikabit USB device. Kailan aktibo iba aparato kaugnay USB pag-andar, gayon bilang ADB at MTP, habilin hindi maging magagamit hanggang ito ay baldado o ang aparato ay rebooted. hindi lahat USB device habilin magtrabaho. </string>
+<string name="glove_desc">Nadadagdagan ang pagkamapagdamdam ng ang kalabitin screen kaya touches maaari maging inirehistro habang suot guwantes. </string>
+<string name="sim2_desc">Pinapagana ang pangalawa sim kard slot. ito dapat hindi maging aktibo maliban na lamang kung doon ay isang sim kard sa ang pangalawa slot. (Nangangailangan I-reboot!) </string>
+<string name="google_enc_desc">ito gawa sa paligid isyu may Snapchat, Instagram at iba video pagtatala apps. Gumagamit ang google avc encoder sa halip ng ang hw avc encoder. Ikaw maaari kailangan upang restart ang app o restart ang aparato bago ito tagpuan tumatagal epekto. ito maaari din dahilan ilan video pagtatala apps hindi upang magtrabaho. </string>
+<string name="sensorex_desc">Pagsusulit pagsubok dyayroskop sensor! (Nangangailangan Reboot) </string>
+<string name="sponsors">Sponsors</string>
+<string name="not_supported">Hindi suportado sa pamamagitan ng ito device... </string>
+<string name="sponsor_thank_you">Salamat ikaw lahat para ikaw suportahan! </string>
+</resources>

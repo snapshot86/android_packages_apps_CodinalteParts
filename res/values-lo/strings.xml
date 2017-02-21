@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus ການພັດທະນາ </string>
+<string name="extras_section_name">ພິເສດ</string>
+<string name="app_name">Meticulus ພາກສ່ວນ </string>
+<string name="kernel_header">Kernel</string>
+<string name="otg_title">USB ການເປັນເຈົ້າພາບ Mode </string>
+<string name="sensorex_title">ການທົດລອງ ແກັບ </string>
+<string name="glove_title">ຖົງມື Mode </string>
+<string name="dt2w_title">Double ສໍາຜັດ ການ Wake </string>
+<string name="network_header">ເຄືອຂ່າຍ</string>
+<string name="sim2_title">Sim ບັດ Slot 2 </string>
+<string name="workaround_header">ເຮັດ ປະມານ </string>
+<string name="google_enc_title">ການນໍາໃຊ້ ກູໂກ H264 </string>
+<string name="action_settings">ການຕັ້ງຄ່າ</string>
+<string name="dt2w_desc">ອະນຸຍາດ ທ່ານ ການ wake ໄດ້ ອຸປະກອນ ໂດຍ double ປາດຢາງ ກ່ຽວກັບ ໄດ້ ຫນ້າຈໍ.</string>
+<string name="otg_desc">ອະນຸຍາດ ທ່ານ ການ ເຊື່ອມຕໍ່ USB ອຸປະກອນ. ເມື່ອ​ໃດ​ ເປີດນໍາໃຊ້ ອື່ນໆ ອຸປະກອນ ທີ່ກ່ຽວຂ້ອງ USB ປະຕິບັດຫນ້າ, ດັ່ງກ່າວ ເປັນ ADB ແລະ MTP, ຈະ ບໍ່ ຈະ ມີ ຈົນກ່ວາ ນີ້ ແມ່ນ ຄົນພິການ ຫຼື ໄດ້ ອຸປະກອນ ແມ່ນ rebooted. ບໍ່ ທັງຫມົດ USB ອຸປະກອນ ຈະ ເຮັດວຽກ.</string>
+<string name="glove_desc">ການເພີ່ມຂຶ້ນຂອງ ໄດ້ ທີ່ລະອຽດອ່ອນ ຂອງ ໄດ້ ສໍາຜັດ ຫນ້າຈໍ ດັ່ງນັ້ນ ການສໍາພັດ ສາມາດເຮັດໄດ້ ຈະ ລົງທະບຽນ ໃນຂະນະທີ່ ນຸ່ງເສື້ອ ຖົງ​ມື.</string>
+<string name="sim2_desc">ເຮັດໃຫ້ ໄດ້ ຄັ້ງທີສອງ sim ບັດ ໂມ້. ນີ້ ຄວນ ບໍ່ ຈະ ເປີດນໍາໃຊ້ ເວັ້ນເສຍແຕ່ວ່າ ມີ ແມ່ນ ເປັນ sim ບັດ ໃນ ໄດ້ ຄັ້ງທີສອງ ໂມ້. (ຮຽກຮ້ອງໃຫ້ມີ reboot!)</string>
+<string name="google_enc_desc">ນີ້ ການເຮັດວຽກ ປະມານ ບັນຫາ ກັບ SnapChat, Instagram ແລະ ອື່ນໆ ວິດີໂອ ການບັນທຶກ ກິດ. ການນໍາໃຊ້ ໄດ້ ກູໂກ avc ເຂົ້າລະຫັດ ແທນທີ່ຈະເປັນ ຂອງ ໄດ້ hw avc ເຂົ້າລະຫັດ. ທ່ານ ອາດຈະ ຕ້ອງການ ການ ເລີ່ມ​ຕົ້ນ​ໃຫມ່ ໄດ້ app ຫຼື ເລີ່ມ​ຕົ້ນ​ໃຫມ່ ໄດ້ ອຸປະກອນ ກ່ອນທີ່ຈະ ນີ້ ການຕັ້ງຄ່າ ໃຊ້ເວລາ ຜົນກະທົບ. ນີ້ ອາດຈະ ຍັງ ສາເຫດ ບາງ ວິດີໂອ ການບັນທຶກ ກິດ ບໍ່ ການ ເຮັດວຽກ.</string>
+<string name="sensorex_desc">ການທົດສອບ ການທົດລອງ gyroscope sensor! (ຮຽກຮ້ອງໃຫ້ມີ Reboot) </string>
+<string name="sponsors">ສະຫນັບສະຫນຸນ</string>
+<string name="not_supported">ບໍ່ ສະຫນັບສະຫນູນ ໂດຍ ນີ້ ອຸປະກອນ...</string>
+<string name="sponsor_thank_you">ຂໍຂອບໃຈ ທ່ານ ທັງຫມົດ ສໍາລັບການ ທ່ານ ສະຫນັບສະຫນູນ!</string>
+</resources>

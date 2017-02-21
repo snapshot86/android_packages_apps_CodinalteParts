@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus Development </string>
+<string name="extras_section_name">«Էքստրա»</string>
+<string name="app_name">Meticulus Parts </string>
+<string name="kernel_header">Միջուկ</string>
+<string name="otg_title">USB Host Տարբերակ </string>
+<string name="sensorex_title">փորձարարական Սենսորների </string>
+<string name="glove_title">Ձեռնոց Տարբերակ </string>
+<string name="dt2w_title">Կրկնակի դիպչել դեպի Wake -</string>
+<string name="network_header">Network</string>
+<string name="sim2_title">Sim քարտ անցք 2 </string>
+<string name="workaround_header">Աշխատանքային Around </string>
+<string name="google_enc_title">Օգտագործել Google H264 </string>
+<string name="action_settings">Պարամետրեր</string>
+<string name="dt2w_desc">թույլ է տալիս դուք դեպի արթնանալ որ սարք միջոցով կրկնակի կտկտոցը վրա որ էկրան.</string>
+<string name="otg_desc">թույլ է տալիս դուք դեպի միացնել USB սարքեր. Երբ ակտիվացրած այլ սարք հարակից USB գործառույթները, այդպիսի ինչպես ԱԶԲ իսկ MTP, կամք ոչ լինել մատչելի մինչեւ այս է անաշխատունակ կամ որ սարք է rebooted. ոչ բոլորը USB սարքեր կամք աշխատել.</string>
+<string name="glove_desc">Ավելացնում որ զգայունություն Հյուրատետր որ դիպչել էկրան այնքան անդրադարձ կարող է լինել գրանցված ժամանակ կրելու ձեռնոցներ. </string>
+<string name="sim2_desc">Ակտիվացնել որ երկրորդ SIM քարտ անցք: այս պետք ոչ լինել ակտիվացրած եթե այնտեղ է ա SIM քարտ մեջ որ երկրորդ անցք: (Պահանջվում Reboot!) </string>
+<string name="google_enc_desc">«Այս աշխատանքները շուրջը հարցեր հետ Snapchat, Instagram իսկ այլ վիդեո ձայնագրությունը ծրագրեր. uses որ Google ՀՎՀ Encoder փոխարեն Հյուրատետր որ HW ՀՎՀ Encoder: դուք կարող կարիք դեպի վերսկսել որ ծրագիրը կամ վերսկսել որ սարք մինչեւ այս ընդլայնված տեւում է ազդեցություն. այս կարող նույնպես պատճառը մի քանի վիդեո ձայնագրությունը Apps ոչ դեպի աշխատել.</string>
+<string name="sensorex_desc">Փորձարկում փորձնական gyroscope սենսոր! (Պահանջվում Reboot) </string>
+<string name="sponsors">Հովանավորներ</string>
+<string name="not_supported">Ոչ աջակցում միջոցով այս սարքի...</string>
+<string name="sponsor_thank_you">«Շնորհակալություն դուք բոլորը համար դուք աջակցել!</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus 開発</string>
+<string name="extras_section_name">余分</string>
+<string name="app_name">Meticulus 部品</string>
+<string name="kernel_header">カーネル</string>
+<string name="otg_title">USB ホスト モード</string>
+<string name="sensorex_title">実験的 センサーは、</string>
+<string name="glove_title">グローブ モード</string>
+<string name="dt2w_title">ダブル タッチ に Wake </string>
+<string name="network_header">ネットワーク</string>
+<string name="sim2_title">シム カード スロット 2 </string>
+<string name="workaround_header">作業 まわり</string>
+<string name="google_enc_title">つかいます Google H264 </string>
+<string name="action_settings">設定</string>
+<string name="dt2w_desc">許可する 君は に 目覚める その デバイス 〜によって ダブル タップ に その 画面。</string>
+<string name="otg_desc">許可する 君は に 接続する USB デバイス。 いつ 活性化された その他 デバイス 関連する USB 機能、 そのような として ADB そして MTP、 意志 ない 〜する 利用可能な 〜まで この は 無効 または その デバイス は 再起動しました。 ない すべて USB デバイス 意志 作業。</string>
+<string name="glove_desc">増加する その 感度 の その タッチ 画面 そう 触れる できる 〜する 登録された while 着る 手袋。</string>
+<string name="sim2_desc">有効にする その 二番 シム カード スロット。 この 〜すべき ない 〜する 活性化された 限り そこ は a シム カード に その 二番 スロット。 （必要 リブート！）</string>
+<string name="google_enc_desc">この 作品 まわり 問題 〜と Snapchat、 インスタグラム そして その他 ビデオ 録音 アプリ。 用途 その google avc エンコーダ 代わりに の その hw avc エンコーダ。 君は かもしれない 必要 に 再起動 その アプリ または 再起動 その デバイス 前 この 設定 テイク 効果。 この かもしれない また 原因 一部 ビデオ 録音 アプリ ない に 作業。</string>
+<string name="sensorex_desc">テスト 実験的 ジャイロスコープ センサー！ （必要 リブート）</string>
+<string name="sponsors">「スポンサー」</string>
+<string name="not_supported">ない サポートされている 〜によって この デバイス...</string>
+<string name="sponsor_thank_you">感謝 君は すべて ために 君は サポート！</string>
+</resources>

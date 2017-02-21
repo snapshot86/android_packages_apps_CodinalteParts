@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus рушди </string>
+<string name="extras_section_name">Extra »</string>
+<string name="app_name">Meticulus Қисмҳои </string>
+<string name="kernel_header">Ядро</string>
+<string name="otg_title">USB мизбон усули </string>
+<string name="sensorex_title">таҷрибавии санҷанда </string>
+<string name="glove_title">дастпӯшак усули </string>
+<string name="dt2w_title">дукарата сенсорӣ Ба бедор</string>
+<string name="network_header">Шабакаи</string>
+<string name="sim2_title">Сим корти ковокии 2 </string>
+<string name="workaround_header">кор Тақрибан </string>
+<string name="google_enc_title">Истифодабарии Google H264 </string>
+<string name="action_settings">Танзимот</string>
+<string name="dt2w_desc">имкон медиҳад шумо ба бедор кардан ба дастгоҳ бо дучандон оҳиста ба ба экран ».</string>
+<string name="otg_desc">имкон медиҳад шумо ба пайваст кардан USB дастгоҳҳои. Кай фаъол дигар дастгоҳ алоқаманд USB вазифаҳо, чунин мисли БОР ва БММ, хоҳад не бошад дастрас то ин аст маъюбон ё ба дастгоҳ аст rebooted. не ҳама USB таҷҳизоти хоҳад кор мекунанд.</string>
+<string name="glove_desc">меафзояд ба ҳассосият аз ба даст нарасонед экран ҳамин тавр расад, метавонад бошад ба қайд гирифта ҳол он пӯшидани дастпӯшак ».</string>
+<string name="sim2_desc">, дармегиронад ба дуюм SIM корт ковокии. ин бояд не бошад фаъол агар Он ҷо аст а SIM корт дар ба дуюм ковокии. (талаб Нав фурӯзон!) </string>
+<string name="google_enc_desc">«Ин корҳои дар гирди масъалањои бо Snapchat, Instagram ва дигар видео сабткунӣ Барномаҳои. истифода мебарад, ба гугл avc рамзгузорро ба ҷои аз ба хш avc рамзгузорро. шумо метавонад бояд ба оғози дубора ба барнома ё оғози дубора ба дастгоҳ пеш аз ин параметр мегирад Таъсири. ин метавонад ҳамчунин сабаб баъзе видео сабткунӣ Барномаҳои не ба кор мекунанд.</string>
+<string name="sensorex_desc">Санҷиши таҷрибавӣ gyroscope санҷандаро! (талаб Перезагрузка) </string>
+<string name="sponsors">Сарпарастон</string>
+<string name="not_supported">«Ҳеҷ дастгирӣ бо ин дастгоҳ...</string>
+<string name="sponsor_thank_you">ташаккур шумо ҳама барои шумо дастгирӣ! »</string>
+</resources>

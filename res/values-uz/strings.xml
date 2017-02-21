@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus taraqqiyot</string>
+<string name="extras_section_name">Extra</string>
+<string name="app_name">Meticulus qismlari,</string>
+<string name="kernel_header">Yadro</string>
+<string name="otg_title">USB mezbon Mode</string>
+<string name="sensorex_title">eksperimental sensorlar</string>
+<string name="glove_title">qolqop Mode</string>
+<string name="dt2w_title">Double tegish uchun Wake</string>
+<string name="network_header">Tarmoq</string>
+<string name="sim2_title">Sim karta Slot 2</string>
+<string name="workaround_header">Ish atrofida</string>
+<string name="google_enc_title">foydalanish Google H264</string>
+<string name="action_settings">Sozlamalar</string>
+<string name="dt2w_desc">beradi siz uchun oygonmoq The qurilma tomonidan ikki hissa tegib haqida The Ekran.</string>
+<string name="otg_desc">beradi siz uchun ulanish USB qurilmalar. Qachon faollashtirilgan boshqa qurilma tegishli USB vazifalari, bunday sifatida OTB va MTP, boladi yoq bolishi mavjud gacha bu boladi ochirilgan yoki The qurilma boladi qayta. yoq hamma USB qurilmalar boladi ish.</string>
+<string name="glove_desc">oshiradi The sezuvchanlik ning The tegish ekran shunday yetsa mumkin bolishi royxatga olingan paytda kiygan qolqop.</string>
+<string name="sim2_desc">yoqing The ikkinchi sim karta uyasi. bu kerak yoq bolishi faollashtirilgan agar Mana boladi a sim karta yilda The ikkinchi uyasi. (talab Qayta ishga tushirish!)</string>
+<string name="google_enc_desc">«Bu ishlari atrofida masalalar bilan Snapchat, Instagram va boshqa video yozish ilovalar. foydalanish The google AVC kodlayıcısı orniga ning The hw AVC kodlayıcısı. siz mumkin kerak uchun qayta ishga tushirish The ilova yoki qayta ishga tushirish The qurilma oldin bu sozlama oladi tasiri. bu mumkin ham sabab bazi video yozish ilovalar yoq uchun ish.</string>
+<string name="sensorex_desc">Test eksperimental giroskop Sensor! (talab Qayta ishga tushirish)</string>
+<string name="sponsors">Homiylar</string>
+<string name="not_supported">emas qollab-quvvatladi tomonidan bu qurilma...</string>
+<string name="sponsor_thank_you">rahmat  siz hamma uchun siz qollab-quvvatlash!</string>
+</resources>

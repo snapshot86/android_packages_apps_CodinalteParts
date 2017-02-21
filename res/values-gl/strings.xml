@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus desenvolvemento </string>
+<string name="extras_section_name">«Extra»</string>
+<string name="app_name">Meticulus Parts </string>
+<string name="kernel_header">Núcleo</string>
+<string name="otg_title">USB auxiliares modo </string>
+<string name="sensorex_title">Experimental sensores </string>
+<string name="glove_title">Glove modo </string>
+<string name="dt2w_title">Double tocar para Wake </string>
+<string name="network_header">Rede</string>
+<string name="sim2_title">Si tarxeta ranura 2 </string>
+<string name="workaround_header">Traballo Ao redor de </string>
+<string name="google_enc_title">uso Google H264 </string>
+<string name="action_settings">Configuración</string>
+<string name="dt2w_desc">Permite vostede para espertar o dispositivo por dobre tapping en o pantalla.</string>
+<string name="otg_desc">Permite vostede para conectar USB dispositivos. Cando activado outra dispositivo relacionado USB funcións, tal como ADB e MTP, vontade non ser dispoñible ata esta é válido ou o dispositivo é reiniciar. Non todo USB dispositivos vontade traballar. </string>
+<string name="glove_desc">Aumenta o sensibilidade de o tocar pantalla así Preme lata ser rexistrado mentres vestindo luvas. </string>
+<string name="sim2_desc">Permite o segundo si tarxeta rañura. esta debería non ser activado salvo que alí é un si tarxeta en o segundo rañura. (Require Reinicie!)</string>
+<string name="google_enc_desc">Este traballo en torno a cuestións con Snapchat, Instagram e outra video gravación aplicacións. usos o google AVC Encoder en vez de o HW AVC Encoder. vostede pode ter para restart o app ou restart o dispositivo antes esta escenario leva efecto. esta pode tamén causa algunhas video gravación aplicacións non para traballar. </string>
+<string name="sensorex_desc">Test experimental Xiroscopio Sensor! (Require Reinicio) </string>
+<string name="sponsors">Sponsors </string>
+<string name="not_supported">Non soportado por esta dispositivo... </string>
+<string name="sponsor_thank_you">Grazas vostede todo para vostede apoiar </string>
+</resources>

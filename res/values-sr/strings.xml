@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Метицулус Развој</string>
+<string name="extras_section_name">Екстра</string>
+<string name="app_name">Метицулус delovi </string>
+<string name="kernel_header">Језгра</string>
+<string name="otg_title">УСБ Домаћин моде </string>
+<string name="sensorex_title">Експериментална senzori </string>
+<string name="glove_title">Рукавица моде </string>
+<string name="dt2w_title">Дупли додир До ваке </string>
+<string name="network_header">Мрежа</string>
+<string name="sim2_title">СИМ картица прорез 2 </string>
+<string name="workaround_header">Рад Око</string>
+<string name="google_enc_title">Користи гоогле Х264 </string>
+<string name="action_settings">Подешавања</string>
+<string name="dt2w_desc">Омогућава ти до пробудити уређај од стране двоструко тапкање на екран.</string>
+<string name="otg_desc">Омогућава ти до повезати УСБ уређаји. Када активира други уређај повезан УСБ функције, тако као АДБ и МТП, воља не бити доступан све док ово је онемогућен или уређај је рестартовао. Не све УСБ уређаји воља раде.</string>
+<string name="glove_desc">Повећање осетљивост од додир екран тако дотакне моћи бити регистрован док ношење рукавице. </string>
+<string name="sim2_desc">Омогућује други sIM картица Слот. ово требало би не бити активира ако не тамо је sIM картица у други Слот. (Захтева Рестарт!)</string>
+<string name="google_enc_desc">Ово Извођење радова око pitanja са Снапцхат инстаграм и други видео снимање апликације. Користи google АВЦ кодер уместо тога од ХВ АВЦ кодер. ти може потреба до поново покренути апликација или поново покренути уређај пре него што ово подешавање узима ефекат. ово може такође узрок неки видео снимање апликације не до раде.</string>
+<string name="sensorex_desc">Тест експерименталан жироскоп сензор! (Захтева Рестарт)</string>
+<string name="sponsors"> Спонзори</string>
+<string name="not_supported">Не подржан од стране ово уређај...</string>
+<string name="sponsor_thank_you">Захвалити ти све за ти подршка!</string>
+</resources>

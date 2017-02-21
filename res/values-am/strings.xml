@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus ልማት </string>
+<string name="extras_section_name">«ተጨማሪ»</string>
+<string name="app_name">Meticulus ክፍሎች </string>
+<string name="kernel_header">የከርነል</string>
+<string name="otg_title">የ USB አስተናጋጅ ሁነታ </string>
+<string name="sensorex_title">የሙከራ መዳሰሻዎች </string>
+<string name="glove_title">ጓንት ሁነታ </string>
+<string name="dt2w_title">ድርብ ነካ ወደ ዋቄ </string>
+<string name="network_header">ኔትወርክ</string>
+<string name="sim2_title">ሲም ካርድ ማስገቢያ 2 </string>
+<string name="workaround_header">ሥራ ዙሪያ </string>
+<string name="google_enc_title">ይጠቀሙ ጉግል H264 </string>
+<string name="action_settings">ቅንጅቶች</string>
+<string name="dt2w_desc">ይፈቅዳል አንተ ወደ ቀሰቀሰ የ መሣሪያ በ እጥፍ መታ ላይ የ ማያ. </string>
+<string name="otg_desc">ይፈቅዳል አንተ ወደ ማገናኘት የ USB መሣሪያዎች. ጊዜ ገቢር ሌላ መሣሪያ የተዛመዱ የ USB ተግባራት, እንደዚህ እንደ በ ADB ና የ MTP, ፈቃድ አይደለም መሆን ይገኛል ድረስ ይህ ናት ተሰናክሏል ወይም የ መሣሪያ ናት ድጋሚ. አይደለም ሁሉ የ USB መሣሪያዎች ፈቃድ ይሠራሉ. </string>
+<string name="glove_desc">ቁጥር ጨመረ የ የስሜት ችሎታ የ የ ነካ ስክሪን እንደዚህ ንኪዎችን ይችላል መሆን የተመዘገበ ላይ ሳለ ደፍቶ ጓንት. </string>
+<string name="sim2_desc">ያነቃል የ ሁለተኛ ሲም ካርድ ማስገቢያ. ይህ ይገባል አይደለም መሆን ገቢር በስተቀር እዚያ ናት አንድ ሲም ካርድ ውስጥ የ ሁለተኛ ማስገቢያ. (ያስፈልገዋል ዳግም አስነሳ!) </string>
+<string name="google_enc_desc">ይህ ሥራ ዙሪያ ጉዳዮች ጋር Snapchat, Instagram ና ሌላ ቪዲዮ መቅዳት መተግበሪያዎች. ጥቅሞች የ በጉግል መፈለግ AVC መቀየሪያ በምትኩ የ የ HW AVC መቀየሪያ. አንተ ግንቦት ያስፈልጋቸዋል ወደ እንደገና ጀምር የ መተግበሪያ ወይም እንደገና ጀምር የ መሣሪያ ከዚህ በፊት ይህ ቅንብር ይወስዳል ውጤት. ይህ ግንቦት ደግሞ ምክንያት አንዳንድ ቪዲዮ መቅዳት መተግበሪያዎች አይደለም ወደ ይሠራሉ. </string>
+<string name="sensorex_desc">ሙከራ የሙከራ ጋይሮስኮፕ ዳሳሽ! (ያስፈልገዋል ዳግም ማስነሳት) </string>
+<string name="sponsors">ስፖንሰሮች</string>
+<string name="not_supported">አይደለም አይደገፍም በ ይህ መሣሪያ... </string>
+<string name="sponsor_thank_you">እናመሰግናለን  አንተ ሁሉ ለ አንተ ድጋፍ! </string>
+</resources>

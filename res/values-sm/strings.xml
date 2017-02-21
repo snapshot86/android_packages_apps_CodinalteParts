@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus atinae </string>
+<string name="extras_section_name">Extra</string>
+<string name="app_name">Meticulus vaega </string>
+<string name="kernel_header">Kernel</string>
+<string name="otg_title">USB matai faiga </string>
+<string name="sensorex_title">faataitai Sensors </string>
+<string name="glove_title">totinilima faiga </string>
+<string name="dt2w_title">Faalua paʻi i ala </string>
+<string name="network_header">Network</string>
+<string name="sim2_title">Sim pepa malō Slot 2 </string>
+<string name="workaround_header">Galuega faataamilo </string>
+<string name="google_enc_title">Faaaoga Google H264 </string>
+<string name="action_settings">Nofoaga</string>
+<string name="dt2w_desc">faatagaina oe i ala le togafiti i faʻalua tapping i le screen. </string>
+<string name="otg_desc">faatagaina oe i sosoʻo USB masini. a faagaoioia ese togafiti e fesootai i ai USB galuega tauave, e pei e pei ADB ma MTP, o le a lē ona iai seʻi lea o tagata gase poʻo le togafiti o rebooted. lē uma USB masini o le a galulue. </string>
+<string name="glove_desc">Faaopoopoga le alofaʻaga a le paʻi pupuni ina paʻi mafai ona faamauina aʻo ofuina totigilima. </string>
+<string name="sim2_desc">e mafai ai ona le tulaga lua sim pepa malō slot. lea e tatau lē ona faagaoioia seia vagana i ai o se sim pepa malō i le tulaga lua slot. (Manaomia Reboot!) </string>
+<string name="google_enc_desc">O lenei galuega solo mataupu i Snapchat, Instagram ma ese vitio puʻega apps. faaaogaina le google avc encoder nai lo a le hw avc encoder. oe Mae manaomia i restart le polokalama poʻo restart le togafiti aʻo leʻi lea faatulagaga e aafiaga. lea Mae foʻi ala se vitio puʻega apps lē i galulue. </string>
+<string name="sensorex_desc">Tofotofoga faataitai gyroscope sensor! (Manaomia Reboot) </string>
+<string name="sponsors">Lagolago</string>
+<string name="not_supported">E le lagolagoina i lea masini... </string>
+<string name="sponsor_thank_you">Faafetai oe uma mo oe lagolagoina! </string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus Privasi</string>
+<string name="extras_section_name">Tambahan</string>
+<string name="app_name">Meticulus Parts </string>
+<string name="kernel_header">Kernel</string>
+<string name="otg_title">USB host mode </string>
+<string name="sensorex_title">Eksperimen sensor </string>
+<string name="glove_title">Glove mode </string>
+<string name="dt2w_title">Double tutul kanggo Wake </string>
+<string name="network_header">Network</string>
+<string name="sim2_title">Sim Card slot 2 </string>
+<string name="workaround_header">Work around </string>
+<string name="google_enc_title">Gunakake Google H264 </string>
+<string name="action_settings">Setelan</string>
+<string name="dt2w_desc">Ngidini sampeyan kanggo tangi ing piranti dening pindho nunyuk ing ing Layar. </string>
+<string name="otg_desc">Ngidini sampeyan kanggo nyambung USB piranti. Kapan aktif liyane piranti gegandhengan USB fungsi, kuwi minangka ADB lan MTP, bakal ora dadi kasedhiya nganti iki punika dipatèni utawa ing piranti punika rebooted. ora kabeh USB piranti bakal bisa. </string>
+<string name="glove_desc">Mundhak ing sensitivitas saka ing tutul layar supaya nutul saget dadi kedhaftar nalika nganggo sarung tangan. </string>
+<string name="sim2_desc">Mbisakake ing kapindho SIM kertu slot. iki ngirim ora dadi aktif kajaba ana punika a SIM kertu ing ing kapindho slot. (Mbutuhake Urip maneh!) </string>
+<string name="google_enc_desc">iki nyambut gawe sak masalah karo Snapchat, Instagram lan liyane video ngrekam apps. ulah ing google AVC ngodhe tinimbang saka ing HW AVC ngodhe. sampeyan bisa kudu kanggo baleni meneh ing app utawa baleni meneh ing piranti sak durunge iki ngatur njupuk efek. iki bisa uga sabab sawetara video ngrekam apps ora kanggo bisa. </string>
+<string name="sensorex_desc">Test eksperimen gyroscope sensor! (Mbutuhake Urip maneh) </string>
+<string name="sponsors">Sponsor</string>
+<string name="not_supported">Ora didhukung dening iki piranti... </string>
+<string name="sponsor_thank_you">Matur sampeyan kabeh kanggo sampeyan nyokong!</string>
+</resources>

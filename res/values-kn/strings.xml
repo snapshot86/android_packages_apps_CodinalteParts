@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus ಅಭಿವೃದ್ಧಿ</string>
+<string name="extras_section_name">ಎಕ್ಸ್ಟ್ರಾ</string>
+<string name="app_name">Meticulus ಭಾಗಗಳು </string>
+<string name="kernel_header">ಕರ್ನಲ್</string>
+<string name="otg_title">ಯುಎಸ್ಬಿ ಹೋಸ್ಟ್ ಮೋಡ್ </string>
+<string name="sensorex_title">ಪ್ರಾಯೋಗಿಕ ಸಂವೇದಕ </string>
+<string name="glove_title">ಗ್ಲೋವ್ ಮೋಡ್ </string>
+<string name="dt2w_title">ಡಬಲ್ ಟಚ್ ಗೆ ವೇಕ್ </string>
+<string name="network_header">ನೆಟ್ವರ್ಕ್</string>
+<string name="sim2_title">ಸಿಮ್ ಕಾರ್ಡ್ ಸ್ಲಾಟ್ 2 </string>
+<string name="workaround_header">ವರ್ಕ್ ಅರೌಂಡ್ </string>
+<string name="google_enc_title">ಯುಸ್ ಗೂಗಲ್ H264 </string>
+<string name="action_settings">ಸೆಟ್ಟಿಂಗ್ಸ್</string>
+<string name="dt2w_desc">ಅನುಮತಿಸುತ್ತದೆ ನೀವು ಗೆ ಏಳುವ ದಿ ಸಾಧನ ಮೂಲಕ ಡಬಲ್ ಟ್ಯಾಪಿಂಗ್ ಮೇಲೆ ದಿ ಪರದೆಯ.</string>
+<string name="otg_desc">ಅನುಮತಿಸುತ್ತದೆ ನೀವು ಗೆ ಸಂಪರ್ಕ ಯುಎಸ್ಬಿ ಸಾಧನಗಳು. ಯಾವಾಗ ಸಕ್ರಿಯ ಇತರ ಸಾಧನ ಸಂಬಂಧಿತ ಯುಎಸ್ಬಿ ಕಾರ್ಯಗಳನ್ನು ಇಂತಹ ಮಾಹಿತಿ ಎಡಿಬಿ ಮತ್ತು ಗೌಟ್ ರೋಗಗ್ರಸ್ತವಾಗುವ, ತಿನ್ನುವೆ ಅಲ್ಲ ಎಂದು ಲಭ್ಯವಿರುವ ರವರೆಗೆ ಈ ಇದೆ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ ಅಥವಾ ದಿ ಸಾಧನ ಇದೆ ಬೂಟ್. ಮಾಡಿರುವುದಿಲ್ಲ ಎಲ್ಲಾ ಯುಎಸ್ಬಿ ಸಾಧನಗಳು ತಿನ್ನುವೆ ಕೆಲಸ. </string>
+<string name="glove_desc">ಏರಿಕೆಯು ದಿ ಸಂವೇದನೆ ಆಫ್ ದಿ ಟಚ್ ಪರದೆಯ ಆದ್ದರಿಂದ ಸ್ಪರ್ಶ ಮಾಡಬಹುದು ಎಂದು ನೋಂದಾಯಿತ ಹಾಗೆಯೇ ಧರಿಸಿ ಕೈಗವಸುಗಳು. </string>
+<string name="sim2_desc">ಸಕ್ರಿಯಗೊಳಿಸುತ್ತದೆ ದಿ ಎರಡನೇ ಸಿಮ್ ಕಾರ್ಡ್ ಸ್ಲಾಟ್. ಈ ಮಾಡಬೇಕಾದುದು ಅಲ್ಲ ಎಂದು ಸಕ್ರಿಯ ಹೊರತು ಅಲ್ಲಿ ಇದೆ ಒಂದು ಸಿಮ್ ಕಾರ್ಡ್ ರಲ್ಲಿ ದಿ ಎರಡನೇ ಸ್ಲಾಟ್. (ಸಾರಾಂಶ ಮರಳಿ ಬೂಟ್!) </string>
+<string name="google_enc_desc">ಈ ಕೃತಿಗಳು ಸುಮಾರು ಸಮಸ್ಯೆಗಳು ಜೊತೆ Snapchat, instagram ಮತ್ತು ಇತರ ವೀಡಿಯೊ ರೆಕಾರ್ಡಿಂಗ್ ಅಪ್ಲಿಕೇಶನ್ಗಳು. ಉಪಯೋಗಗಳು ದಿ ಗೂಗಲ್ AVC ಎನ್ಕೋಡರ್ ಬದಲಿಗೆ ಆಫ್ ದಿ HW AVC ಎನ್ಕೋಡರ್. ನೀವು ಮೇ ಅಗತ್ಯವಿದೆ ಗೆ ಪುನರಾರಂಭದ ದಿ ಅಪ್ಲಿಕೇಶನ್ ಅಥವಾ ಪುನರಾರಂಭದ ದಿ ಸಾಧನ ಮೊದಲು ಈ ಸೆಟ್ಟಿಂಗ್ ತೆಗೆದುಕೊಳ್ಳುತ್ತದೆ ಪರಿಣಾಮ. ಈ ಮೇ ಸಹ ಕಾರಣ ಕೆಲವು ವೀಡಿಯೊ ರೆಕಾರ್ಡಿಂಗ್ ಅಪ್ಲಿಕೇಶನ್ಗಳು ಅಲ್ಲ ಗೆ ಕೆಲಸ. </string>
+<string name="sensorex_desc">ಟೆಸ್ಟ್ ಪ್ರಾಯೋಗಿಕ ಇವು ಸಂವೇದಕ! (ಸಾರಾಂಶ ರೀಬೂಟ್) </string>
+<string name="sponsors">ಪ್ರಾಯೋಜಕರು</string>
+<string name="not_supported">ಅಲ್ಲ ಬೆಂಬಲ ಮೂಲಕ ಈ ಸಾಧನ... </string>
+<string name="sponsor_thank_you">ಧನ್ಯವಾದಗಳು ನೀವು ಎಲ್ಲಾ ಫಾರ್ ನೀವು ಬೆಂಬಲ! </string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus ਵਿਕਾਸ </string>
+<string name="extras_section_name">ਵਾਧੂ</string>
+<string name="app_name">Meticulus ਅੰਗ </string>
+<string name="kernel_header">ਕਰਨਲ</string>
+<string name="otg_title">USB ਮੇਜ਼ਬਾਨ ਮੋਡ </string>
+<string name="sensorex_title">ਪ੍ਰਯੋਗਾਤਮਕ ਸੂਚਕ </string>
+<string name="glove_title">ਖਿਚੜੀ ਮੋਡ </string>
+<string name="dt2w_title">ਡਬਲ ਛੂਹੋ ਕਰਨ ਲਈ ਵੇਕ </string>
+<string name="network_header">ਨੈੱਟਵਰਕ</string>
+<string name="sim2_title">ਸਿਮ ਕਾਰਡ ਸਲਾਟ 2 </string>
+<string name="workaround_header">ਦਾ ਕੰਮ ਕਰੀਬ </string>
+<string name="google_enc_title">ਵਰਤੋ ਗੂਗਲ H264 </string>
+<string name="action_settings">ਸੈਟਿੰਗ</string>
+<string name="dt2w_desc">ਦੀ ਆਗਿਆ ਦਿੰਦਾ ਹੈ ਤੁਹਾਨੂੰ ਨੂੰ ਜਾਗ The ਜੰਤਰ ਨਾਲ ਡਬਲ ਟੈਪ ਤੇ The ਸਕਰੀਨ ਨੂੰ. </string>
+<string name="otg_desc">ਦੀ ਆਗਿਆ ਦਿੰਦਾ ਹੈ ਤੁਹਾਨੂੰ ਨੂੰ ਨਾਲ ਜੁੜਨ USB ਜੰਤਰ. ਜਦੋਂ ਸਰਗਰਮ ਹੋਰ ਜੰਤਰ ਸੰਬੰਧਿਤ USB ਫੰਕਸ਼ਨ, ਅਜਿਹੇ ਦੇ ਤੌਰ ਤੇ ਏ.ਡੀ.ਬੀ. ਅਤੇ MTP, ਕਰੇਗਾ ਨਾ ਹੋ ਉਪਲੱਬਧ ਜਦ ਤੱਕ ਇਸ ਹੈ ਅਯੋਗ ਜ The ਜੰਤਰ ਹੈ ਚਾਲੂ. ਨਾ ਸਾਰੇ USB ਜੰਤਰ ਕਰੇਗਾ ਕੰਮ ਕਰਦੇ ਹਨ. </string>
+<string name="glove_desc">ਵਧਦਾ ਹੈ The ਸੰਵੇਦਨਸ਼ੀਲਤਾ ਦੇ The ਨੂੰ ਛੂਹ ਸਕਰੀਨ ਨੂੰ ਇਸ ਲਈ touches ਹੋ ਸਕਦਾ ਹੈ ਹੋ ਰਜਿਸਟਰ ਕੀਤਾ ਜਦਕਿ ਪਹਿਨਣ ਦਸਤਾਨੇ. </string>
+<string name="sim2_desc">ਯੋਗ ਕਰੋ The ਦੂਜਾ ਸਿਮ ਕਾਰਡ ਨੰਬਰ. ਇਹ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ ਨਾ ਹੋ ਸਰਗਰਮ ਜਦ ਤੱਕ ਉੱਥੇ ਹੈ ਨੂੰ ਇੱਕ ਸਿਮ ਕਾਰਡ ਵਿਚ The ਦੂਜਾ ਨੰਬਰ. (ਦੀ ਲੋੜ ਹੈ ਮੁੜ - ਚਾਲੂ!)</string>
+<string name="google_enc_desc">ਇਹ ਕੰਮ ਆਲੇ-ਦੁਆਲੇ ਦੇ ਮੁੱਦੇ ਨਾਲ Snapchat, Instagram ਅਤੇ ਹੋਰ ਵੀਡੀਓ ਰਿਕਾਰਡਿੰਗ ਐਪਸ. ਉਪਯੋਗ The Google AVC ਇਕੋਡਰ ਇਸ ਦੀ ਬਜਾਏ ਦੇ The HW AVC ਇਕੋਡਰ. ਤੁਹਾਨੂੰ ਹੋ ਸਕਦਾ ਹੈ ਦੀ ਲੋੜ ਹੈ ਨੂੰ ਚਾਲੂ The ਐਪ ਜ ਚਾਲੂ The ਜੰਤਰ ਅੱਗੇ ਇਸ ਸੈਟਿੰਗ ਲੱਗਦਾ ਹੈ ਪ੍ਰਭਾਵ. ਇਹ ਹੋ ਸਕਦਾ ਹੈ ਇਹ ਵੀ ਕਾਰਨ ਕੁੱਝ ਵੀਡੀਓ ਰਿਕਾਰਡਿੰਗ ਐਪਸ ਨਾ ਨੂੰ ਕੰਮ ਕਰਦੇ ਹਨ. </string>
+<string name="sensorex_desc">ਟੈਸਟ ਤਜਰਬੇ ਦਿਸ਼ਾਸੂਚਕ ਸੂਚਕ! (ਦੀ ਲੋੜ ਹੈ ਮੁੜ - ਚਾਲੂ)</string>
+<string name="sponsors">ਪ੍ਰਾਯੋਜਕ</string>
+<string name="not_supported">ਨਾ ਸਹਿਯੋਗੀ ਨਾਲ ਇਸ ਜੰਤਰ ਨੂੰ... </string>
+<string name="sponsor_thank_you">ਧੰਨਵਾਦ ਤੁਹਾਨੂੰ ਸਾਰੇ ਲਈ ਤੁਹਾਨੂੰ ਦਾ ਸਮਰਥਨ! </string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus ការអភិវឌ្ឍ</string>
+<string name="extras_section_name">បន្ថែម</string>
+<string name="app_name">Meticulus ផ្នែក </string>
+<string name="kernel_header">ខឺណែល</string>
+<string name="otg_title">យូ​អេ​ស​ប៊ី ម៉ាស៊ីន របៀប </string>
+<string name="sensorex_title">ពិសោធន៍ ឧបករណ៍ចាប់សញ្ញា</string>
+<string name="glove_title">ស្រោមដៃ របៀប </string>
+<string name="dt2w_title">ទ្វេដង ប៉ះ ដើម្បី ភ្ញាក់</string>
+<string name="network_header">បណ្ដាញ</string>
+<string name="sim2_title">ស៊ីម កាត រន្ធដោត 2 </string>
+<string name="workaround_header">ការងារ នៅជុំវិញ</string>
+<string name="google_enc_title">ប្រើ ក្រុមហ៊ុន google H264</string>
+<string name="action_settings">ការកំណត់</string>
+<string name="dt2w_desc">អនុញ្ញាតឱ្យ អ្នក ទៅ ភ្ញាក់ នេះ ឧបករណ៍ ដោយ ទ្វេដង ការប្រើប្រាស់ នៅលើ នេះ អេក្រង់។</string>
+<string name="otg_desc">អនុញ្ញាតឱ្យ អ្នក ទៅ ភ្ជាប់ យូ​អេ​ស​ប៊ី ឧបករណ៍។ ពេលណា​ ធ្វើឱ្យសកម្ម ផ្សេងទៀត ឧបករណ៍ ដែលទាក់ទង យូ​អេ​ស​ប៊ី មុខងារ, ដូច ជាការ ធនាគារអភិវឌ្ឍន៍អាស៊ី និង MTP, នឹង មិនមាន ជាការ ដែលអាចប្រើបាន រហូតដល់ នេះ គឺ ជនពិការ ឬ នេះ ឧបករណ៍ គឺ ចាប់ផ្ដើមឡើងវិញ។ មិនមាន ទាំងអស់ យូ​អេ​ស​ប៊ី ឧបករណ៍ នឹង ធ្វើការ។</string>
+<string name="glove_desc">ការកើនឡើង នេះ ការប្រែលប្រួល នៃ នេះ ប៉ះ អេក្រង់ ដូច្នេះ ការប៉ះ អាចធ្វើបាន ជាការ បានចុះឈ្មោះ ខណៈពេល ពាក់ ស្រោមដៃ។</string>
+<string name="sim2_desc">អនុញ្ញាត នេះ ជាលើកទីពីរ ស៊ីម កាត រន្ធដោត។ នេះ គួរ មិនមាន ជាការ ធ្វើឱ្យសកម្ម លុះត្រាតែបាន មាន គឺ មួយ ស៊ីម កាត ក្នុង នេះ ជាលើកទីពីរ រន្ធដោត។ (តម្រូវឱ្យមាន ចាប់ផ្ដើមឡើងវិញ!) </string>
+<string name="google_enc_desc">នេះ ការប្រព្រឹត្ដ នៅជុំវិញ បញ្ហា ជាមួយ Snapchat, Instagram បាន និង ផ្សេងទៀត វីដេអូ ថត កម្មវិធី។ ការប្រើប្រាស់ នេះ ហ្គូហ្គល AVC អ៊ិនកូឌ័ ជំនួសវិញ នៃ នេះ HW AVC អ៊ិនកូឌ័។ អ្នក អាច ត្រូវការ ទៅ ចាប់ផ្ដើមឡើងវិញ នេះ កម្មវិធី ឬ ចាប់ផ្ដើមឡើងវិញ នេះ ឧបករណ៍ មុន នេះ ការកំណត់ ត្រូវចំណាយពេល ជាធរមាន។ នេះ អាច ផងដែរ មូលហេតុ មួយចំនួន វីដេអូ ថត កម្មវិធី មិនមាន ទៅ ធ្វើការ។</string>
+<string name="sensorex_desc">ការធ្វើតេស្ត ពិសោធន៍ ឧបករណ៍បង្វិល អង្គញាណ! (តម្រូវឱ្យមាន ចាប់ផ្ដើមកុំព្យូទ័រឡើងវិញ) </string>
+<string name="sponsors">អ្នកឧបត្ថម្ភ</string>
+<string name="not_supported">មិន បានគាំទ្រ ដោយ នេះ ឧបករណ៍... </string>
+<string name="sponsor_thank_you">សូមអរគុណ អ្នក ទាំងអស់ សម្រាប់ អ្នក គាំទ្រ!</string>
+</resources>

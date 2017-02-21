@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus Development </string>
+<string name="extras_section_name">Extra</string>
+<string name="app_name">Meticulus sassa </string>
+<string name="kernel_header">Kwaya</string>
+<string name="otg_title">kebul watsa shiri Mode </string>
+<string name="sensorex_title">gwajin kwamfuta; </string>
+<string name="glove_title">safar hannu Mode </string>
+<string name="dt2w_title">Biyu Ku taɓa don Wake </string>
+<string name="network_header">Network</string>
+<string name="sim2_title">Sim Card Ramin 2 </string>
+<string name="workaround_header">Work Around </string>
+<string name="google_enc_title">amfani Google H264 </string>
+<string name="action_settings">Saituna</string>
+<string name="dt2w_desc">Bayar ka to farka da naurar by biyu tapping a kan da allon. </string>
+<string name="otg_desc">Bayar ka to gama kebul naurorin. A lokacin da kunna wasu naurar related kebul ayyuka, irin kamar yadda ADB kuma MTP, so ba zama akwai sai wannan ne naƙasasshe ko da naurar ne rebooted. ba dukan kebul naurorin so aiki. </string>
+<string name="glove_desc">Qara da ƙwarai na da shãfe allon haka shãfe iya zama rajista yayin da sanye safar hannu. </string>
+<string name="sim2_desc">sa da biyu sim katin Ramin. wannan kamata ba zama kunna har akwai ne a sim katin a da biyu Ramin. (buƙatar Sake!) </string>
+<string name="google_enc_desc">Wannan ayyukansu kusa da alamurran da suka shafi tare da Snapchat, Instagram kuma wasu video rikodi apps. amfani da google AVC encoder maimakon na da HW AVC encoder. ka may bukatar to sake kunnawa da app ko sake kunnawa da naurar kafin wannan saitin daukan sakamako. wannan may har ila yau, hanyar wasu video rikodi apps ba to aiki. </string>
+<string name="sensorex_desc">Test gwaji gyroscope Naurar haska bayanai! (buƙatar Sake) </string>
+<string name="sponsors">Tallafawa</string>
+<string name="not_supported">Ba goyan by wannan naurar... </string>
+<string name="sponsor_thank_you">Na gode ka dukan domin ka goyi bayan! </string>
+</resources>

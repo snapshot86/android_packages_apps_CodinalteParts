@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus વિકાસ </string>
+<string name="extras_section_name">વિશેષ</string>
+<string name="app_name">Meticulus ભાગો</string>
+<string name="kernel_header">કર્નલ</string>
+<string name="otg_title">યુએસબી યજમાન સ્થિતિ </string>
+<string name="sensorex_title">પ્રાયોગિક સેન્સર્સ </string>
+<string name="glove_title">હાથમોજું સ્થિતિ </string>
+<string name="dt2w_title">ડબલ ટચ માટે વેક </string>
+<string name="network_header">જો નેટવર્ક</string>
+<string name="sim2_title">સિમ પત્તાની સ્લોટ 2 </string>
+<string name="workaround_header">કામ આસપાસ </string>
+<string name="google_enc_title">વાપરવુ Google H264 </string>
+<string name="action_settings">સેટિંગ્સ</string>
+<string name="dt2w_desc">માટે પરવાનગી આપે છે તમે માટે જાગે આ ઉપકરણ દ્વારા ડબલ ટેપ પર આ સ્ક્રીન. </string>
+<string name="otg_desc">માટે પરવાનગી આપે છે તમે માટે જોડાવા યુએસબી ઉપકરણો. ક્યારે સક્રિય અન્ય ઉપકરણ સંબંધિત યુએસબી કાર્યો, આવા કારણ કે એડીબી અને એમટીપી, ચાલશે નથી હોઈ ઉપલબ્ધ ત્યાં સુધી આ છે અપંગ અથવા આ ઉપકરણ છે રીબુટ. નથી બધા યુએસબી ઉપકરણો ચાલશે કામ કરે છે. </string>
+<string name="glove_desc">વધારો આ સંવેદનશીલતા ના આ સ્પર્શ સ્ક્રીન તેથી રૂપ કરી શકો છો હોઈ રજીસ્ટર જ્યારે પહેર્યા મોજા.</string>
+<string name="sim2_desc">સક્રિય કરે છે આ બીજા સિમ કાર્ડ સ્લોટ. આ જોઈએ નથી હોઈ સક્રિય જ્યાં સુધી ત્યાં છે એક સિમ કાર્ડ માં આ બીજા સ્લોટ. (જરૂરી રીબુટ!) </string>
+<string name="google_enc_desc">આ કામ આસપાસ મુદ્દાઓ સાથે Snapchat, Instagram અને અન્ય વિડિઓ રેકોર્ડિંગ એપ્લિકેશન્સ. ઉપયોગો આ Google AVC એન્કોડર તેના બદલે ના આ HW AVC એન્કોડર. તમે કરી શકે છે જરૂર માટે પુનઃપ્રારંભ આ એપ્લિકેશન અથવા પુનઃપ્રારંભ આ ઉપકરણ પહેલાં આ સેટિંગ લે અસર. આ કરી શકે છે પણ કારણ કેટલાક વિડિઓ રેકોર્ડિંગ એપ્લિકેશન્સ નથી માટે કામ કરે છે. </string>
+<string name="sensorex_desc">ટેસ્ટ પ્રાયોગિક ઘૂર્ણદર્શી સેન્સર! (જરૂરી રીબુટ) </string>
+<string name="sponsors">પ્રાયોજકો</string>
+<string name="not_supported">નથી આધારભૂત દ્વારા આ ઉપકરણ... </string>
+<string name="sponsor_thank_you">આભાર તમે બધા માટે તમે આધાર! </string>
+</resources>

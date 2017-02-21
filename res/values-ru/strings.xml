@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus Развитие</string>
+<string name="extras_section_name">Экстра</string>
+<string name="app_name">Meticulus Части </string>
+<string name="kernel_header">Кернел</string>
+<string name="otg_title">USB хозяин Режим</string>
+<string name="sensorex_title">Экспериментальная Датчики </string>
+<string name="glove_title">Перчатка Режим</string>
+<string name="dt2w_title">Двойной дотрагиваться к Услуга</string>
+<string name="network_header">Сеть</string>
+<string name="sim2_title">Sim Карта слот 2 </string>
+<string name="workaround_header">Работа Вокруг</string>
+<string name="google_enc_title">Использовать Google H264 </string>
+<string name="action_settings">Настройки</string>
+<string name="dt2w_desc">Позволяет вы к будить устройство от двойной нажав на Экран .</string>
+<string name="otg_desc">Позволяет вы к соединять USB устройств. когда активированный Другие устройство Связанный USB функции, такие в виде Азиатский банк развития а также MTP, будем не быть доступный до это является отключен или устройство является перезагружена. Не все USB приборы будем Работа.</string>
+<string name="glove_desc">Увеличение чувствительность из трогать экран так штрихи Можно быть зарегистрированный в то время как носить перчатки.</string>
+<string name="sim2_desc">Включает второй сим карта слот. Эта должен не быть активированный если там является сим карта в второй слот. (Требуется Перезагружать!)</string>
+<string name="google_enc_desc">Эта работает вокруг вопросы с Snapchat, Instagram а также Другие видео запись Программы. Пользы Google АВК кодировщик вместо из HW АВК кодер. Вы май необходимость к перезапуск приложение или перезапуск устройство до это настройка принимает эффект. Эта май также причина некоторые видео запись Программы не к Работа.</string>
+<string name="sensorex_desc">Контрольная работа экспериментальный гироскоп Датчик! (Требуется Перезагружать)</string>
+<string name="sponsors">Спонсоры</string>
+<string name="not_supported">Не поддержанный от это Устройство... </string>
+<string name="sponsor_thank_you">Спасибо вы все для вы поддержка!</string>
+</resources>

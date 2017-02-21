@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus Pêşveçûnî</string>
+<string name="extras_section_name">Biserde</string>
+<string name="app_name">Meticulus Parts </string>
+<string name="kernel_header">Kernel</string>
+<string name="otg_title">USB Mazûban Awa</string>
+<string name="sensorex_title">Experimental sensorên </string>
+<string name="glove_title">Lepik Awa</string>
+<string name="dt2w_title">Dûcar Pêbûn Ber Hişyarbûn</string>
+<string name="network_header">Network</string>
+<string name="sim2_title">Sim Qert slot 2 </string>
+<string name="workaround_header">Kar Dorhal</string>
+<string name="google_enc_title">Bikaranîn Gûgil H264 </string>
+<string name="action_settings">Settings</string>
+<string name="dt2w_desc">Destûrê dide hûn ber hişyarbûn ew sazî ji dûcar gilîdar li ew rûber.</string>
+<string name="otg_desc">Destûrê dide hûn ber bihevgirêdan USB Cîhazên. Heke aktîfkirin yên din sazî related USB fonksiyonên, yên wisa dema ADB û lêdanêwerbigire, xwestek ne be berdeste ta ev e bêmecel an ew sazî e bingehîn. Ne gişt USB cîhazên xwestek kar.</string>
+<string name="glove_desc">zêdetir ew hisê nazik ji ew pêbûn rûber wiha heyema qûtîk be qeydkirî demek wearing lepikên xwe. </string>
+<string name="sim2_desc">Enables ew duyem sim qert hêlînê. Ev divêt ne be aktîfkirin heta ku va e yek sim qert li ew duyem hêlînê. (Requires Computerê!) </string>
+<string name="google_enc_desc">Ev berhemên dorhal pirsên bi Snapchat, Instagram û yên din video girtinî apps. hewcedariyên ew gûgil avc encoder di ber ji ew hw avc encoder. Hûn Gulan lazimî ber ji nû ve ew app an ji nû ve ew sazî berî ev mîhengê digire tesîr. Ev Gulan jî semed hin video girtinî apps ne ber kar.</string>
+<string name="sensorex_desc">Îmtîhan experimental gyroscope sensor! (Requires Ji nû ve) </string>
+<string name="sponsors">Piştgirên</string>
+<string name="not_supported">Ne piştgirî ji ev sazî...</string>
+<string name="sponsor_thank_you">Sipaskirin hûn gişt bo hûn alîkarî!</string>
+</resources>

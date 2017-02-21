@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">هعسوت</string>
+<string name="extras_section_name">یفاضا</string>
+<string name="app_name">تاعطق</string>
+<string name="kernel_header">ار</string>
+<string name="otg_title">یب سا وی نابزیم  تلاح</string>
+<string name="sensorex_title">یبرجت روسنس</string>
+<string name="glove_title">شکتسد  تلاح</string>
+<string name="dt2w_title">ربارب ود هب ندز تسد هب رادیب باوخ زا</string>
+<string name="network_header">Network</string>
+<string name="sim2_title">تراک تراک فاکش  2</string>
+<string name="workaround_header">رب و رود</string>
+<string name="google_enc_title">دینک هدافتسا لگوگ ،462H</string>
+<string name="action_settings">Settings</string>
+<string name="dt2w_desc">دهد یم هزاجا امش هب رادیب باوخ زا هاگتسد طسوت ربارب ود ندز هبرض رب .شیامن هحفص</string>
+<string name="otg_desc">دهد یم هزاجا امش هب لاصتا یب سا وی .اه هاگتسد ینامز هچ لاعف رگید هاگتسد طوبرم یب سا وی ،عباوت نینچ دننام ییایسآ فاشکنا کناب و ،PTM هدارا هن ندوب سرتسد رد نامز ات نیا تسا لولعم ای هاگتسد تسا .توب هن همه یب سا وی اه هاگتسد هدارا .راک</string>
+<string name="glove_desc">شیازفا تیساسح زا هب ندز تسد هدرپ نیاربانب سمل ناوت یم ندوب مان تبث هک یلاح رد ندیشوپ .شکتسد</string>
+<string name="sim2_desc">دزاس یم رداق ار نیمود تراک میس تراک .هظفاح نیا دیاب هن ندوب لاعف هکنیا رگم اجنآ تسا تراک میس تراک رد هک نیمود .هظفاح هب زاین( )!ددجم یزادنا هار</string>
+<string name="google_enc_desc">نیا راثآ رب و رود لئاسم اب ،تچ​​ پنسا یمومع تاصخشم شیامن و رگید یریوصت طبض .یاه همانرب هدافتسا لگوگ CVA راذگ زمر یاجب زا WH CVA .راذگ زمر امش تسا نکمم زاین هب هرابود عورش همانرب ای هرابود عورش هاگتسد زا لبق نیا تامیظنت دشک یم لوط .رثا نیا تسا نکمم نینچمه دوش یم ببس زا یخرب یریوصت طبض یاه همانرب هن هب .راک</string>
+<string name="sensorex_desc">تست یبرجت پوکسوریژ !روسنس هب زاین( )ددجم یزادنا هار</string>
+<string name="sponsors">نایماح</string>
+<string name="not_supported">ینابیتشپ طسوت نیا ...هاگتسد</string>
+<string name="sponsor_thank_you">رکشت امش همه یارب امش !ندرک تیامح</string>
+</resources>

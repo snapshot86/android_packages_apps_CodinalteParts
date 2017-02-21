@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus Ûntwikkeling</string>
+<string name="extras_section_name">Ekstra</string>
+<string name="app_name">Meticulus dielen </string>
+<string name="kernel_header">Kernel</string>
+<string name="otg_title">USB Gasthear Wize</string>
+<string name="sensorex_title">Experimental sensoren </string>
+<string name="glove_title">glove Wize</string>
+<string name="dt2w_title">Dûbel Oanreitsje Nei wake </string>
+<string name="network_header">Netwurk</string>
+<string name="sim2_title">Sim Kaart Slot 2 </string>
+<string name="workaround_header">Wurk Rûnom</string>
+<string name="google_enc_title">Brûke Google h264 </string>
+<string name="action_settings">Ynstellings</string>
+<string name="dt2w_desc">Stiet ta jo nei wekker de apparaat troch dûbel tapping op de skerm.</string>
+<string name="otg_desc">Stiet ta jo nei ferbine USB apparaten. Wannear aktivearre oar apparaat related USB funksjes, sok as Maatkamp en MTP, wil net wêze beskikber oant dit is ynvalide of de apparaat is rebooted. Net alle USB apparaten wil wurk.</string>
+<string name="glove_desc">grutter de gefoelichheid fan de oanreitsje skerm sa touches kinne wêze registrearre wylst wearing wanten. </string>
+<string name="sim2_desc">Aktivearret de twadde sim Kaart slot. Dit soene net wêze aktivearre of it moast wêze dat dêr is in sim Kaart yn de twadde slot. (Fereasket Reboot!) </string>
+<string name="google_enc_desc">Dit wurk rûnom saken mei Snapchat, Instagram en oar video opname apps. uses de google AVC encoder ynstee fan de HW AVC encoder. Jo meie need nei trochstart de app of trochstart de apparaat foar dit ynstelling nimt effekt. Dit meie ek oarsaak guon video opname apps net nei wurk.</string>
+<string name="sensorex_desc">Toets eksperimintele Eltse Grins Foarby sensor! (Fereasket Reboot) </string>
+<string name="sponsors">Sponsors</string>
+<string name="not_supported">Net stipe troch dit apparaat... </string>
+<string name="sponsor_thank_you">Tankje jo alle foar jo stypje!</string>
+</resources>

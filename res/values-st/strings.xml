@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus Development </string>
+<string name="extras_section_name">E eketsehileng</string>
+<string name="app_name">Meticulus Parts </string>
+<string name="kernel_header">Kernel</string>
+<string name="otg_title">USB batsholabaeng Mode </string>
+<string name="sensorex_title">liteko e hlahlobang </string>
+<string name="glove_title">tlelafo Mode </string>
+<string name="dt2w_title">Double ame ho phaphama </string>
+<string name="network_header">Network</string>
+<string name="sim2_title">Sim Card sekotjana 2 </string>
+<string name="workaround_header">Sebetsang Around </string>
+<string name="google_enc_title">Tšebeliso Google H264 </string>
+<string name="action_settings">Settings</string>
+<string name="dt2w_desc">lumella o ho tsoha ea sesebediswa ke imene habeli phaphatha mabapi le ea skrine. </string>
+<string name="otg_desc">lumella o ho amahanya USB disebediswa. Neng butswe tse ling sesebediswa tse amanang USB mesebetsi, joalo joalokaha ADB le MTP, e tla eseng ba fumaneha ho fihlela sena ke holofetseng kapa ea sesebediswa ke rebooted. eseng bohle USB disebediswa e tla sebetsa. </string>
+<string name="glove_desc">eketsa ea nahanela ea ea ame skrine kahoo thopothela ka ba ngolisoa ha a ntse a apereng litlelafo. </string>
+<string name="sim2_desc">nolofalletsa ea ea bobeli dirt karete sekotjana. sena se lokela eseng ba butswe ntle le haeba Mono ke e dirt karete a ea ea bobeli sekotjana. (Hloka Logon!) </string>
+<string name="google_enc_desc">Sena mesebetsi ho pota-pota litokollo le Snapchat, Instagram le tse ling video e rekota ditiriso. o sebelisa khanya e ea Google avc encoder ho e-na ea ea hw avc encoder. o ka ho hlokahala ho qala hape ea app e kapa qala hape ea sesebediswa pele sena bophirima nka sebediswa. sena se ka e boetse e sesosa ba bang video e rekota ditiriso eseng ho sebetsa. </string>
+<string name="sensorex_desc">Test etsa liteko gyroscope kutlo! (Hloka Logon) </string>
+<string name="sponsors">Sponsors</string>
+<string name="not_supported">Eseng tšehetsoa ke sena sesebediswa... </string>
+<string name="sponsor_thank_you">Kea leboha o bohle etsoe o tshehetsa! </string>
+</resources>

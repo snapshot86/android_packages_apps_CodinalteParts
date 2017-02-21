@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus வளர்ச்சி</string>
+<string name="extras_section_name">கூடுதல்</string>
+<string name="app_name">Meticulus பாகங்கள் </string>
+<string name="kernel_header">கர்னல்</string>
+<string name="otg_title">USB தொகுப்பாளர் முறை </string>
+<string name="sensorex_title">சோதனை சென்ஸார்ஸ் </string>
+<string name="glove_title">கையுறையால் முறை </string>
+<string name="dt2w_title">இரட்டை டச் செய்ய வேக் </string>
+<string name="network_header">பிணையம்</string>
+<string name="sim2_title">சிம் அட்டை துளை 2 </string>
+<string name="workaround_header">வேலை சுற்றி </string>
+<string name="google_enc_title">பயன்பாட்டு கூகிள் H264 </string>
+<string name="action_settings">அமைப்புகள்</string>
+<string name="dt2w_desc">அனுமதிக்கிறது நீங்கள் செய்ய எழுப்ப தி சாதனம் மூலம் இரட்டை தட்டுவதன் மீது தி திரையில். </string>
+<string name="otg_desc">அனுமதிக்கிறது நீங்கள் செய்ய இணைக்க USB சாதனங்கள். எப்பொழுது செயல்படுத்தப்படுகிறது மற்ற சாதனம் தொடர்புடைய USB செயல்பாடுகளை, போன்ற என ஆசிய அபிவிருத்தி வங்கி மற்றும் , MTP, விருப்பம் இல்லை இரு கிடைக்கும் வரை இந்த இருக்கிறது ஊனமுற்ற அல்லது தி சாதனம் இருக்கிறது மறுதுவக்கம். இல்லை அனைத்து USB சாதனங்கள் விருப்பம் வேலை. </string>
+<string name="glove_desc">அதிகரிக்கிறது தி உணர்திறன் என்ற தி தொட திரை அதனால் தொடுகின்ற முடியும் இரு பதிவு போது அணிந்து கையுறைகள். </string>
+<string name="sim2_desc">செயல்படுத்துகிறது தி இரண்டாவது சிம் அட்டை ஸ்லாட். இந்த வேண்டும் இல்லை இரு செயல்படுத்தப்படுகிறது வரை அங்கு இருக்கிறது ஒரு சிம் அட்டை உள்ள தி இரண்டாவது ஸ்லாட். (தேவைப்படுகிறது மீண்டும் துவக்கவும்!) </string>
+<string name="google_enc_desc">இந்த படைப்புகள் சுற்றி பிரச்சினைகள் உடன் SnapChat, instagram மற்றும் மற்ற காணொளி பதிவு பயன்பாடுகள். பயன்கள் தி கூகிள் AVC குறியாக்கி அதற்கு பதிலாக என்ற தி HW AVC குறியாக்கி. நீங்கள் மே தேவை செய்ய மறுதுவக்க தி பயன்பாட்டை அல்லது மறுதுவக்க தி சாதனம் முன் இந்த அமைப்பை எடுக்கும் விளைவு. இந்த மே மேலும் காரணம் சில காணொளி பதிவு பயன்பாடுகள் இல்லை செய்ய வேலை. </string>
+<string name="sensorex_desc">டெஸ்ட் சோதனை கொட்பு சென்சார்! (தேவைப்படுகிறது மீண்டும் துவக்கவும்) </string>
+<string name="sponsors">ஸ்பான்சர்கள்</string>
+<string name="not_supported">இல்லை ஆதரவு மூலம் இந்த சாதனம்... </string>
+<string name="sponsor_thank_you">நன்றி  நீங்கள் அனைத்து ஐந்து நீங்கள் ஆதரவு! </string>
+</resources>

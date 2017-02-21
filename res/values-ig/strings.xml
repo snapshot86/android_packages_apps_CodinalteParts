@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus Development </string>
+<string name="extras_section_name">Extra</string>
+<string name="app_name">Meticulus Parts </string>
+<string name="kernel_header">Nwetụrụ</string>
+<string name="otg_title">USB Host mode </string>
+<string name="sensorex_title">Na sensọ </string>
+<string name="glove_title">uwe aka mode </string>
+<string name="dt2w_title">Ugboro abụọ emetụ Iji Ruth </string>
+<string name="network_header">Network</string>
+<string name="sim2_title">Sim kaadị oghere 2 </string>
+<string name="workaround_header">Ọrụ Around </string>
+<string name="google_enc_title">Jiri Google H264 </string>
+<string name="action_settings">Ntọala</string>
+<string name="dt2w_desc">Enye ohere ị ka eteta na ngwaọrụ site abụọ ịme ọpịpị on na na ihuenyo. </string>
+<string name="otg_desc">Enye ohere ị ka jikọọ USB ngwaọrụ. Mgbe ole ọrụ ọzọ ngwaọrụ yiri USB ọrụ, dị dị ka ADB na MTP, ga- ọ bụghị -abụ dị ruo mgbe a bụ nwere nkwarụ ma ọ bụ na ngwaọrụ bụ rebooted. ọ bụghị niile USB ngwaọrụ ga- -arụ ọrụ. </string>
+<string name="glove_desc">Aka Njọ na uche nke na emetụ ihuenyo otú nēmetu nwere ike -abụ e debara aha mgbe yi uwe. </string>
+<string name="sim2_desc">-eme na nke abụọ SIM kaadị oghere. a kwesịrị ọ bụghị -abụ ọrụ ma ọ bụrụ na Ebe ahụ bụ a SIM kaadị na na nke abụọ oghere. (Chọrọ Reboot!) </string>
+<string name="google_enc_desc">Nke a ọrụ gburugburu mbipụta na Snapchat, Instagram na ọzọ video ndekọ ngwa ọdịnala. ojiji na google AVC encoder kama nke na hw AVC encoder. ị nwere ike mkpa ka Malitegharịa ekwentị na ngwa ma ọ bụ Malitegharịa ekwentị na ngwaọrụ tupu a ọnọdụ -ewe mmetụta. a nwere ike na- akpata ụfọdụ video ndekọ ngwa ọdịnala ọ bụghị ka -arụ ọrụ. </string>
+<string name="sensorex_desc">Test ibuo gyroscope sensor! (Chọrọ Reboot) </string>
+<string name="sponsors">Haziri nzukọ</string>
+<string name="not_supported">Ọ bụghị akwado site a ngwaọrụ... </string>
+<string name="sponsor_thank_you">Na-ekele ị niile nihi na ị akwado! </string>
+</resources>

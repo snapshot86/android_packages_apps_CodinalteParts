@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus żvilupp</string>
+<string name="extras_section_name">Extra</string>
+<string name="app_name">Meticulus partijiet</string>
+<string name="kernel_header">Kernel</string>
+<string name="otg_title">USB ospitanti modalità</string>
+<string name="sensorex_title">Sperimentali sensers</string>
+<string name="glove_title">Ingwanta modalità</string>
+<string name="dt2w_title">Double touch biex Wake</string>
+<string name="network_header">Netwerk</string>
+<string name="sim2_title">Sim karta slott 2</string>
+<string name="workaround_header">Xogħol madwar</string>
+<string name="google_enc_title">Użu Google H264</string>
+<string name="action_settings">Settings</string>
+<string name="dt2w_desc">Tippermetti inti li jinxtegħel il apparat billi doppju tapping dwar il iskrin.</string>
+<string name="otg_desc">Tippermetti inti li qabbad USB apparat. Meta attivat oħra apparat relatati USB funzjonijiet, tali kif ADB u MTP, se mhux jkun disponibbli sakemm din il huwa persuni bdiżabilità jew il apparat huwa fasslu. mhux kollha USB apparat se xogħol.</string>
+<string name="glove_desc">Żidiet il sensittività ta il touch iskrin hekk tmiss jista jkun irreġistrata filwaqt li ilbies ingwanti.</string>
+<string name="sim2_desc">Jippermetti il tieni sim karta slot. Din il għandhom mhux jkun attivat sakemm hemm huwa a sim karta fil il tieni slot. (Requires Reboot!)</string>
+<string name="google_enc_desc">Din il- xogħlijiet madwar kwistjonijiet ma Snapchat, Instagram u oħra vidjo reġistrazzjoni apps. użi il google AVC encoder minflok ta il HW AVC encoder. inti jista bżonn li erġa ibda il app jew erġa ibda il apparat qabel din il iffissar jieħu effett. Din il jista ukoll kawża xi vidjo reġistrazzjoni apps mhux li xogħol.</string>
+<string name="sensorex_desc">test sperimentali ġiroskopju senser! (Requires Reboot)</string>
+<string name="sponsors">Sponsors</string>
+<string name="not_supported">Mhux sostnuta billi din il apparat...</string>
+<string name="sponsor_thank_you">Grazzi inti kollha għall inti appoġġ!</string>
+</resources>

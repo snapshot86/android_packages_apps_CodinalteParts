@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus განვითარება</string>
+<string name="extras_section_name">ზედმეტი</string>
+<string name="app_name">Meticulus ნაწილები</string>
+<string name="kernel_header">Kernel</string>
+<string name="otg_title">USB მასპინძელი რეჟიმი</string>
+<string name="sensorex_title">ექსპერიმენტული სენსორების </string>
+<string name="glove_title">ხელთათმანი რეჟიმი</string>
+<string name="dt2w_title">ორმაგი Touch იმისათვის, რომ გაღვიძება</string>
+<string name="network_header">ქსელი</string>
+<string name="sim2_title">Sim ანკეტა Slot 2</string>
+<string name="workaround_header">მუშაობა გარშემო</string>
+<string name="google_enc_title">გამოყენება Google H264</string>
+<string name="action_settings">პარამეტრები</string>
+<string name="dt2w_desc">აძლევს თქვენ to გაღვიძება მოწყობილობა მიერ ორმაგი მოსმენების on ეკრანზე.</string>
+<string name="otg_desc">აძლევს თქვენ to დაკავშირება USB მოწყობილობები. როდესაც გააქტიურებულია სხვა მოწყობილობა დაკავშირებული USB ფუნქციები, ასეთი როგორც ADB და MTP, იქნება არა იყოს ხელმისაწვდომია მანამდე ამ არის შეზღუდული შესაძლებლობების მქონე ან მოწყობილობა არის ქსელი. არა ყველა USB მოწყობილობები იქნება მუშაობა.</string>
+<string name="glove_desc">იზრდება მგრძობიარობა საქართველოს შეეხოთ ეკრანზე ისე ეკარება შეუძლია იყოს რეგისტრაცია ხოლო ტარება ხელთათმანები.</string>
+<string name="sim2_desc">საშუალებას მეორე sim ანკეტა ჭრილში. ეს უნდა არა იყოს გააქტიურებულია თუ არსებობს არის sim ანკეტა in მეორე ჭრილში. (აუცილებელია გადატვირთეთ!)</string>
+<string name="google_enc_desc">ეს სამუშაოები გარშემო საკითხები ერთად Snapchat, Instagram და სხვა ვიდეო ჩაწერა apps. გამოყენების google AVC აპარატი ნაცვლად საქართველოს hw AVC აპარატი. თქვენ შეუძლია უნდა to რესტარტი აპლიკაცია ან რესტარტი მოწყობილობა ადრე ამ გარემოში იღებს ეფექტი. ეს შეუძლია ასევე მიზეზი ზოგიერთი ვიდეო ჩაწერა apps არა to მუშაობა.</string>
+<string name="sensorex_desc">ტესტი ექსპერიმენტული გიროსკოპი სენსორი! (აუცილებელია გადატვირთეთ)</string>
+<string name="sponsors">პარტნიორები</string>
+<string name="not_supported">არ მხარდაჭერილი მიერ ამ მოწყობილობა...</string>
+<string name="sponsor_thank_you">მადლობას თქვენ ყველა for თქვენ მხარდაჭერა!</string>
+</resources>

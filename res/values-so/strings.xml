@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus Horumarinta </string>
+<string name="extras_section_name">Dheeraad</string>
+<string name="app_name">Meticulus Qaybo </string>
+<string name="kernel_header">Yaruna</string>
+<string name="otg_title">USB martigeliyaha Mode </string>
+<string name="sensorex_title">tijaabooyin dareemayaal </string>
+<string name="glove_title">Glove Mode </string>
+<string name="dt2w_title">Double taabta Si aad u Wake </string>
+<string name="network_header">Network</string>
+<string name="sim2_title">Sim Card Slot 2 </string>
+<string name="workaround_header">Work Qiyaastii </string>
+<string name="google_enc_title">Isticmaal Google H264 </string>
+<string name="action_settings">Settings</string>
+<string name="dt2w_desc">Kuu ogolaanayaa aad in tooso ka qalab by double siyoodba on ka screen. </string>
+<string name="otg_desc">Kuu ogolaanayaa aad in xirmaan USB qalabka. Goorma shaqeysiin kale qalab la xiriira USB hawlaha, sida sida ADB iyo MTP, doono ma noqon la heli karo ilaa this waa naafada ah ama ka qalab waa rebooted. Ma aha oo dhan USB qalabka doono shaqeeyaan.</string>
+<string name="glove_desc">Korodh ka dareenka of ka taabto screen si taabtana awooddo noqon diiwaan gashan halka xiran gacmo gashi. </string>
+<string name="sim2_desc">awood ka labaad sim kaarka Afyare. Tani waa in ma noqon shaqeysiin haddii waxaa waa a sim kaarka in ka labaad Afyare. (baahan yahay Reboot!)</string>
+<string name="google_enc_desc">Tani shuqullada ku dhowaad arrimaha la Snapchat, Instagram iyo kale video duubo apps. Isticmaalida ka google avc encoder halkii of ka HW avc encoder. Waxaad laga yaabaa u baahan in qeybtii labaad ka app ama qeybtii labaad ka qalab ka hor this goob qaadataa saamaynta. Tani laga yaabaa sidoo kale Jidka qaar ka mid ah video duubo apps ma in shaqeeyaan.</string>
+<string name="sensorex_desc">Test tijaabo tignoolaji shidma! (baahan yahay Reboot)</string>
+<string name="sponsors">Damaanadqaadayaasha</string>
+<string name="not_supported">Ma aha taageereen by this qalab... </string>
+<string name="sponsor_thank_you">mahadsan aad oo dhan waayo, aad taageero! </string>
+</resources>

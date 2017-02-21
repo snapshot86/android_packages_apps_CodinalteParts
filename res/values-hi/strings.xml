@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus विकास </string>
+<string name="extras_section_name">अतिरिक्त</string>
+<string name="app_name">Meticulus पार्ट्स </string>
+<string name="kernel_header">कर्नल</string>
+<string name="otg_title">यु एस बी मेज़बान मोड </string>
+<string name="sensorex_title">प्रायोगिक सेंसर </string>
+<string name="glove_title">दस्ताना मोड </string>
+<string name="dt2w_title">डबल स्पर्श सेवा मेरे जागो </string>
+<string name="network_header">नेटवर्क</string>
+<string name="sim2_title">सिम कार्ड खांचा 2 </string>
+<string name="workaround_header">काम चारों ओर</string>
+<string name="google_enc_title">उपयोग गूगल H264 </string>
+<string name="action_settings">सेटिंग्स</string>
+<string name="dt2w_desc">अनुमति देता है आप सेवा मेरे जागना युक्ति द्वारा दोगुना दोहन पर स्क्रीन। </string>
+<string name="otg_desc">अनुमति देता है आप सेवा मेरे जुडिये यु एस बी उपकरण। कब सक्रिय अन्य युक्ति सम्बंधित यु एस बी काम करता है, ऐसा जैसा एडीबी तथा एमटीपी, मर्जी नहीं होना उपलब्ध जब तक इस है विकलांग या युक्ति है rebooted। नहीं सब यु एस बी उपकरण मर्जी काम।</string>
+<string name="glove_desc">बढ़ती है संवेदनशीलता का स्पर्श स्क्रीन इसलिए छू कर सकते हैं होना दर्ज कराई जबकि पहनने के दस्ताने। </string>
+<string name="sim2_desc">सक्षम बनाता है दूसरा सिम कार्ड स्लॉट। इस चाहिए नहीं होना सक्रिय जब तक क्या आप वहां मौजूद हैं है ए सिम कार्ड में दूसरा स्लॉट। (आवश्यक रिबूट!)</string>
+<string name="google_enc_desc">इस काम करता है चारों ओर मुद्दे साथ में Snapchat, इंस्टाग्राम तथा अन्य वीडियो रिकॉर्डिंग क्षुधा। का उपयोग करता है गूगल एवीसी एनकोडर बजाय का HW एवीसी एनकोडर। आप मई जरुरत सेवा मेरे पुनः आरंभ करें एप्लिकेशन या पुनः आरंभ करें युक्ति से पहले इस सेटिंग लेता है प्रभाव। इस मई भी कारण कुछ वीडियो रिकॉर्डिंग क्षुधा नहीं सेवा मेरे काम।</string>
+<string name="sensorex_desc">परीक्षण प्रयोगात्मक gyroscope सेंसर! (आवश्यक रिबूट) </string>
+<string name="sponsors">प्रायोजक</string>
+<string name="not_supported">नहीं समर्थित द्वारा इस डिवाइस... </string>
+<string name="sponsor_thank_you">धन्यवाद आप सब के लिये आप समर्थन!</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus Fejlődés</string>
+<string name="extras_section_name">Külön</string>
+<string name="app_name">Meticulus Alkatrészek</string>
+<string name="kernel_header">Kernel</string>
+<string name="otg_title">USB Házigazda Mód</string>
+<string name="sensorex_title">Kísérleti érzékelők</string>
+<string name="glove_title">Kesztyű Mód</string>
+<string name="dt2w_title">Kettős Érintés Nak nek Ébred</string>
+<string name="network_header">Hálózat</string>
+<string name="sim2_title">Sim Kártya Rés 2 </string>
+<string name="workaround_header">Munka Körül</string>
+<string name="google_enc_title">Használat Google H264</string>
+<string name="action_settings">Beállítások</string>
+<string name="dt2w_desc">Lehetővé tesz te nak nek ébred a eszköz által kettős megcsapolás tovább a képernyő.</string>
+<string name="otg_desc">Lehetővé tesz te nak nek csatlakoztassa USB eszközök. Amikor aktív más eszköz összefüggő USB függvények, ilyen mint ADB és MTP, akarat nem lenni elérhető amíg ez az Tiltva vagy a eszköz az újraindul. Nem minden USB készülékek akarat munka.</string>
+<string name="glove_desc">Növeli a érzékenység nak,-nek a érintés képernyő így simítások tud lenni bejegyzett míg fárasztó kesztyű.</string>
+<string name="sim2_desc">Lehetővé teszi a második sim kártya rés. Ez kellene nem lenni aktív hacsak ott az egy sim kártya ban ben a második rés. (Igényel Reboot!)</string>
+<string name="google_enc_desc">Ez művek körül kérdések val vel Snapchat, Instagram és más videó- felvétel alkalmazásokat. felhasználások a Google AVC jeladó helyette nak,-nek a hw AVC jeladó. te lehet szükség nak nek újrakezd a app vagy újrakezd a eszköz előtt ez beállítás tart hatás. Ez lehet is ok néhány videó- felvétel alkalmazások nem nak nek munka.</string>
+<string name="sensorex_desc">Teszt kísérleti giroszkóp érzékelő! (Igényel Reboot)</string>
+<string name="sponsors">Támogatók</string>
+<string name="not_supported">Nem támogatott által ez eszköz...</string>
+<string name="sponsor_thank_you">Köszönet te minden mert te támogatás!</string>
+</resources>

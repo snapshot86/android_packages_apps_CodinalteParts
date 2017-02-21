@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name"> Meticulus ဖွံ့ဖြိုးရေးကောင်စီ </string>
+<string name="extras_section_name"> အပို </string>
+<string name="app_name"> Meticulus အစိတ်အပိုင်းများ </string>
+<string name="kernel_header"> က Kernel </string>
+<string name="otg_title">ယူအက်စ်ဘီ host က mode ကို </string>
+<string name="sensorex_title"> စမ်းသပ် sensors </string>
+<string name="glove_title"> လက်အိတ် mode ကို </string>
+<string name="dt2w_title"> ကိုနှစ်ချက် တို့ သို့  မနိုး</string>
+<string name="network_header"> Network မှ </string>
+<string name="sim2_title"> Sim Card ကို slot 2 </string>
+<string name="workaround_header"> သူ Work  ပတ်ပတ်လည်</string>
+<string name="google_enc_title"> ကိုအသုံးပြုခြင်း Google က H264 </string>
+<string name="action_settings"> က Settings </string>
+<string name="dt2w_desc"> ကခွင့်ပြုသည် သငျသညျ သို့ နှိုးဆျော အ စက်ကိရိယာ အားဖြင့် နှစ်ဆ ပုတ် အပေါ် အ မျက်နှာပြင်။ </string>
+<string name="otg_desc"> ကခွင့်ပြုသည် သငျသညျ သို့ ဆက် ယူအက်စ်ဘီ စက်များ။ ဘယ်တော့လဲ activated အခြား စက်ကိရိယာ ဆက်စပ် ယူအက်စ်ဘီ functions များ, ထိုကဲ့သို့သော အဖြစ် ADB က နှင့် MTP, လိမ့်မည် မဟုတ် ဖြစ် ရရှိနိုင် မှီတိုငျအောငျ ဤ ဖြစ် မသန်စွမ်း သို့မဟုတ် အ စက်ကိရိယာ ဖြစ် Reboot လုပ်သွား။ မဟုတ် အားလုံး ယူအက်စ်ဘီ ထုတ်ကုန် လိမ့်မည် အလုပ်။ </string>
+<string name="glove_desc"> တိုး အ အာရုံများကိုထိခိုက်လွယ်ခြင်း ၏ အ တို့ ဖန်သားပြင် ဒါကြောင့် ထိ နိုင် ဖြစ် မှတ်ပုံတင်ထား စဉ်တွင် ဝတ်ဆင် လက်အိတ်။ </string>
+<string name="sim2_desc"> ဖွင့်မည် အ ဒုတိယ sim ကတ်ကို slot ပါ။ ဤ သင့် မဟုတ် ဖြစ် activated မဟုတ်လျှင် အဲဒီမှာ ဖြစ် တစ်ဦး sim ကတ်ကို တွင် အ ဒုတိယ slot ပါ။ (လိုအပ်သည်  reboot!)</string>
+<string name="google_enc_desc">ဤ အလုပ်များ ပတ်ပတ်လည် ကိစ္စများ နှင့် Snapchat, Instagram ကို နှင့် အခြား ဗီဒီယို အသံသွင်းချက် အက်ပ်များ။ အသုံးပြုခြင်း အ google avc ကုဒ်ပြောင်းကိရိယာ အစား ၏ အ HW avc ကုဒ်ပြောင်းကိရိယာ။ သငျသညျ နိုင် လိုအပ်ချက် သို့ ပြန်စတင်သည် အ app ကို သို့မဟုတ် ပြန်စတင်သည် အ စက်ကိရိယာ ရှေ့မှာ ဤ setting ကို ကြာ အကျိုးသက်ရောက်မှု။ ဤ နိုင် လည်း အကွောငျး အချို့သော ဗီဒီယို အသံသွင်းချက် apps များ မဟုတ် သို့ အလုပ်။ </string>
+<string name="sensorex_desc"> စာမေးပွဲ စမ်းသပ်ဆဲ gyroscope အာရုံခံကိရိယာ! (လိုအပ်သည် reboot) </string>
+<string name="sponsors"> စပွန်ဆာပေးသူများ </string>
+<string name="not_supported"> မ ထောက်ခံ အားဖြင့် ဤ စက်ကိရိယာ...</string>
+<string name="sponsor_thank_you">ကျေးဇူးတင်ပါတယ် သငျသညျ အားလုံး ဘို့ သငျသညျ အထောက်အပံ့! </string>
+</resources>

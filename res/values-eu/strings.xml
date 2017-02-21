@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus Garapen </string>
+<string name="extras_section_name">Extra</string>
+<string name="app_name">Meticulus Parts </string>
+<string name="kernel_header">Kernel</string>
+<string name="otg_title">USB Host Modu</string>
+<string name="sensorex_title">Experimental sentsoreak </string>
+<string name="glove_title">Glove Modu</string>
+<string name="dt2w_title">bikoitzak Ukitu To Wake </string>
+<string name="network_header">Network</string>
+<string name="sim2_title">Sim Txartela Zirrikitua 2 </string>
+<string name="workaround_header">Lan inguruan </string>
+<string name="google_enc_title">Erabili Google H264 </string>
+<string name="action_settings">Ezarpenak</string>
+<string name="dt2w_desc">Aukera ematen zuk ra esnatu du gailu arabera bikoitza kolpatuta an du pantailan. </string>
+<string name="otg_desc">Aukera ematen zuk ra konektatu USB gailuak. Noiz Jaione beste gailu erlazionatutako USB funtzioak, besteak beste, gisa ADB eta MTP, izango ez izan eskuragarri arte hau da desgaituta edo du gailu da berrabiarazi. Ez guztiak USB gailu izango lan. </string>
+<string name="glove_desc">handitzen du sentsibilitatea of du ukitu pantaila beraz, Ikutu ahal izan erregistratu berriz jantzita eskularruak. </string>
+<string name="sim2_desc">gaitzen du bigarren sim txartela zirrikitua. hau beharko lukete ez izan Jaione salbu ez da a sim txartela in du bigarren zirrikitua. (Behar Berrabiarazi!) </string>
+<string name="google_enc_desc">hau lanak inguruan gaiak batera Snapchat, Instagram eta beste video grabazio aplikazioak. erabilerak du google AVC kodetzailea ordez of du hw AVC kodetzailea. Zuk may behar ra berrabiarazi du aplikazioa edo berrabiarazi du gailu aurretik hau ezarpena hartzen efektua. hau may halaber, kausa batzuk video grabazio aplikazioak ez ra lan. </string>
+<string name="sensorex_desc">Test esperimentala giroskopioa sentsore! (Behar Berrabiarazi) </string>
+<string name="sponsors">Babesle</string>
+<string name="not_supported">Not onartzen arabera hau Gailu... </string>
+<string name="sponsor_thank_you">Mila zuk guztiak egiteko zuk onartzen! </string>
+</resources>

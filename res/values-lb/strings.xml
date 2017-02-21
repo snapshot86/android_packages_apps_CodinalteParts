@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus Entwécklung</string>
+<string name="extras_section_name">Extra</string>
+<string name="app_name">Meticulus Deeler </string>
+<string name="kernel_header">Sätzt </string>
+<string name="otg_title">USB Provider Modus </string>
+<string name="sensorex_title">Mir hun detektéieren </string>
+<string name="glove_title">consomméieren Modus </string>
+<string name="dt2w_title">Double Touch ze Wake </string>
+<string name="network_header">Network</string>
+<string name="sim2_title">Sim Card Slot 2 </string>
+<string name="workaround_header">Work ëm </string>
+<string name="google_enc_title">Uwendung Google H264 </string>
+<string name="action_settings">Parameteren</string>
+<string name="dt2w_desc">erlaabt Dir ze erwech der Apparat vun duebel Ausspionéieren op der Écran.</string>
+<string name="otg_desc">erlaabt Dir ze konnektéieren USB Apparater. Wéini ageschalt aner Apparat Zesummenhang USB Funktiounen, esou wéi ADB an MTP, wäert net ginn sinn bis dëst ass Behënnerten oder der Apparat ass rebooted. net all USB Apparater wäert Aarbecht.</string>
+<string name="glove_desc">Erhéijung der Empfindlechkeet vun der Déngschtleeschtunge Écran sou beréiert kënnen ginn registréiert iwwerdeems Droen vun ugedoen.</string>
+<string name="sim2_desc">Erméiglegt der zweeten SIM Attack Stonneplang. dëst soll net ginn ageschalt ausser do ass eng SIM Attack an der zweeten Stonneplang. (verlaangt Neistarten!)</string>
+<string name="google_enc_desc">Dëst Wierker ronderëm Problemer mat Snapchat, instagram an aner Video Enregistrements- Apps. Utilisatioune der Google avc encoder amplaz vun der W avc encoder. Dir Mee brauchen ze Neistart der App oder Neistart der Apparat virum dëst Kader hëlt Effet. dëst Mee och Doudesursaach puer Video Enregistrements- Apps net ze Aarbecht.</string>
+<string name="sensorex_desc">Test experimentell eng éichter! (verlaangt Neistarten)</string>
+<string name="sponsors">Sponsore</string>
+<string name="not_supported">net ënnerstëtzt vun dëst Apparat...</string>
+<string name="sponsor_thank_you">Merci, Dir all fir Dir Ënnerstëtzung!</string>
+</resources>

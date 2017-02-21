@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus Développement</string>
+<string name="extras_section_name">Supplémentaire</string>
+<string name="app_name">Meticulus Les pièces</string>
+<string name="kernel_header">Noyau</string>
+<string name="otg_title">USB Hôte Mode</string>
+<string name="sensorex_title">Expérimental Capteurs </string>
+<string name="glove_title">Gant Mode</string>
+<string name="dt2w_title">Double Toucher À Réveiller</string>
+<string name="network_header">Réseau</string>
+<string name="sim2_title">Sim Carte Fente 2 </string>
+<string name="workaround_header">Travail Autour</string>
+<string name="google_enc_title">Utilisation Google H264 </string>
+<string name="action_settings">Paramètres</string>
+<string name="dt2w_desc">Permet toi à réveiller la dispositif par double tapotement sur la écran.</string>
+<string name="otg_desc">Permet toi à relier USB dispositifs. Quand Activé autre dispositif en relation USB les fonctions, tel comme ADB et MTP, volonté ne pas être disponible jusquà ce est désactivée ou la dispositif est Redémarré. ne pas tout USB dispositifs volonté travail.</string>
+<string name="glove_desc">Augmente la sensibilité de la toucher écran alors Touche pouvez être inscrit tandis que portant gants.</string>
+<string name="sim2_desc">Activer la seconde Sim carte fente. Ce devrait ne pas être Activé sauf si Là est une Sim carte dans la seconde fente. (A besoin Redémarrez!) </string>
+<string name="google_enc_desc">Ce travaux autour problèmes avec Snapchat, Instagram et autre vidéo enregistrement applications. Les usages la Google Avc Encodeur au lieu de la Hw Avc Encodeur. Toi mai avoir besoin à redémarrer la App ou redémarrer la dispositif avant ce réglage Prend effet. Ce mai aussi cause certains vidéo enregistrement applications ne pas à travail.</string>
+<string name="sensorex_desc">Tester expérimental gyroscope capteur! (A besoin Reboot) </string>
+<string name="sponsors">Sponsors</string>
+<string name="not_supported">Ne pas prise en charge par ce dispositif...</string>
+<string name="sponsor_thank_you">Remercier toi tout pour toi soutien!</string>
+</resources>

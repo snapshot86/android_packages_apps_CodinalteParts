@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus Utvikling</string>
+<string name="extras_section_name">Ekstra</string>
+<string name="app_name">Meticulus Deler</string>
+<string name="kernel_header">Kernel</string>
+<string name="otg_title">USB Vert Modus</string>
+<string name="sensorex_title">Eksperimentell sensorer </string>
+<string name="glove_title">Hanske Modus</string>
+<string name="dt2w_title">Dobbelt Ta på Til Våkne</string>
+<string name="network_header">Nettverk</string>
+<string name="sim2_title">Sim Kort Slot 2. </string>
+<string name="workaround_header">Arbeid Rundt</string>
+<string name="google_enc_title">Bruk Google H264 </string>
+<string name="action_settings">Innstillinger</string>
+<string name="dt2w_desc">Muliggjør du til våkne de enhet av dobbelt tappe på de skjerm.</string>
+<string name="otg_desc">Muliggjør du til koble USB enheter. Når aktivert annen enhet i slekt USB funksjoner, slik som ADB og MTP, vil ikke være tilgjengelig før dette er funksjonshemmet eller de enhet er startet på nytt. Ikke alle USB enheter vil arbeid.</string>
+<string name="glove_desc">Øker de følsomhet av de ta på skjerm så berører kan være registrert samtidig som iført hansker. </string>
+<string name="sim2_desc">Aktiverer de sekund sim kort slot. Dette bør ikke være aktivert med mindre der er en sim kort i de sekund slot. (Krever Reboot!)</string>
+<string name="google_enc_desc">Dette virker rundt problemer med snapchat, Instagram og annen video innspilling apps. Bruker de Google avc encoder i stedet av de hw avc encoder. Du kan trenge til omstart de app eller omstart de enhet før dette innstilling tar effekt. Dette kan også årsaken noen video innspilling apps ikke til arbeid.</string>
+<string name="sensorex_desc">Test eksperimentell gyroskop sensor! (Krever Reboot) </string>
+<string name="sponsors">sponsorer</string>
+<string name="not_supported">Ikke støttes av dette enhet...</string>
+<string name="sponsor_thank_you">Takke du alle til du Brukerstøtte!</string>
+</resources>

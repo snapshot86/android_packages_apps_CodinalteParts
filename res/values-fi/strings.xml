@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus Development</string>
+<string name="extras_section_name">Extra</string>
+<string name="app_name">Meticulus Partsin</string>
+<string name="kernel_header">Ydin</string>
+<string name="otg_title">USB isäntä mode</string>
+<string name="sensorex_title">Experimental anturit</string>
+<string name="glove_title">Käsine mode</string>
+<string name="dt2w_title">Kaksinkertainen Kosketus jotta Herätä</string>
+<string name="network_header">Verkko-</string>
+<string name="sim2_title">Sim Kortti Aukko 2 </string>
+<string name="workaround_header">Tehdä työtä Noin</string>
+<string name="google_enc_title">Käyttää Google H264</string>
+<string name="action_settings">Asetukset</string>
+<string name="dt2w_desc">Sallii sinä että herätä laite mukaan kaksinkertainen salakuuntelu päällä näyttö.</string>
+<string name="otg_desc">Sallii sinä että kytkeä USB laitteet. Kun aktivoitu muut laite liittyvä USB toiminnot, sellainen kuten ADB ja MTP, tahtoa ei olla käytettävissä siihen asti kun Tämä on liikuntarajoitteinen tai laite on käynnistetään uudelleen. Ei kaikki USB laitteet tahtoa tehdä työtä.</string>
+<string name="glove_desc">Lisäykset herkkyys of kosketus kuvaruutu niin koskettaa voida olla kirjattu sillä aikaa yllään käsineet.</string>
+<string name="sim2_desc">Mahdollistaa toinen sim kortti- aukko. Tämä pitäisi ei olla aktivoitu ellei siellä on sim kortti- sisään toinen aukko. (Vaatii Reboot!)</string>
+<string name="google_enc_desc">Tämä työt noin kysymykset kanssa Snapchat Instagram ja muut video- äänite sovellukset. käyttötarkoituksiin Google AVC kooderi sen sijaan of hw AVC Encoder. Sinä saattaa tarve että uudelleenkäynnistää sovellus tai uudelleenkäynnistää laite ennen Tämä asetus kestää vaikutus. Tämä saattaa myös syy jonkin verran video- äänite sovellukset ei että tehdä työtä.</string>
+<string name="sensorex_desc">Testata kokeellinen gyroskooppi sensori! (Vaatii Reboot)</string>
+<string name="sponsors">Sponsoriyrityksissä</string>
+<string name="not_supported">Ei tuettu mukaan Tämä laite...</string>
+<string name="sponsor_thank_you">Kiittää sinä kaikki varten sinä tuki!</string>
+</resources>

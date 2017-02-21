@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus Rozwój</string>
+<string name="extras_section_name">Dodatkowy</string>
+<string name="app_name">Meticulus Części</string>
+<string name="kernel_header">Jądro</string>
+<string name="otg_title">USB Gospodarz Tryb</string>
+<string name="sensorex_title">Eksperymentalny czujniki </string>
+<string name="glove_title">Rękawica Tryb</string>
+<string name="dt2w_title">Podwójnie Dotknąć Do Budzić</string>
+<string name="network_header">Sieć</string>
+<string name="sim2_title">Sim Karta Otwór 2 </string>
+<string name="workaround_header">Praca Na około</string>
+<string name="google_enc_title">Posługiwać się Google H264</string>
+<string name="action_settings">Ustawienia</string>
+<string name="dt2w_desc">Zezwala ty do budzić urządzenie przez podwójnie stukający na ekran.</string>
+<string name="otg_desc">Zezwala ty do połączyć USB pomysłowość. Gdy aktywowany inny urządzenie związane z USB Funkcje, taki tak jak ADB i MTP, będzie nie być dostępny aż do to jest niepełnosprawny lub urządzenie jest uruchomiony ponownie. Nie wszystko USB pomysłowość będzie praca.</string>
+<string name="glove_desc">Zwiększenia wrażliwość z dotknąć ekran więc dotyka mogą być zarejestrowany podczas gdy ma na sobie rękawiczki.</string>
+<string name="sim2_desc">Pozwala druga sim karta otwór. To powinien nie być aktywowany chyba że tam jest za sim karta w druga otwór. (Wymaga Restart!)</string>
+<string name="google_enc_desc">To Prace na około problemy z Snapchat, Instagram i inny wideo nagranie aplikacje. zastosowania Google AVC koder zamiast z HW AVC enkoder. ty może potrzeba do restart Aplikacja lub restart urządzenie przed to oprawa trwa efekt. To może również przyczyna trochę wideo nagranie aplikacje nie do praca.</string>
+<string name="sensorex_desc">Test eksperymentalny żyroskop czujnik! (Wymaga Restart)</string>
+<string name="sponsors">Sponsorzy</string>
+<string name="not_supported">Nie utrzymany przez to urządzenie...</string>
+<string name="sponsor_thank_you">Podziękować ty wszystko dla ty wsparcie!</string>
+</resources>

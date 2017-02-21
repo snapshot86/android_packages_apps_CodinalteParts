@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus विकास </string>
+<string name="extras_section_name">अतिरिक्त</string>
+<string name="app_name">Meticulus भागहरु </string>
+<string name="kernel_header">कर्नेल</string>
+<string name="otg_title">USB पाहुना मोड </string>
+<string name="sensorex_title">प्रयोगात्मक सेन्सर </string>
+<string name="glove_title">पन्जा मोड </string>
+<string name="dt2w_title">डबल छुनुहोस् गर्न जागा </string>
+<string name="network_header">नेटवर्क</string>
+<string name="sim2_title">सिम कार्ड स्लट 2 </string>
+<string name="workaround_header">कार्य वरिपरि </string>
+<string name="google_enc_title">प्रयोग गूगल H264 </string>
+<string name="action_settings">सेटिङ</string>
+<string name="dt2w_desc">अनुमति दिन्छ तपाईं गर्न उठाउनका को उपकरण द्वारा डबल ट्याप मा को स्क्रिन। </string>
+<string name="otg_desc">अनुमति दिन्छ तपाईं गर्न जडान USB उपकरणहरू। जब सक्रिय अन्य उपकरण सम्बन्धित USB कार्य, यस्तो रूपमा एडीबी र एमटीपी, हुनेछ छैन हुन उपलब्ध सम्म यो छ अक्षम वा को उपकरण छ rebooted। छैन सबै USB उपकरणहरू हुनेछ काम। </string>
+<string name="glove_desc">बढ्छ को संवेदनशीलता को को स्पर्श स्क्रिन त्यसैले टचहरू गर्न सक्छन् हुन दर्ता जबकि लगाएका पन्जा। </string>
+<string name="sim2_desc">सक्षम को दोस्रो सिम कार्ड स्लट। यो गर्नुपर्छ छैन हुन सक्रिय जबसम्म त्यहाँ छ एक सिम कार्ड मा को दोस्रो स्लट। (आवश्यक रिबुट!) </string>
+<string name="google_enc_desc">यो काम वरिपरि मुद्दाहरू संग Snapchat, इन्स्टाग्राम र अन्य भिडियो रेकर्डिङ अनुप्रयोगहरू। उपयोगहरु को गूगल AVC सङ्केतक सट्टा को को HW AVC सङ्केतक। तपाईं सक्छ आवश्यक गर्न फेरि शुरु गर्नु को अनुप्रयोग वा फेरि शुरु गर्नु को उपकरण पहिले यो सेटिङ लाग्छ असर। यो सक्छ पनि कारण केही भिडियो रेकर्डिङ अनुप्रयोगहरू छैन गर्न काम। </string>
+<string name="sensorex_desc">परीक्षण प्रयोगात्मक जारोस्कोप सेन्सर! (आवश्यक पुन: बुट) </string>
+<string name="sponsors">प्रायोजकहरू</string>
+<string name="not_supported">छैन समर्थित द्वारा यो उपकरण... </string>
+<string name="sponsor_thank_you">धन्यवाद तपाईं सबै लागि तपाईं समर्थन! </string>
+</resources>

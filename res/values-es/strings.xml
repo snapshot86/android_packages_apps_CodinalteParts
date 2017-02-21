@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus Desarrollo</string>
+<string name="extras_section_name">Extra</string>
+<string name="app_name">Meticulus Partes</string>
+<string name="kernel_header">Núcleo</string>
+<string name="otg_title">USB Anfitrión Modo</string>
+<string name="sensorex_title">Experimental Sensores</string>
+<string name="glove_title">Guante Modo</string>
+<string name="dt2w_title">Doble Toque A Despertar</string>
+<string name="network_header">Red</string>
+<string name="sim2_title">Sim Tarjeta Espacio 2 </string>
+<string name="workaround_header">Trabajo Alrededor</string>
+<string name="google_enc_title">Utilizar Google H264 </string>
+<string name="action_settings">Ajustes</string>
+<string name="dt2w_desc">Permite tú a despertar el dispositivo por doble Tapping en el pantalla.</string>
+<string name="otg_desc">Permite tú a conectar USB Dispositivos. Cuando activado otro dispositivo relacionado USB Funciones, tal como ADB y MTP, será no ser disponible hasta esta es discapacitado o el dispositivo es Reiniciado No todas USB Dispositivos será trabajo.</string>
+<string name="glove_desc">Aumenta el sensibilidad de el toque pantalla asi que Toques poder ser registrado mientras vistiendo guantes.</string>
+<string name="sim2_desc">Habilita el segundo Sim tarjeta espacio. Esta debería no ser activado a no ser que ahí es un Sim tarjeta en el segundo espacio. (Requiere ¡Reiniciar!)</string>
+<string name="google_enc_desc">Esta trabajos alrededor cuestiones con Snapchat, Instagram y otro vídeo grabación Aplicaciones. Usos el Google Avc Codificador en lugar de el Hw Avc Codificador Tú mayo necesitar a reiniciar el App o reiniciar el dispositivo antes de esta ajuste toma efecto. Esta mayo además porque algunos vídeo grabación Aplicaciones no a trabajo.</string>
+<string name="sensorex_desc">Prueba experimental giroscopio ¡sensor! (Requiere Reiniciar)</string>
+<string name="sponsors">Patrocinadores</string>
+<string name="not_supported">No soportado por esta dispositivo...</string>
+<string name="sponsor_thank_you">Gracias tú todas para tú ¡apoyo!</string>
+</resources>

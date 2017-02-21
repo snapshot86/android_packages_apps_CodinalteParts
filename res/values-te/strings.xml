@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus అభివృద్ధి</string>
+<string name="extras_section_name">అదనపు</string>
+<string name="app_name">Meticulus భాగాలు </string>
+<string name="kernel_header">కెర్నల్</string>
+<string name="otg_title">USB హోస్ట్ మోడ్</string>
+<string name="sensorex_title">ప్రయోగాత్మక సెన్సార్స్ </string>
+<string name="glove_title">గ్లోవ్ మోడ్</string>
+<string name="dt2w_title">డబుల్ టచ్ టు వేక్</string>
+<string name="network_header">నెట్వర్క్</string>
+<string name="sim2_title">సిమ్ కార్డ్ స్లాట్ 2 </string>
+<string name="workaround_header">వర్క్ చుట్టూ </string>
+<string name="google_enc_title">వా డు గూగుల్ H264 </string>
+<string name="action_settings">సెట్టింగ్స్</string>
+<string name="dt2w_desc">అనుమతిస్తుంది మీరు కు మేల్కొలపడానికి ది పరికరం ద్వారా డబుల్ నొక్కడం పై ది తెర. </string>
+<string name="otg_desc">అనుమతిస్తుంది మీరు కు కనెక్ట్ USB పరికరాల. ఎప్పుడు యాక్టివేట్ ఇతర పరికరం సంబంధిత USB విధులు, ఇటువంటి వంటి ఎడిబి మరియు MTP, రెడీ కాదు అని అందుబాటులో వరకు ఈ ఉంది వికలాంగ లేదా ది పరికరం ఉంది తిరిగి. కాదు అన్ని USB పరికరాల రెడీ పని. </string>
+<string name="glove_desc">పెరగడాన్ని ది సున్నితత్వం ఆఫ్ ది టచ్ స్క్రీన్ కాబట్టి మెరుగులు చెయ్యవచ్చు అని నమోదు అయితే ధరించి చేతి తొడుగులు. </string>
+<string name="sim2_desc">ప్రారంభిస్తుంది ది రెండవ సిమ్ కార్డ్ స్లాట్. ఈ తప్పక కాదు అని యాక్టివేట్ తప్ప అక్కడ ఉంది ఒక సిమ్ కార్డ్ లో ది రెండవ స్లాట్. (అవసరం రీబూట్!) </string>
+<string name="google_enc_desc">ఈ రచనలు చుట్టూ సమస్యలు తో Snapchat, instagram మరియు ఇతర వీడియో రికార్డింగ్ అనువర్తనాలు. ఉపయోగాలు ది గూగుల్ AVC ఎన్కోడర్ బదులుగా ఆఫ్ ది HW AVC ఎన్కోడర్. మీరు మే అవసరం కు పునఃప్రారంభమైన ది అనువర్తనం లేదా పునఃప్రారంభమైన ది పరికరం ముందు ఈ సెట్టింగ్ తీసుకుంటాడు ప్రభావం. ఈ మే కూడా కారణం కొన్ని వీడియో రికార్డింగ్ అనువర్తనాలు కాదు కు పని. </string>
+<string name="sensorex_desc">టెస్ట్ ప్రయోగాత్మక గైరోస్కోప్ నమోదు చేయు పరికరము! (అవసరం రీబూట్) </string>
+<string name="sponsors">ప్రాయోజకులు</string>
+<string name="not_supported">నాట్ మద్దతు ద్వారా ఈ పరికరం...</string>
+<string name="sponsor_thank_you">ధన్యవాదాలు  మీరు అన్ని కోసం మీరు మద్దతు! </string>
+</resources>

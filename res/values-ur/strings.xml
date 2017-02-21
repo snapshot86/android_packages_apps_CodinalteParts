@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">suluciteM  یقرت</string>
+<string name="extras_section_name">Extra</string>
+<string name="app_name">suluciteM  ےصح</string>
+<string name="kernel_header">Kernel</string>
+<string name="otg_title">یب سیا وی نابزیم  ڈوم</string>
+<string name="sensorex_title">یتابرجت  رسنیس</string>
+<string name="glove_title">ےناتسد  ڈوم</string>
+<string name="dt2w_title">لبڈ ںیرک چٹ ےئل ےک ےنرک  وھٹا</string>
+<string name="network_header">کرو</string>
+<string name="sim2_title">مس ڈراک زرد  2</string>
+<string name="workaround_header">ماک  درگ درا ےک</string>
+<string name="google_enc_title">لامعتسا لگوگ  462H</string>
+<string name="action_settings">Settings</string>
+<string name="dt2w_desc">ےہ اتید تزاجا مت ےنرک گاج سئاویڈ ےس فرط یک لبڈ اپھتپھت رپ  .نیرکس</string>
+<string name="otg_desc">ےہ اتید تزاجا مت ےنرک ںیرک مئاق ہطبار یب سیا وی .تالآ بک ولاچ رگید سئاویڈ ہقلعتم یب سیا وی ،لاعفا ےسیا رپ روط ےک BDA روا ،PTM اگنول ںیہن وہ بایتسد کت ہی ےہ دارفا روذعم ای سئاویڈ ےہ .ٹوب یر ںیہن مامت یب سیا وی تالآ اگنول  .ماک</string>
+<string name="glove_desc">ہفاضا تیساسح ےک وھچ نیرکس ہکات اتوھچ ںیہ ےتکس رک وہ ڈرٹسجر ہکبج ےنہپ .ےناتسد</string>
+<string name="sim2_desc">ےہ اتانب لہا ارسود مس ڈراک .ٹالس ہی ےئہاچ انوہ ںیہن وہ ولاچ کت بج ںاہو ےہ کیا مس ڈراک ںیم ارسود .ٹالس ےہ ترورض(  )!ںیرک ٹوب رھپ</string>
+<string name="google_enc_desc">ہی سکرو درگ درا ےک لئاسم ھتاس ،tahcpanS مارگاٹسنا روا رگید ویڈیو گنڈراکیر .سپیا تالامعتسا لگوگ CVA راکزومرم ےئاجب ےک WH CVA .راکزومرم مت یئم ترورض ےنرک ںیرک عورش ہرابود نشیک یلپا ای ںیرک عورش ہرابود سئاویڈ ےلہپ ےس سا ہی بیترت ےہ اتیل .رثا ہی یئم یھب ہجو ھچک ویڈیو گنڈراکیر سپیا ںیہن ےنرک  .ماک</string>
+<string name="sensorex_desc">ٹسیٹ یتابرجت یک epocsoryG !رسنیس ےہ ترورض(  )ٹوب رھپ</string>
+<string name="sponsors">Sponsors</string>
+<string name="not_supported">یک تیامح یک ےس فرط یک ہی  ...سئاویڈ</string>
+<string name="sponsor_thank_you"> ہیرکش مت مامت ےیل مت  !ںیہ ےترک تیامح یک</string>
+</resources>

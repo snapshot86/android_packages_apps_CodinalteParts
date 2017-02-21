@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus 发展</string>
+<string name="extras_section_name">额外</string>
+<string name="app_name">Meticulus 部分</string>
+<string name="kernel_header">核心</string>
+<string name="otg_title">USB 主办 模式</string>
+<string name="sensorex_title">实验 传感器，</string>
+<string name="glove_title">手套 模式</string>
+<string name="dt2w_title">双 触摸 至 唤醒</string>
+<string name="network_header">网络</string>
+<string name="sim2_title">Sim 卡 插槽 2</string>
+<string name="workaround_header">工作 周围</string>
+<string name="google_enc_title">使用 谷歌 H264</string>
+<string name="action_settings">设置</string>
+<string name="dt2w_desc">允许 您 至 唤醒 的 设备 通过 双 窃听 上 的 屏幕。</string>
+<string name="otg_desc">允许 您 至 连接 USB 设备。 什么时候 活性 其他 设备 有关 USB 功能， 这样 如 ADB 和 MTP， 将 不 是 可用 直到 这个 是 禁用 要么 的 设备 是 重新启动。 不 所有 USB 设备 将 工作。</string>
+<string name="glove_desc">增加 的 灵敏度 的 的 触摸 屏幕 所以 触摸 能够 是 注册 而 穿着 手套。</string>
+<string name="sim2_desc">启用 的 第二 sim 卡 槽。 这个 应该 不 是 活性 除非 那里 是 一个 sim 卡 在 的 第二 槽。 （需要 重启！）</string>
+<string name="google_enc_desc">这个 作品 周围 问题 与 Snapchat， Instagram 和 其他 视频 记录 应用。 用途 的 谷歌 avc 编码器 代替 的 的 hw avc 编码器。 您 可能 需要 至 重新开始 的 app 要么 重新开始 的 设备 之前 这个 设置 需要 影响。 这个 可能 也 原因 一些 视频 记录 应用 不 至 工作。</string>
+<string name="sensorex_desc">测试 实验 陀螺仪 传感器！ （需要 重启）</string>
+<string name="sponsors">“赞助商”</string>
+<string name="not_supported">不 支持的 通过 这个 设备...</string>
+<string name="sponsor_thank_you">谢谢 您 所有 对于 您 支持！</string>
+</resources>

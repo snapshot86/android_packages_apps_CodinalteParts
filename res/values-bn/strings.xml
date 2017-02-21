@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus উন্নয়ন </string>
+<string name="extras_section_name">অতিরিক্ত</string>
+<string name="app_name">Meticulus পার্টস </string>
+<string name="kernel_header">কার্নেল</string>
+<string name="otg_title">ইউএসবি নিমন্ত্রণকর্তা মোড</string>
+<string name="sensorex_title">এক্সপেরিমেন্টাল সেন্সর </string>
+<string name="glove_title">দস্তানা মোড</string>
+<string name="dt2w_title">ডাবল স্পর্শ থেকে ওয়েক </string>
+<string name="network_header">নেটওয়ার্ক</string>
+<string name="sim2_title">সিম কার্ড ছেঁদা 2 </string>
+<string name="workaround_header">কাজ কাছাকাছি</string>
+<string name="google_enc_title">ব্যবহার করুন গুগল H264 </string>
+<string name="action_settings">সেটিংস</string>
+<string name="dt2w_desc">অনুমতি আপনি থেকে নিদ্রা হইতে জাগা দ্য যন্ত্র দ্বারা ডবল মৃদু আঘাতকরণ উপর দ্য পর্দা. </string>
+<string name="otg_desc">অনুমতি আপনি থেকে সংযোগ করা ইউএসবি ডিভাইস. কখন সক্রিয় অন্যান্য যন্ত্র সংশ্লিষ্ট ইউএসবি ফাংশন, এমন যেমন এডিবি এবং MTP এর, ইচ্ছাশক্তি না থাকা সহজলভ্য পর্যন্ত এই হল অক্ষম অথবা দ্য যন্ত্র হল পুনরায় বুট করার পরে. না সব ইউএসবি ডিভাইস ইচ্ছাশক্তি কাজ. </string>
+<string name="glove_desc">বৃদ্ধি দ্য সংবেদনশীলতা এর দ্য স্পর্শ পর্দা সুতরাং ছোঁয়া পারেন থাকা নিবন্ধভুক্ত যখন পরা গ্লাভস. </string>
+<string name="sim2_desc">সক্ষম দ্য দ্বিতীয় সিম কার্ড স্লট. এই উচিত না থাকা সক্রিয় যদি না সেখানে হল একটি সিম কার্ড মধ্যে দ্য দ্বিতীয় স্লট. (প্রয়োজন রিবুট!) </string>
+<string name="google_enc_desc">এই কাজ কাছাকাছি সমস্যা সঙ্গে Snapchat, ইনস্টাগ্রাম এবং অন্যান্য ভিডিও রেকর্ডিং অ্যাপস. ব্যবহারসমূহ দ্য গুগল AVC এনকোডার পরিবর্তে এর দ্য HW AVC এনকোডার. আপনি may প্রয়োজন থেকে আবার শুরু দ্য অ্যাপ্লিকেশন অথবা আবার শুরু দ্য যন্ত্র আগে এই বিন্যাস লাগে প্রভাব. এই may এছাড়াও কারণ কিছু ভিডিও রেকর্ডিং অ্যাপস না থেকে কাজ. </string>
+<string name="sensorex_desc">টেস্ট পরীক্ষামূলক যে কম্পাস জাইরোস্কোপের সাহায্যে প্রকৃত উত্তর মেরুর অবস্থান এবং তার সাপেক্ষে অন্যান্য অবস্থান নির্দেশ করে সেন্সর! (প্রয়োজন রিবুট) </string>
+<string name="sponsors">উদ্যোক্তা</string>
+<string name="not_supported">না সমর্থিত দ্বারা এই যন্ত্র...</string>
+<string name="sponsor_thank_you">ধন্যবাদ আপনি সব জন্য আপনি সমর্থন! </string>
+</resources>

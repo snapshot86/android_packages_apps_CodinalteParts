@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus Development</string>
+<string name="extras_section_name">Extra</string>
+<string name="app_name">Meticulus pjesë</string>
+<string name="kernel_header">Kernel</string>
+<string name="otg_title">USB Mikpritës Mode </string>
+<string name="sensorex_title">Experimental sensorë </string>
+<string name="glove_title">doreza Mode </string>
+<string name="dt2w_title">dyfishtë prek Te Wake </string>
+<string name="network_header">Rrjeti </string>
+<string name="sim2_title">Sim Letër vend i caktuar 2 </string>
+<string name="workaround_header">Puna rreth </string>
+<string name="google_enc_title">Përdorimi Google H264 </string>
+<string name="action_settings">Settings</string>
+<string name="dt2w_desc">Lejon ju te zgjohem pajisje nga dyshe prerje në ekran.</string>
+<string name="otg_desc">Lejon ju te lidh USB pajisje. Kur aktivizuar tjetër pajisje i lidhur USB funksione, i tillë si ADB dhe MTP, do të nuk të jetë në dispozicion deri kjo është i paaftë ose pajisje është restartohet. nuk të gjithë USB pajisje do të punë.</string>
+<string name="glove_desc">Rrit ndjeshmëri të prek ekran kështu që prek mund të jetë i regjistruar derisa veshur doreza.</string>
+<string name="sim2_desc">mundëson i dytë sim Letër slot. kjo duhet nuk të jetë aktivizuar po të mos atje është një sim Letër në i dytë slot. (Kërkon Reboot!)</string>
+<string name="google_enc_desc">Kjo punimet rreth çështjet me Snapchat, Instagram dhe tjetër video regjistrimi Apps. Uses google AVC encoder në vend të hw AVC encoder. ju mund duhet te Rifillo, fillo përsëri app ose Rifillo, fillo përsëri pajisje para kjo mjedis merr efekt. kjo mund gjithashtu shkak disa video regjistrimi Apps nuk te punë.</string>
+<string name="sensorex_desc">Test eksperimental xhiroskop sensor! (Kërkon Reboot)</string>
+<string name="sponsors"> Sponsors</string>
+<string name="not_supported">Nuk mbështetur nga kjo pajisje... </string>
+<string name="sponsor_thank_you">Falenderim ju të gjithë për ju mbështetur! </string>
+</resources>

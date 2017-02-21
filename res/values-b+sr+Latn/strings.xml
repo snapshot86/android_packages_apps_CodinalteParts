@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">en: b + sr + Latn Meticulus Development</string>
+<string name="extras_section_name">en: b + sr + Latn Extra</string>
+<string name="app_name">en: b + sr + Latn Meticulus Parts</string>
+<string name="kernel_header">en: b + sr + Latn Kernel</string>
+<string name="otg_title">en: b + sr + Latn USB Host Mode</string>
+<string name="sensorex_title">en: b + sr + Latn Experimental Sensors</string>
+<string name="glove_title">en: b + sr + Latn Glove Mode</string>
+<string name="dt2w_title">en: b + sr + Latn Double Touch To Wake</string>
+<string name="network_header">en: b + sr + Latn Network</string>
+<string name="sim2_title">en: b + sr + Latn Sim Card Slot 2</string>
+<string name="workaround_header">en: b + sr + Latn Work Around</string>
+<string name="google_enc_title">en: b + sr + Latn Use Google H264 </string>
+<string name="action_settings">en: b + sr + Latn Settings</string>
+<string name="dt2w_desc">en: b + sr + Latn Allows you to wake the device by double tapping on the screen.</string>
+<string name="otg_desc">en: b + sr + Latn Allows you to connect USB devices. When activated other device related USB functions, such as ADB and MTP, will not be available until this is disabled or the device is rebooted. Not all USB devices will work.</string>
+<string name="glove_desc">en: b + sr + Latn Increases the sensitivity of the touch screen so touches can be registered while wearing gloves.</string>
+<string name="sim2_desc">en: b + sr + Latn Enables the second sim card slot. This should not be activated unless there is a sim card in the second slot. (Requires Reboot!)</string>
+<string name="google_enc_desc">en: b + sr + Latn This works around issues with Snapchat, Instagram and other video recording apps. Uses the google Avc encoder instead of the hw Avc encoder. You may need to restart the app or restart the device before this setting takes effect. This may also cause some video recording apps not to work.</string>
+<string name="sensorex_desc">en: b + sr + Latn Test experimental gyroscope sensor! (Requires Reboot)</string>
+<string name="sponsors">en: b + sr + Latn Sponsors</string>
+<string name="not_supported">en: b + sr + Latn Not supported by this device...</string>
+<string name="sponsor_thank_you">en: b + sr + Latn Thank you all for you support!</string>
+</resources>

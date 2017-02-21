@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus Rozvoj</string>
+<string name="extras_section_name">Další</string>
+<string name="app_name">Meticulus Části</string>
+<string name="kernel_header">Jádro</string>
+<string name="otg_title">USB Hostitel Mode</string>
+<string name="sensorex_title">Experimentální senzory</string>
+<string name="glove_title">Rukavice Mode</string>
+<string name="dt2w_title">Dvojnásobek Dotek Na Probudit</string>
+<string name="network_header">Síť</string>
+<string name="sim2_title">Sim Karta štěrbina 2 </string>
+<string name="workaround_header">Práce Kolem</string>
+<string name="google_enc_title">Použití Google H264</string>
+<string name="action_settings">Nastavení</string>
+<string name="dt2w_desc">Umožňuje vy na probudit přístroj podle dvojnásobek klepnutím na obrazovka.</string>
+<string name="otg_desc">Umožňuje vy na připojit USB zařízení. Když aktivovaný jiný přístroj příbuzný USB funkce, takový tak jako ADB a MTP, vůle ne být dostupný až do tento je invalidní nebo přístroj je restartován. Ne Všechno USB zařízení vůle práce.</string>
+<string name="glove_desc">Zvýšení citlivost z dotek obrazovka tak doteky umět být registrovaný zatímco nošení rukavice.</string>
+<string name="sim2_desc">Umožňuje druhý sim karta slot. Tento by měl ne být aktivovaný ledaže tam je A sim karta v druhý slot. (Vyžaduje Restartovat!)</string>
+<string name="google_enc_desc">Tento práce kolem problémy s snapchat, Instagram a jiný video záznam aplikace. použití Google AVC kodér místo toho z hw AVC kodér. Vy smět potřeba na restart aplikace nebo restart přístroj před tento nastavení bere účinek. Tento smět také způsobit nějaký video záznam aplikace ne na práce.</string>
+<string name="sensorex_desc">Test experimentální gyroskop senzor! (Vyžaduje Reboot)</string>
+<string name="sponsors">Sponzoři</string>
+<string name="not_supported">Ne podporován podle tento přístroj...</string>
+<string name="sponsor_thank_you">Poděkovat vy Všechno pro vy Podpěra, podpora!</string>
+</resources>

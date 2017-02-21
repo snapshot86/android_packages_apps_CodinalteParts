@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus розвиток</string>
+<string name="extras_section_name">Екстра</string>
+<string name="app_name">Meticulus частини </string>
+<string name="kernel_header">Кернел</string>
+<string name="otg_title">USB господар режим </string>
+<string name="sensorex_title">Експериментальна датчики </string>
+<string name="glove_title">рукавичка режим </string>
+<string name="dt2w_title">Подвійний доторкатися до послуга</string>
+<string name="network_header">Мережа</string>
+<string name="sim2_title">Sim карта слот 2 </string>
+<string name="workaround_header">Робота навколо </string>
+<string name="google_enc_title">Використовувати Google H264 </string>
+<string name="action_settings">Налаштування</string>
+<string name="dt2w_desc">Дозволяє ви до будити пристрій по подвійний натиснувши на Екран .</string>
+<string name="otg_desc">Дозволяє ви до зєднувати USB пристроїв. Коли активоване інший пристрій споріднений USB функції, такі як Азіатський банк розвитку і MTP, волі НЕ бути доступний до це є інвалід або пристрій є перезавантажена. НЕ всі USB прилади волі працювати.</string>
+<string name="glove_desc">Збільшення чутливість з чіпати екран так штрихи може бути зареєстрований в той час як носіння рукавички.</string>
+<string name="sim2_desc">Включає другий сім карта слот. це повинен НЕ бути активоване якщо там є сім карта в другий слот. (Потрібно Перезавантаження!) </string>
+<string name="google_enc_desc">Це завод навколо питань з Snapchat, Instagram і інший відео запис додатків. користі Google АВК кодер замість з HW АВК кодер. ви може потрібно до перезапуск додаток або перезапуск пристрій перед тим це настройка приймає ефект. це може також причина дещо відео запис додатки НЕ до працювати.</string>
+<string name="sensorex_desc">Test експериментальний гіроскоп Датчик! (Потрібно Reboot) </string>
+<string name="sponsors">Спонсори</string>
+<string name="not_supported">Не підтриманий по це Пристрій... </string>
+<string name="sponsor_thank_you">Спасибі ви всі для ви підтримка!</string>
+</resources>

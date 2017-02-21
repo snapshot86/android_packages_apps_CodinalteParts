@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus pembangunan </string>
+<string name="extras_section_name">Extra</string>
+<string name="app_name">Meticulus bahagian </string>
+<string name="kernel_header">Kernel</string>
+<string name="otg_title">USB Host Mode </string>
+<string name="sensorex_title">Experimental sensor </string>
+<string name="glove_title">Glove Mode </string>
+<string name="dt2w_title">Double sentuh untuk Bangun </string>
+<string name="network_header">Network</string>
+<string name="sim2_title">Sim kad slot 2 </string>
+<string name="workaround_header">Work sekitar </string>
+<string name="google_enc_title">Penggunaan Google H264 </string>
+<string name="action_settings">Tetapan</string>
+<string name="dt2w_desc">Membolehkan anda kepada bangun yang peranti oleh double menoreh pada yang skrin.</string>
+<string name="otg_desc">Membolehkan anda kepada menyambung USB peranti. Bila diaktifkan lain peranti berkaitan USB fungsi, seperti sebagai ADB dan MTP, akan tidak menjadi ada sehingga ini adalah kurang upaya atau yang peranti adalah reboot. tidak semua USB peranti akan bekerja. </string>
+<string name="glove_desc">Kenaikan yang sensitiviti daripada yang menyentuh skrin jadi sentuhan boleh menjadi berdaftar manakala memakai sarung tangan.</string>
+<string name="sim2_desc">Bolehkan yang kedua sim kad slot. ini perlu tidak menjadi diaktifkan melainkan jika terdapat adalah yang sim kad dalam yang kedua slot. (Memerlukan But semula!)</string>
+<string name="google_enc_desc">Ini kerja-kerja sekitar isu-isu dengan Snapchat, Instagram dan lain video rakaman aplikasi. kegunaan yang google AVC pengekod sebaliknya daripada yang hw AVC pengekod. anda mungkin perlu kepada mula semula yang aplikasi atau mula semula yang peranti sebelum ini tetapan mengambil kesan. ini mungkin juga sebab beberapa video rakaman aplikasi tidak kepada bekerja. </string>
+<string name="sensorex_desc">Test eksperimen giroskop sensor! (Memerlukan Reboot)</string>
+<string name="sponsors">Penaja</string>
+<string name="not_supported">Tidak disokong oleh ini peranti... </string>
+<string name="sponsor_thank_you">Terima anda semua untuk anda menyokong! </string>
+</resources>

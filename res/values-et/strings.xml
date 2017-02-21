@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus Development</string>
+<string name="extras_section_name">Lisa</string>
+<string name="app_name">Meticulus Parts</string>
+<string name="kernel_header">Kernel</string>
+<string name="otg_title">USB võõrustaja režiim</string>
+<string name="sensorex_title">Experimental andurid </string>
+<string name="glove_title">Kinda režiim</string>
+<string name="dt2w_title">Double puudutama kuni wake</string>
+<string name="network_header">Network</string>
+<string name="sim2_title">Sim kaart ava 2 </string>
+<string name="workaround_header">töö umbes</string>
+<string name="google_enc_title">Kasuta Google H264</string>
+<string name="action_settings">Seaded</string>
+<string name="dt2w_desc">Lubab sa kuni äratada seade kõrval topelt koputamine edasi ekraan.</string>
+<string name="otg_desc">Lubab sa kuni ühendama USB seadmeid. Millal aktiveeritud muu seade seotud USB funktsioone, selline kui ADB ja MTP, tahe mitte olema saadaval kuni see on invaliidistunud või seade on taaskäivitatud. Mitte kõik USB seadmed tahe töötada.</string>
+<string name="glove_desc">Hinnatõus tundlikkus kohta puudutama ekraan nii puudutab saab olema registreeritud kuigi kulumine kindad.</string>
+<string name="sim2_desc">Võimaldab teine sim kaart pesa. see peaks mitte olema aktiveeritud kui ei seal on sim kaart sisse teine pesa. (Vajab Reboot!)</string>
+<string name="google_enc_desc">See ehitustööd ümber küsimused koos Snapchat Instagram ja muu video salvestamine rakendusi. kasutusalad google AVC kodeerija selle asemel kohta hw AVC kodeerija. sa võib vajadus kuni Taaskäivita app või Taaskäivita seade enne see seade võtab efekti. see võib ka põhjus mõned video salvestamine rakendused mitte kuni töötada.</string>
+<string name="sensorex_desc">Test eksperimentaalne güroskoop andur! (Vajab Reboot)</string>
+<string name="sponsors">Sponsorid</string>
+<string name="not_supported">Mitte toetatud kõrval see seade...</string>
+<string name="sponsor_thank_you">Tänan sa kõik eest sa toetus!</string>
+</resources>

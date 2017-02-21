@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">«Meticulus даму «</string>
+<string name="extras_section_name">«Экстра»</string>
+<string name="app_name">«Meticulus бөлшектер «</string>
+<string name="kernel_header">«Ядро</string>
+<string name="otg_title">USB ФЛЕШ хост режимі «</string>
+<string name="sensorex_title">«эксперименттік сенсорлар «</string>
+<string name="glove_title">«Глов режимі «</string>
+<string name="dt2w_title">«Екі жанасу қарай «Wake</string>
+<string name="network_header">«Network»</string>
+<string name="sim2_title">«Сим кәртішке Slot 2 </string>
+<string name="workaround_header">«Жұмыс «Шамамен</string>
+<string name="google_enc_title">«пайдалану Google H264 «</string>
+<string name="action_settings">«Параметрлер»</string>
+<string name="dt2w_desc">«береді Сіз қарай ояту The құрал арқылы қос түрту туралы The Экран.</string>
+<string name="otg_desc">«береді Сіз қарай қосылу USB флеш құрылғылар. Қашан белсендірілген басқа құрал байланысты USB флеш функциялары, сондай ретінде АДБ және MTP, ерік емес болуы Қол жетімді дейін осы болып табылады мүгедек немесе The құрал болып табылады қайта. емес барлық USB флеш құрылғылар ерік жұмыс.</string>
+<string name="glove_desc">«көбейтеді The сезімталдық туралы The жанасу экран солай штрих болады болуы тіркелген уақыт кию қолғаптар.</string>
+<string name="sim2_desc">«қосады The секунд SIM кәртішке ұясы. осы қажет емес болуы белсендірілген егер Ана жерде болып табылады а SIM кәртішке жылы The секунд ұясы. (талап «Қайта қосыңыз!)</string>
+<string name="google_enc_desc">«Бұл жұмыстары айналасында мәселелер бірге Snapchat, Instagram және басқа Бейне жазба бағдарламалар. Uses The Google AVC кодері орнына туралы The HW AVC кодері. Сіз мүмкін мұқтаждық қарай қайтадан қосу The қолданба немесе қайтадан қосу The құрал бұрын осы параметр алады әсері. осы мүмкін Сондай-ақ, себеп кейбір Бейне жазба бағдарламалар емес қарай жұмыс.</string>
+<string name="sensorex_desc">«Test эксперименттік гироскоп датчик! (талап Қайта жүктеу)</string>
+<string name="sponsors">«Демеушілер»</string>
+<string name="not_supported">«емес, қолдау арқылы осы құрылғы... </string>
+<string name="sponsor_thank_you">рахмет Сіз барлық үшін Сіз қолдау! «</string>
+</resources>

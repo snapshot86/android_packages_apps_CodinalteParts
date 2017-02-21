@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus devlopman </string>
+<string name="extras_section_name">Siplemantè</string>
+<string name="app_name">Meticulus Pyès de </string>
+<string name="kernel_header">Kernel</string>
+<string name="otg_title">USB Akèy Mode </string>
+<string name="sensorex_title">eksperimantal Detektè </string>
+<string name="glove_title">gan Mode </string>
+<string name="dt2w_title">Double Manyen Wake </string>
+<string name="network_header">Rezo</string>
+<string name="sim2_title">Sim Kat plas 2 </string>
+<string name="workaround_header">Travay Anviwon </string>
+<string name="google_enc_title">Sèvi ak Google H264 </string>
+<string name="action_settings">Anviwònman</string>
+<string name="dt2w_desc">Pèmèt ou reveye nan aparèy pa doub frapan sou nan ekran.</string>
+<string name="otg_desc">Pèmèt ou konekte USB ki bay sipò. Kilè aktive lòt aparèy ki gen rapò USB fonksyon, sa yo kòm adb ak MTP, pral pa gen disponib jouk sa a se andikape oswa nan aparèy se demare. Pa tout USB aparèy pral travay. </string>
+<string name="glove_desc">Ogmantasyon nan sansiblite nan nan manyen ekran se konsa manyen kapab gen anrejistre pandan y ap mete gan. </string>
+<string name="sim2_desc">Pèmèt nan dezyèm Sim kat plas. sa a ta dwe pa gen aktive sof si gen se yon Sim kat nan nan dezyèm plas. (Mande pou Rdemare!) </string>
+<string name="google_enc_desc">sa a travay alantou pwoblèm ak Snapchat, Instagram ak lòt videyo anrejistreman apps. itilizasyon nan google AVC ankode olye pou nan nan HW AVC ankode. Ou ka bezwen rekòmanse nan app oswa rekòmanse nan aparèy anvan sa a anviwònman pran efè. sa a ka tou kòz kèk videyo anrejistreman apps pa travay. </string>
+<string name="sensorex_desc">Tès eksperimantal jiroskop Capteur! (Mande pou Rdemaraj) </string>
+<string name="sponsors">Sipòtè</string>
+<string name="not_supported">Se pa sipòte pa sa a aparèy... </string>
+<string name="sponsor_thank_you">Mèsi ou tout pou ou sipòte!</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus desenvolupament </string>
+<string name="extras_section_name">«Extra»</string>
+<string name="app_name">Meticulus parts </string>
+<string name="kernel_header">Nucli</string>
+<string name="otg_title">USB amfitrió manera </string>
+<string name="sensorex_title">Experimental sensors </string>
+<string name="glove_title">Guant manera </string>
+<string name="dt2w_title">doble tocar a Wake </string>
+<string name="network_header">Xarxa</string>
+<string name="sim2_title">Sim targeta osca 2 </string>
+<string name="workaround_header">treball Al voltant</string>
+<string name="google_enc_title">ús Google H264 </string>
+<string name="action_settings">Configuració</string>
+<string name="dt2w_desc">Permet vostè a despertar la dispositiu per doble tapping a la pantalla.</string>
+<string name="otg_desc">Permet vostè a connectar USB dispositius. Quan activat un altre dispositiu connex USB funcions, tal com ADB i MTP, voluntat no ser disponible fins aquest és discapacitat o la dispositiu és reiniciat. No tots USB dispositius voluntat treballar .</string>
+<string name="glove_desc">Augmenta la sensibilitat de la tocar pantalla tan tocs llauna ser enregistrat mentre vestint Guants .</string>
+<string name="sim2_desc">Activa la segon sim targeta ranura. aquest hauria no ser activat llevat que hi ha és 1 sim targeta a la segon ranura. (Requereix Reiniciar!)</string>
+<string name="google_enc_desc">Aquest obres al voltant qüestions amb snapchat Instagram i un altre vídeo gravació aplicacions. usos la Google AVC codificador en comptes de la hw AVC codificador. Vostè pot necessitar a reinicia la aplicació o reinicia la dispositiu abans aquest ajust presa efecte. aquest pot també causa alguns vídeo gravació aplicacions no a treballar .</string>
+<string name="sensorex_desc">Test experimental giroscopi sensor! (Requereix Reiniciar) </string>
+<string name="sponsors"> Els patrocinadors</string>
+<string name="not_supported">No recolzat per aquest dispositiu...</string>
+<string name="sponsor_thank_you">-Gràcies vostè tots per vostè donar suport! </string>
+</resources>

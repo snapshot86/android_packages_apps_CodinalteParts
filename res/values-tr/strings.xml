@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus Kalkınma </string>
+<string name="extras_section_name">Ekstra</string>
+<string name="app_name">Meticulus Parçaların </string>
+<string name="kernel_header">Çekirdek</string>
+<string name="otg_title">USB Ev Sahipliği Mod </string>
+<string name="sensorex_title">Deneysel Sensörler </string>
+<string name="glove_title">Eldiven Mod </string>
+<string name="dt2w_title">Çift Dokunma Için Uyanmak</string>
+<string name="network_header">Ağ</string>
+<string name="sim2_title">Sim Kart Yuva 2 </string>
+<string name="workaround_header">İş Etrafında</string>
+<string name="google_enc_title">Kullanın Google H264 </string>
+<string name="action_settings">Ayarlar</string>
+<string name="dt2w_desc">Izin verir sen Için uyanmak The cihaz tarafından çift Dokunarak Üzerinde The ekran.</string>
+<string name="otg_desc">Izin verir sen Için Birleştirmek USB Cihazlar. Ne zaman Harekete geçirilmiş diğer cihaz ilgili USB Fonksiyonları, Böyle gibi ADB ve ÇTP, irade değil Olmak mevcut a kadar bu Olduğu Devre dışı veya The cihaz Olduğu Yeniden başlatıldı. Değil herşey USB Cihazlar irade iş.</string>
+<string name="glove_desc">Artışlar The duyarlılık Of The dokunma ekran yani Dokunuşlar yapabilmek Olmak kayıtlı süre Giyen Eldivenler.</string>
+<string name="sim2_desc">Etkinleştirir The ikinci Sim Kart Yuvası. Bu meli değil Olmak Harekete geçirilmiş Sürece Orada Olduğu Bir Sim Kart içinde The ikinci Yuvası. (Gerektirir Yeniden başlat!) </string>
+<string name="google_enc_desc">Bu Eserleri etrafında sorunlar ile Snapchat, Instagram ve diğer video kayıt Uygulamalar. Kullanım Alanları The Google Avc Enkoder yerine Of The Hw Avc Enkoder. Sen Mayıs ayı Ihtiyaç Için tekrar başlat The Uygulama veya tekrar başlat The cihaz önce bu Ayarı alır Efekt. Bu Mayıs ayı Ayrıca sebeb olmak bazı video kayıt Uygulamalar değil Için iş.</string>
+<string name="sensorex_desc">Ölçek deneysel jiroskop Sensör! (Gerektirir Yeniden başlat) </string>
+<string name="sponsors">Sponsorlar</string>
+<string name="not_supported">Değil Desteklenmektedir tarafından bu cihaz...</string>
+<string name="sponsor_thank_you">Teşekkür sen herşey için sen destek!</string>
+</resources>

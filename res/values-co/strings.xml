@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus sviluppu </string>
+<string name="extras_section_name">Extra</string>
+<string name="app_name">Meticulus Furniture </string>
+<string name="kernel_header">Schedari ricunnisciuti da</string>
+<string name="otg_title">USB U Pranzu Cuniugazzioni </string>
+<string name="sensorex_title">Experimental Sensors </string>
+<string name="glove_title">ya Cuniugazzioni </string>
+<string name="dt2w_title">Double Parlà à Wake </string>
+<string name="network_header">Network</string>
+<string name="sim2_title">Sim Card avocat 2 </string>
+<string name="workaround_header">Work In ghjiru à </string>
+<string name="google_enc_title">U Paghjolu Google H264 </string>
+<string name="action_settings">Taliata</string>
+<string name="dt2w_desc">nnavissi tu à Marrizzu l aparechju par doppia a cavalcioni nantu l schermu.</string>
+<string name="otg_desc">nnavissi tu à cunnette plug i dispusitivi. quandu attivatu lucca aparechju ligata plug funzioni, tali cumè adb in e MTP, sarà micca essa dispunibbili finu issu hè cacciatu o l aparechju hè rebooted. Not tuttu plug i dispusitivi sarà u travagliu. </string>
+<string name="glove_desc">Cresci l stakeholder di l tuccari schermu tantu oro pò essa arregistrà mentri purtamentu guanti .</string>
+<string name="sim2_desc">Permette l sicondu francese sim Card avocat. chistu avissi micca essa attivatu quannu ùn ci hè un francese sim Card in l sicondu avocat. (abbisogna Inoji!) </string>
+<string name="google_enc_desc">Sta travagghi intornu imbusci cù chjaranunzi_, Instagram e lucca Video discugràficu Nuvola apps. cioccu l google atr encoder inveci di l W. atr encoder. You Maghju bisognu à ripigliate l A app o ripigliate l aparechju nanzu issu rimarchevuli piglia effettu. chistu Maghju ancu a causa certi Video discugràficu Nuvola apps micca à u travagliu. </string>
+<string name="sensorex_desc">Test spirimintali gyroscope senzor! (abbisogna Inoji) </string>
+<string name="sponsors">GamesNet</string>
+<string name="not_supported">Not sustinutu par issu aparechju... </string>
+<string name="sponsor_thank_you">ringrazià tu tuttu di tu cuncretizà! </string>
+</resources>

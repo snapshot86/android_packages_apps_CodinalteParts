@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus พัฒนา </string>
+<string name="extras_section_name">เสริม</string>
+<string name="app_name">Meticulus อะไหล่ </string>
+<string name="kernel_header">เคอร์เนล</string>
+<string name="otg_title">ยูเอสบี เจ้าภาพ โหมด</string>
+<string name="sensorex_title">การทดลอง เซนเซอร์ </string>
+<string name="glove_title">ถุงมือ โหมด</string>
+<string name="dt2w_title">ดับเบิล แตะ ไปยัง ปลุก </string>
+<string name="network_header">เครือข่าย</string>
+<string name="sim2_title">ซิม บัตร คาสิโนออนไลน์ 2 </string>
+<string name="workaround_header">งาน รอบ </string>
+<string name="google_enc_title">ใช้ Google H264 </string>
+<string name="action_settings">ตั้งค่า</string>
+<string name="dt2w_desc">ช่วยให้ คุณ ไปยัง ปลุก เครื่อง โดย สอง แตะ บน หน้าจอ.</string>
+<string name="otg_desc">ช่วยให้ คุณ ไปยัง ต่อ ยูเอสบี อุปกรณ์ เมื่อ เปิดใช้งาน อื่น ๆ เครื่อง ที่เกี่ยวข้อง ยูเอสบี ฟังก์ชั่น, อย่างเช่น เช่น ADB และ MTP, จะ ไม่ เป็น ใช้ได้ จนกระทั่ง นี้ คือ พิการ หรือ เครื่อง คือ รีบูต ไม่ ทั้งหมด ยูเอสบี อุปกรณ์ จะ งาน.</string>
+<string name="glove_desc">เพิ่ม ความไว ของ แตะ จอภาพ ดังนั้น สัมผัส สามารถ เป็น ลงทะเบียน ในขณะที่ การสวมใส่ ถุงมือ.</string>
+<string name="sim2_desc">เปิดใช้งาน ที่สอง ซิม บัตร สล็อต นี้ น่า ไม่ เป็น เปิดใช้งาน เว้นแต่ ที่นั่น คือ ซิม บัตร ใน ที่สอง สล็อต (ต้องมี Reboot!) </string>
+<string name="google_enc_desc">นี้ โรงงาน รอบ ปัญหา กับ สแน็ปแชท, Instagram และ อื่น ๆ วีดีโอ การบันทึก ปพลิเคชัน การใช้ประโยชน์ Google AVC เข้ารหัส แทน ของ HW AVC เข้ารหัส คุณ อาจ จำเป็นต้อง ไปยัง เริ่มต้นใหม่ App หรือ เริ่มต้นใหม่ เครื่อง ก่อน นี้ การตั้งค่า ใช้เวลา ผล นี้ อาจ ด้วย สาเหตุ บาง วีดีโอ การบันทึก ปพลิเคชัน ไม่ ไปยัง งาน.</string>
+<string name="sensorex_desc">ทดสอบ การทดลอง ไจโรสโคป เซ็นเซอร์! (ต้องมี Reboot) </string>
+<string name="sponsors">สปอนเซอร์</string>
+<string name="not_supported">ไม่ ได้รับการสนับสนุน โดย นี้ อุปกรณ์...</string>
+<string name="sponsor_thank_you">ขอบคุณ คุณ ทั้งหมด สำหรับ คุณ สนับสนุน!</string>
+</resources>

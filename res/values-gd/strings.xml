@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus Leasachaidh </string>
+<string name="extras_section_name">Extra</string>
+<string name="app_name">Meticulus pàirtean </string>
+<string name="kernel_header">Kernel</string>
+<string name="otg_title">USB Host Mode </string>
+<string name="sensorex_title">Experimental sensaran </string>
+<string name="glove_title">Miotag Mode </string>
+<string name="dt2w_title">Double Hùg Airson Wake </string>
+<string name="network_header">Lìonra </string>
+<string name="sim2_title">Sim Card Slot 2 </string>
+<string name="workaround_header">Obair Around </string>
+<string name="google_enc_title">chleachdaidh Google H264 </string>
+<string name="action_settings">Roghainnean</string>
+<string name="dt2w_desc">Cheadaich thu gu dhùsgadh a  uidheam le bhith a  dùbailte cnagadh air a  sgrion. </string>
+<string name="otg_desc">Cheadaich thu gu ceangal USB innealan. Cuin gnìomhach eile uidheam co-cheangailte USB gnìomhan, leithid mar ADB agus MTP, bidh chan eil a bhith ri fhaotainn gus an seo tha ciorramach no a  uidheam tha rebooted. Neo- a h-uile USB innealan bidh ag obair. </string>
+<string name="glove_desc">àrdachaidhean a  cugallachd de a  beantuinn glacadh- mar sin beantainn urrainn a bhith clàraichte fhad sa aodach miotagan. </string>
+<string name="sim2_desc">chomas a  an dàrna sim cairt -sliotan. Tha seo a  bu chòir chan eil a bhith gnìomhach mura an sin tha a sim cairt ann an a  an dàrna -sliotan. (Feumaidh Reboot!) </string>
+<string name="google_enc_desc">seo Obair Innleadaireachd timcheall cùisean le Snapchat, Instagram agus eile bhidio clàradh aplacaidean. feuman a  google AVC Encoder àite de a  HW AVC Encoder. thu A’ Chèitean Feumaidh gu ath-thòisich a  app no ath-thòisich a  uidheam mus seo suidheachadh a toirt bhuaidh. Tha seo a  A’ Chèitean cuideachd aobhar cuid bhidio clàradh apps chan eil gu ag obair. </string>
+<string name="sensorex_desc">Test deuchainneach gyroscope sensor! (Feumaidh Reboot) </string>
+<string name="sponsors">Urrais</string>
+<string name="not_supported">Neo- taic le bhith a  seo uidheam... </string>
+<string name="sponsor_thank_you">Tapadh thu a h-uile airson thu taic a thoirt do! </string>
+</resources>

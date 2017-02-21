@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus വികസനം </string>
+<string name="extras_section_name">എക്സ്ട്രാ</string>
+<string name="app_name">Meticulus ഭാഗങ്ങൾ </string>
+<string name="kernel_header">കേർണൽ</string>
+<string name="otg_title">USB ഹോസ്റ്റ് മോഡ് </string>
+<string name="sensorex_title">പരീക്ഷണാത്മക സെൻസറുകൾ </string>
+<string name="glove_title">കയ്യുറ മോഡ് </string>
+<string name="dt2w_title">ഇരട്ട ടച്ച് ചെയ്യാ വേക്ക് </string>
+<string name="network_header">ശൃംഖല</string>
+<string name="sim2_title">സിം കാർഡ് സ്ലോട്ട് 2 </string>
+<string name="workaround_header">ഔദ്യോഗിക ചുറ്റുമുള്ള </string>
+<string name="google_enc_title">ഉപയോഗിക്കുക ഗൂഗിൾ H264 </string>
+<string name="action_settings">ക്രമീകരണങ്ങൾ</string>
+<string name="dt2w_desc">അനുവദിക്കുന്നു നിങ്ങളെ ലേക്ക് ഉണരുക The ഉപകരണം മൂലം ഇരട്ട ടാപ്പിംഗ് ഓൺ The സ്ക്രീൻ. </string>
+<string name="otg_desc">അനുവദിക്കുന്നു നിങ്ങളെ ലേക്ക് കണക്ട് USB ഉപകരണങ്ങൾ. എപ്പോൾ സജീവമാക്കി മറ്റ് ഉപകരണം അനുബന്ധ USB ഫംഗ്ഷനുകൾ, അത്തരം പോലെ എഡിബി ഒപ്പം എം.ടി.പി, ഉദ്ദേശിക്കുന്ന അല്ല ആയിരിക്കും ലഭ്യമായ വരുവോളം ഈ ആകുന്നു അപ്രാപ്തമാക്കി അഥവാ The ഉപകരണം ആകുന്നു റീബൂട്ട്. അല്ല എല്ലാം USB ഉപകരണങ്ങൾ ഉദ്ദേശിക്കുന്ന സൃഷ്ടി. </string>
+<string name="glove_desc">വർദ്ധിപ്പിക്കൽ The സൂക്ഷ്മസംവേദനശക്തി ന്റെ The ടച്ച് സ്ക്രീൻ അതുപോലെ ടച്ചുകൾ can ആയിരിക്കും രജിസ്റ്റർ സമയത്ത് ധരിച്ചിരുന്നത് കയ്യുറകൾ. </string>
+<string name="sim2_desc">സജ്ജമാക്കുന്നു The സെക്കന്റ് സിം കാർഡ് സ്ളോട്ട്. ഈ വേണം അല്ല ആയിരിക്കും സജീവമാക്കി അല്ലാതെ അവിടെ ആകുന്നു ഒരു സിം കാർഡ് ലെ The സെക്കന്റ് സ്ളോട്ട്. (ആവശ്യമാണ് റീബൂട്ട്!) </string>
+<string name="google_enc_desc">ഈ പ്രവൃത്തികൾ ചുറ്റും പ്രശ്നങ്ങൾ കൂടെ Snapchat, യൂസേഴ്സ് ഒപ്പം മറ്റ് വീഡിയോ റെക്കോർഡിംഗ് അപ്ലിക്കേഷനുകൾ. ഉപയോഗങ്ങൾ The Google AVC എൻകോഡർ പകരം ന്റെ The HW AVC എൻകോഡർ. നിങ്ങളെ കഴിയുക ആവശ്യം ലേക്ക് പുനരാരംഭിക്കുക The അപ്ലിക്കേഷൻ അഥവാ പുനരാരംഭിക്കുക The ഉപകരണം മുമ്പ് ഈ ക്രമീകരണം എടുക്കുന്നു പ്രഭാവം. ഈ കഴിയുക ഇതും കാരണം കുറെ വീഡിയോ റെക്കോർഡിംഗ് അപ്ലിക്കേഷനുകൾ അല്ല ലേക്ക് സൃഷ്ടി. </string>
+<string name="sensorex_desc">ടെസ്റ്റ് പരീക്ഷണാത്മക വേഗതപോലുള്ള സെൻസർ! (ആവശ്യമാണ് റീബൂട്ടിനു്) </string>
+<string name="sponsors">സ്പോൺസർമാരുടെ</string>
+<string name="not_supported">അല്ല പിന്തുണയ്ക്കുന്ന മൂലം ഈ ഉപകരണം... </string>
+<string name="sponsor_thank_you">നന്ദി നിങ്ങളെ എല്ലാം വേണ്ടി നിങ്ങളെ പിന്തുണ! </string>
+</resources>

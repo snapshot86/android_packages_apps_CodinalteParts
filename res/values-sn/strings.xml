@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="development_name">Meticulus Development </string>
+<string name="extras_section_name">Extra</string>
+<string name="app_name">Meticulus Parts </string>
+<string name="kernel_header">Kernel</string>
+<string name="otg_title">USB Host Mode </string>
+<string name="sensorex_title">experimental Sensors </string>
+<string name="glove_title">Glove Mode </string>
+<string name="dt2w_title">Double kubata To Wake </string>
+<string name="network_header">Network</string>
+<string name="sim2_title">Sim kadhi Slot 2 </string>
+<string name="workaround_header">Basa Around </string>
+<string name="google_enc_title">Use Google H264 </string>
+<string name="action_settings">Settings</string>
+<string name="dt2w_desc">Inokutendera iwe kuti muka ari mudziyo kubudikidza kaviri tapping pamusoro ari sikirini. </string>
+<string name="otg_desc">Inokutendera iwe kuti batanidza USB namano. apo kusashanda mwe mudziyo Inyaya USB mabasa, vakadaro sezvo ADB uye MTP, chido kwete kuva zviripo kusvikira ichi ndiko remara kana ari mudziyo ndiko rebooted. kwete zvose USB mano chido kushanda. </string>
+<string name="glove_desc">Inowedzera ari utetsa pamusoro ari kubata sikirini saka unobatwa anogona kuva vakanyorwa apo akapfeka wakasonwa nejira. </string>
+<string name="sim2_desc">Rino ari chepiri sim kadhi slots. ichi fanira kwete kuva kusashanda kunze kokuti ipapo ndiko munhu sim kadhi mu ari chepiri slots. (Kunoda Reboot!) </string>
+<string name="google_enc_desc">Izvi mabasa kumativi nyaya ne Snapchat, Instagram uye mwe Video kutsikisa Apps. tizvishandise ari google avc encoder pachinzvimbo pamusoro ari HW avc encoder. iwe Chivabvu vanoda kuti restart ari App kana restart ari mudziyo pamberi ichi marongero zvinotora zvazviri. ichi Chivabvu wo chikonzero vamwe Video kutsikisa Apps kwete kuti kushanda. </string>
+<string name="sensorex_desc">Test experimental gyroscope Switch! (Kunoda Reboot) </string>
+<string name="sponsors">Sponsors</string>
+<string name="not_supported">Kwete akatsigira kubudikidza ichi mudziyo... </string>
+<string name="sponsor_thank_you">Maita iwe zvose nokuti iwe kutsigira! </string>
+</resources>
