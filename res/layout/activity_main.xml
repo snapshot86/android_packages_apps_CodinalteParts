@@ -71,8 +71,8 @@
             <LinearLayout
                 android:orientation="horizontal"
                 android:layout_width="fill_parent"
-                android:layout_height="1dp"
-		android:background="#CCCCCC" />
+                android:layout_height="2dp"
+		android:background="@color/card_background_grey" />
 
             <TextView
                 style="@android:style/TextAppearance.DeviceDefault.WindowTitle"
@@ -86,7 +86,7 @@
                 android:textStyle="bold"
                 android:paddingLeft="20dp"
                 android:paddingTop="20dp"
-		android:textColor="#999999"
+		android:textColor="?android:attr/colorAccent"
                 android:textSize="10dp" />
  
 	    <LinearLayout
@@ -230,8 +230,8 @@
             <LinearLayout
                 android:orientation="horizontal"
                 android:layout_width="fill_parent"
-                android:layout_height="1dp"
-		android:background="#CCCCCC" />
+                android:layout_height="2dp"
+		android:background="@color/card_background_grey" />
  
             <TextView
                 style="@android:style/TextAppearance.DialogWindowTitle"
@@ -245,7 +245,7 @@
                 android:textStyle="bold"
                 android:paddingLeft="20dp"
                 android:paddingTop="20dp"
-		android:textColor="#999999" 
+		android:textColor="?android:attr/colorAccent"
                 android:textSize="10dp" />
 	    <LinearLayout
                 android:orientation="horizontal"
@@ -284,8 +284,8 @@
             <LinearLayout
                 android:orientation="horizontal"
                 android:layout_width="fill_parent"
-                android:layout_height="1dp"
-               android:background="#CCCCCC" />
+                android:layout_height="2dp"
+		android:background="@color/card_background_grey" />
 
             <TextView
                 style="@android:style/TextAppearance.DialogWindowTitle"
@@ -299,7 +299,7 @@
                 android:textStyle="bold"
                 android:paddingLeft="20dp"
                 android:paddingTop="20dp"
-               android:textColor="#999999" 
+		android:textColor="?android:attr/colorAccent"
                 android:textSize="10dp" />
            <LinearLayout
                 android:orientation="horizontal"
