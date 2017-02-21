@@ -32,7 +32,9 @@ do
 	GROSS=$(echo "$LINE" | cut -d ',' -f7 | sed 's/\"//g')
  	XDA=$(echo "$LINE" | cut -d ',' -f15 | cut -d '(' -f1 | sed 's/Donation from//g' | sed 's/\"//g' | sed 's/a guest on XDA Developers//g' | sed 's/Developers//g')
 	if [[ $( echo $XDA | grep -c XDA) -eq 0 ]]; then
-	XDA=""
+	    XDA=""
+        else
+	    XDA="$(echo "$XDA" | cut -d '[' -f1)@ XDA"
 	fi
 #	echo "$NAME $STATUS $GROSS"
 	if [[ "${NAMES[@]}" == *"$NAME"* ]]; then
