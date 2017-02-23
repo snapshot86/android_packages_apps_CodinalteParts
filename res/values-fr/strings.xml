@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string name="development_name">Meticulus Développement</string>
-<string name="extras_section_name">Supplémentaire</string>
-<string name="app_name">Meticulus Les pièces</string>
-<string name="kernel_header">Noyau</string>
-<string name="otg_title">USB Hôte Mode</string>
-<string name="sensorex_title">Expérimental Capteurs </string>
-<string name="glove_title">Gant Mode</string>
-<string name="dt2w_title">Double Toucher À Réveiller</string>
-<string name="network_header">Réseau</string>
-<string name="sim2_title">Sim Carte Fente 2 </string>
-<string name="workaround_header">Travail Autour</string>
-<string name="google_enc_title">Utilisation Google H264 </string>
-<string name="action_settings">Paramètres</string>
-<string name="dt2w_desc">Permet toi à réveiller la dispositif par double tapotement sur la écran.</string>
-<string name="otg_desc">Permet toi à relier USB dispositifs. Quand Activé autre dispositif en relation USB les fonctions, tel comme ADB et MTP, volonté ne pas être disponible jusquà ce est désactivée ou la dispositif est Redémarré. ne pas tout USB dispositifs volonté travail.</string>
-<string name="glove_desc">Augmente la sensibilité de la toucher écran alors Touche pouvez être inscrit tandis que portant gants.</string>
-<string name="sim2_desc">Activer la seconde Sim carte fente. Ce devrait ne pas être Activé sauf si Là est une Sim carte dans la seconde fente. (A besoin Redémarrez!) </string>
-<string name="google_enc_desc">Ce travaux autour problèmes avec Snapchat, Instagram et autre vidéo enregistrement applications. Les usages la Google Avc Encodeur au lieu de la Hw Avc Encodeur. Toi mai avoir besoin à redémarrer la App ou redémarrer la dispositif avant ce réglage Prend effet. Ce mai aussi cause certains vidéo enregistrement applications ne pas à travail.</string>
-<string name="sensorex_desc">Tester expérimental gyroscope capteur! (A besoin Reboot) </string>
-<string name="sponsors">Sponsors</string>
-<string name="not_supported">Ne pas prise en charge par ce dispositif...</string>
-<string name="sponsor_thank_you">Remercier toi tout pour toi soutien!</string>
+    <string name="development_name">Meticulus Development</string>
+    <string name="extras_section_name">Paramètres supplémentaires</string>
+    <string name="app_name">Meticulus Parts</string>
+    <string name="kernel_header">Noyau</string> 
+    <string name="otg_title">Mode hôte USB</string>
+    <string name="sensorex_title">Capteurs expérimentaux</string>
+    <string name="glove_title">Mode Gant</string>
+    <string name="dt2w_title">Double appui pour réveiller</string>
+    <string name="network_header">Réseau</string>
+    <string name="sim2_title">Seconde carte SIM</string>
+    <string name="workaround_header">Contournements</string>
+    <string name="google_enc_title">Use le codec H264 Google</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="dt2w_desc">Vous permet de réveiller l'appareil en appuyant deux fois sur l'écran.</string>
+    <string name="otg_desc">Permet de brancher des périphériques USB (OTG). Quand cette option est activée, le MTP et ADB ne fonctionneront pas jusqu'à la désactivation ou au redémarrage. Certains périphériques peuvent ne pas fonctionner.</string>
+    <string name="glove_desc">Accroît la sensibilité de l'écran tactile afin qu'il puisse être utilisé avec des gants.</string>
+    <string name="sim2_desc">Active le second port carte SIM. N'activez cette fonctionnalité que si vous utilisez une seconde carte SIM. (nécessite un redémarrage pour être activé)</string>
+    <string name="google_enc_desc">Cela résout les problèmes avec Snapchat, Instagram et les autres applications d'enregistrement vidéo. Cette option permet d'utiliser l'encodeur AVC de Google au lieu de l'encodeur AVC matériel. Vous devrez redémarrer l'application ou l'appareil pour que ce réglage prenne effet. Cela cause également le dysfonctionnement de certaines applications d'enregistrement vidéo.</string>
+    <string name="sensorex_desc">Activer le gyroscope émulé expérimental. (nécessite un redémarrage pour être activé)</string>
+    <string name="sponsors">Sponsors</string>
+    <string name="not_supported">Non supporté par cet appareil...</string>
+    <string name="sponsor_thank_you">Merci à tous pour votre soutien !</string>
 </resources>
