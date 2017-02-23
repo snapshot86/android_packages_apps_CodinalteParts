@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string name="development_name">Meticulus Sviluppo</string>
-<string name="extras_section_name">Extra</string>
-<string name="app_name">Meticulus Parti</string>
-<string name="kernel_header">Kernel</string>
-<string name="otg_title">USB Ospite Modalità</string>
-<string name="sensorex_title">Sperimentale sensori </string>
-<string name="glove_title">Guanto Modalità</string>
-<string name="dt2w_title">Raddoppiare Toccare A Wake </string>
-<string name="network_header">Rete</string>
-<string name="sim2_title">Sim Carta Fessura 2 </string>
-<string name="workaround_header">Lavoro In giro</string>
-<string name="google_enc_title">Uso Google H264 </string>
-<string name="action_settings">Impostazioni</string>
-<string name="dt2w_desc">Permette tu a svegliare il dispositivo di raddoppiare maschiatura sopra il schermo.</string>
-<string name="otg_desc">Permette tu a Collegare USB dispositivi. quando attivato altro dispositivo relazionato USB funzioni, come come ADB e MTP, volere non essere a disposizione fino a Questo è Disabilitato o il dispositivo è riavviato. Non tutti USB dispositivi volere lavoro.</string>
-<string name="glove_desc">Aumenti il sensibilità di il toccare schermo così tocchi può essere registrato mentre indossare guanti.</string>
-<string name="sim2_desc">Abilita il secondo sim carta fessura. Questo dovrebbero non essere attivato salvo che Là è un sim carta in il secondo fessura. (Richiede Riavviare!) </string>
-<string name="google_enc_desc">Questo lavori in giro problemi con Snapchat, Instagram e altro video registrazione Apps. usi il Google avc codificatore anziché di il hw avc codificatore. tu può bisogno a ricomincia il App o ricomincia il dispositivo prima Questo ambientazione prende effetto. Questo può anche causa alcuni video registrazione applicazioni non a lavoro.</string>
-<string name="sensorex_desc">Test sperimentale giroscopio sensore! (Richiede Reboot) </string>
-<string name="sponsors">Sponsor</string>
-<string name="not_supported">Non supportato di Questo dispositivo...</string>
-<string name="sponsor_thank_you">Ringraziare tu tutti per tu supporto!</string>
+    <string name="development_name">Meticulus Development</string>
+    <string name="extras_section_name">Extra</string>
+    <string name="app_name">Meticulus Parts</string>
+    <string name="kernel_header">Kernel</string>
+    <string name="otg_title">USB Host Mode</string>
+    <string name="sensorex_title">Sensori Sperimentali</string>
+    <string name="glove_title">Modalità guanti</string>
+    <string name="dt2w_title">Doppio tocco per risvegliare il dispositivo</string>
+    <string name="network_header">Network</string>
+    <string name="sim2_title">Sim Card Slot 2</string>
+    <string name="workaround_header">Work Around</string>
+    <string name="google_enc_title">Usa Google H264</string>
+    <string name="action_settings">Impostazioni</string>
+    <string name="dt2w_desc">Abilita l\'attivazione del dispositivo con un doppio tocco sullo schermo.</string>
+    <string name="otg_desc">Abilita la connessione di dispositivi tramite microUSB (OTG). Quando attivato altre funzioni relative all\'USB non funzioneranno, come ADB o MTP, non saranno disponibili fino alla disattivazione o al riavvio del dispositivo. Non tutti i dispositivi potrebbero funzionare.</string>
+    <string name="glove_desc">Aumenta la sensibilità del touch in modo da rilevare i tocchi mentre si utilizzano i guanti.</string>
+    <string name="sim2_desc">Abilita lo slot della seconda scheda SIM. Non deve essere attivano se non presente una SIM nel secondo slot. (Richiede riavvio!)</string>
+    <string name="google_enc_desc">Risolve problemi di registrazioni con Snapchat, Instagram e altre app per registrare video. Utilizza i codec video di Google invece di quelli hw. Potrebbe essere necessario un riavvio dell\'app o del dispositivo prima che abbia effetto. Potrebbe causare problemi alle altre app per la registrazione dei video.</string>
+    <string name="sensorex_desc">Test sensore di giroscopio sperimentale! (Richiede riavvio)</string>
+    <string name="sponsors">Sponsors</string>
+    <string name="not_supported">Non supportati da questo dispositivo...</string>
+    <string name="sponsor_thank_you">Grazie a tutti per il vostro supporto!</string>
 </resources>
