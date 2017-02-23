@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string name="development_name">Meticulus Fejlődés</string>
-<string name="extras_section_name">Külön</string>
-<string name="app_name">Meticulus Alkatrészek</string>
-<string name="kernel_header">Kernel</string>
-<string name="otg_title">USB Házigazda Mód</string>
-<string name="sensorex_title">Kísérleti érzékelők</string>
-<string name="glove_title">Kesztyű Mód</string>
-<string name="dt2w_title">Kettős Érintés Nak nek Ébred</string>
-<string name="network_header">Hálózat</string>
-<string name="sim2_title">Sim Kártya Rés 2 </string>
-<string name="workaround_header">Munka Körül</string>
-<string name="google_enc_title">Használat Google H264</string>
-<string name="action_settings">Beállítások</string>
-<string name="dt2w_desc">Lehetővé tesz te nak nek ébred a eszköz által kettős megcsapolás tovább a képernyő.</string>
-<string name="otg_desc">Lehetővé tesz te nak nek csatlakoztassa USB eszközök. Amikor aktív más eszköz összefüggő USB függvények, ilyen mint ADB és MTP, akarat nem lenni elérhető amíg ez az Tiltva vagy a eszköz az újraindul. Nem minden USB készülékek akarat munka.</string>
-<string name="glove_desc">Növeli a érzékenység nak,-nek a érintés képernyő így simítások tud lenni bejegyzett míg fárasztó kesztyű.</string>
-<string name="sim2_desc">Lehetővé teszi a második sim kártya rés. Ez kellene nem lenni aktív hacsak ott az egy sim kártya ban ben a második rés. (Igényel Reboot!)</string>
-<string name="google_enc_desc">Ez művek körül kérdések val vel Snapchat, Instagram és más videó- felvétel alkalmazásokat. felhasználások a Google AVC jeladó helyette nak,-nek a hw AVC jeladó. te lehet szükség nak nek újrakezd a app vagy újrakezd a eszköz előtt ez beállítás tart hatás. Ez lehet is ok néhány videó- felvétel alkalmazások nem nak nek munka.</string>
-<string name="sensorex_desc">Teszt kísérleti giroszkóp érzékelő! (Igényel Reboot)</string>
-<string name="sponsors">Támogatók</string>
-<string name="not_supported">Nem támogatott által ez eszköz...</string>
-<string name="sponsor_thank_you">Köszönet te minden mert te támogatás!</string>
+    <string name="development_name">Meticulus Fejlesztés</string>
+    <string name="extras_section_name">Extrák</string>
+    <string name="app_name">Meticulus Parts</string>
+    <string name="kernel_header">Kernel</string> 
+    <string name="otg_title">USB Hoszt Mód</string>
+    <string name="sensorex_title">Kísérleti Szenzorok</string>
+    <string name="glove_title">Kesztyûs Mód</string>
+    <string name="dt2w_title">Ébresztés Dupla Érintésre</string>
+    <string name="network_header">Hálózat</string>
+    <string name="sim2_title">2. Sim Kártya Tároló</string>
+    <string name="workaround_header">Ideiglenes megoldás</string>
+    <string name="google_enc_title">Google H264 Használata</string>
+    <string name="action_settings">Beállítások</string>
+    <string name="dt2w_desc">Engedélyezi a készülék felébresztését a kijelzõn való dupla érintéssel.</string>
+    <string name="otg_desc">Engedélyezi USB eszközök csatlakoztatását. Amíg engedélyezve van, más USB funkciók, mint az ADB és MTP nem lesz elérhetõ addig, míg ez ki nincs kapcsolva vagy a készülék újra nem indul. Nem minden USB eszköz fog mûködni.</string>
+    <string name="glove_desc">Növeli az érintõ kijelzõ érzékenységét, ezért érzékeli az érintéseket kesztyû viselése esetén is.</string>
+    <string name="sim2_desc">Aktiválja a második sim kártya tárolót. Ennek nem szabad bekapcsolva lennie hacsak nincs sim kártya a második tárolóban. (Újraindítás szükséges)</string>
+    <string name="google_enc_desc">Ez ideiglenesen kijavítja a hibákat a Snapchat, Instagram és más videó felvevõ programoknál. A hw avc kódoló helyett a google avc kódolót használja. Szükséges lehet a program vagy a készülék újraindítása, mielõtt a beállítás mûködésbe lép. Ez okozhat hibákat más videó felvevõ programoknál.</string>
+    <string name="sensorex_desc">Kísérleti gyroszkóp szenzor teszt! (Újraindítás Szükséges)</string>
+    <string name="sponsors">Szponzorok</string>
+    <string name="not_supported">Nem támogatott ezen a készüléken...</string>
+    <string name="sponsor_thank_you">Köszönöm mindannyiótoknak a támogatást!</string>
 </resources>
