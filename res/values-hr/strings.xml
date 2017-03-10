@@ -14,8 +14,8 @@
 <string name="google_enc_title">Korištenje Google H264 </string>
 <string name="action_settings">Postavke</string>
 <string name="dt2w_desc">Dopušta buđenje uređaja dvostrukim dodirom ekrana.</string>
-<string name="otg_desc">Dopušta spajanje USB uređaja. Dok je akrtivno druge USB funkcije uređaja,poput ADB i MTP, neće biti dostupne dok se ovo ne isključi ili dok se uređaj ne pokrene ponovno. Neće funkcionirati sa svim USB uređajima.</string>
-<string name="glove_desc">Povećava osjetljivost zaslona na dodir tako dodir može biti prepoznat tijekom nošenja rukavica.</string>
+<string name="otg_desc">Dopušta spajanje USB uređaja. Dok je aktivno druge USB funkcije uređaja,poput ADB i MTP, neće biti dostupne dok se ovo ne isključi ili dok se uređaj ne pokrene ponovno. Neće funkcionirati sa svim USB uređajima.</string>
+<string name="glove_desc">Povećava osjetljivost zaslona na dodir tako da dodir može biti prepoznat tijekom nošenja rukavica.</string>
 <string name="sim2_desc">Omogućava rad drugog utora za SIM karticu. Ne bi trebalo biti aktivno osim ako je sim kartica uistinu u drugom utoru. (Zahtijeva Ponovno pokretanje sustava!)</string>
 <string name="google_enc_desc">Ovo rješava probleme sa Snapchatom,Instagramom i ostalim aplikacijama koje se koriste za snimanje videa. Koristi Google-ov avc enkoder umjesto hardverskog avc enkodera. Postoji mogućnost da se uređaj/aplikacija mora ponovno pokrenuti kako bi ova funkcija proradila. Također postoji mogućnost da neke aplikacije za snimanje videa prestanu raditi.</string>
 <string name="sensorex_desc">Test eksperimentalan žiroskop senzor! (Zahtijeva Ponovno pokretanje sustava)</string>
