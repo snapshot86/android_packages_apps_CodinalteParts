@@ -13,12 +13,12 @@
     <string name="workaround_header">Work Around</string>
     <string name="google_enc_title">Usa Google H264</string>
     <string name="action_settings">Impostazioni</string>
-    <string name="dt2w_desc">Abilita l\'attivazione del dispositivo con un doppio tocco sullo schermo.</string>
+    <string name="dt2w_desc">Abilita l\'attivazione del display con un doppio tocco.</string>
     <string name="otg_desc">Abilita la connessione di dispositivi tramite microUSB (OTG). Quando attivato altre funzioni relative all\'USB non funzioneranno, come ADB o MTP, non saranno disponibili fino alla disattivazione o al riavvio del dispositivo. Non tutti i dispositivi potrebbero funzionare.</string>
     <string name="glove_desc">Aumenta la sensibilità del touch in modo da rilevare i tocchi mentre si utilizzano i guanti.</string>
     <string name="sim2_desc">Abilita lo slot della seconda scheda SIM. Non deve essere attivano se non presente una SIM nel secondo slot. (Richiede riavvio!)</string>
     <string name="google_enc_desc">Risolve problemi di registrazioni con Snapchat, Instagram e altre app per registrare video. Utilizza i codec video di Google invece di quelli hw. Potrebbe essere necessario un riavvio dell\'app o del dispositivo prima che abbia effetto. Potrebbe causare problemi alle altre app per la registrazione dei video.</string>
-    <string name="sensorex_desc">Test sensore di giroscopio sperimentale! (Richiede riavvio)</string>
+    <string name="sensorex_desc">Sensore di giroscopio sperimentale (Richiede riavvio!)</string>
     <string name="sponsors">Sponsors</string>
     <string name="not_supported">Non supportati da questo dispositivo...</string>
     <string name="sponsor_thank_you">Grazie a tutti per il vostro supporto!</string>
