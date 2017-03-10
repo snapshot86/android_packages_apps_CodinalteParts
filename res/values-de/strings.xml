@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string name="development_name">Meticulus Entwicklung</string>
-<string name="extras_section_name">Extra</string>
-<string name="app_name">Meticulus Teile</string>
+<string name="development_name">Meticulus Development</string>
+<string name="extras_section_name">Extras</string>
+<string name="app_name">Meticulus Extras</string>
 <string name="kernel_header">Kernel</string>
-<string name="otg_title">USB Gastgeber Modus</string>
-<string name="sensorex_title">Experimental Sensoren</string>
+<string name="otg_title">USB OTG Modus</string>
+<string name="sensorex_title">Experimentielle Sensoren</string>
 <string name="glove_title">Handschuh Modus</string>
-<string name="dt2w_title">Doppelt Berühren Nach Aufwachen</string>
+<string name="dt2w_title">DT2W</string>
 <string name="network_header">Netzwerk</string>
 <string name="sim2_title">Sim Karte Slot 2 </string>
-<string name="workaround_header">Arbeit Um</string>
-<string name="google_enc_title">Benutzen Google H264 </string>
+<string name="workaround_header">Übergangslösungen</string>
+<string name="google_enc_title">Google H264 benutzen</string>
 <string name="action_settings">Einstellungen</string>
-<string name="dt2w_desc">Erlaubt Sie nach aufwachen das Gerät durch doppelt Klopfen auf das Bildschirm.</string>
-<string name="otg_desc">Erlaubt Sie nach verbinden USB Geräte. Wann Aktiviert andere Gerät Bezogen USB Funktionen, eine solche wie ADB und MTP, werden nicht Sein verfügbar bis Dies Ist behindert oder das Gerät Ist Neu gestartet. Nicht alle USB Geräte werden Arbeit.</string>
-<string name="glove_desc">Erhöht sich das Empfindlichkeit von das berühren Bildschirm damit Berührt kann Sein Eingetragen während Tragen Handschuhe. </string>
-<string name="sim2_desc">Aktiviert das zweite Sim Karte Slot. Dies sollte nicht Sein Aktiviert es sei denn Dort Ist ein Sim Karte im das zweite Slot. (Benötigt Neustart!) </string>
-<string name="google_enc_desc">Dies Arbeitet um Probleme mit Snapchat, Instagram und andere Video Aufzeichnung Apps Verwendet das Google Avc Drehgeber stattdessen von das Hw Avc Drehgeber. Sie kann brauchen nach Neustart das App oder Neustart das Gerät Vor Dies Rahmen Nimmt bewirken. Dies kann ebenfalls Ursache etwas Video Aufzeichnung Apps nicht nach Arbeit.</string>
-<string name="sensorex_desc">Test Experimental- Gyroskop Sensor! (Benötigt Neustart)</string>
+<string name="dt2w_desc">Erlaubt Ihnen das Gerät durch doppeltes Tippen auf den Bildschirm aufzuwecken.</string>
+<string name="otg_desc">Erlaubt Ihnen das verbinden von USB Geräten. Wenn Aktiviert werden andere Gerätebezogene USB Funktionen wie ADB und MTP nicht verfügbar sein bis das Gerät Neu gestartet ist. Nicht alle USB Geräte werden Funktionieren.</string>
+<string name="glove_desc">Erhöht die Empfindlichkeit des Bildschirms damit Berührungen mit Handschuhen erkannt werden. </string>
+<string name="sim2_desc">Aktiviert den zweiten Sim Karten Slot. Dies sollte nicht Aktiviert sein wenn keine zweite SIM Karte dort eingelegt ist. (Neustart erforderlich!) </string>
+<string name="google_enc_desc">Eine Übergangslösung für Snapchat, Instagram und andere Video-Aufzeichnungs-Apps. Verwendet den Google Avc Encoder anstatt des Hw Avc Encoders. Kann einen Neustart der App oder des Gerätes benötigen. Dies kann auch zu Problemen mit anderen Video-Aufzeichnung-Apps führen.</string>
+<string name="sensorex_desc">Test Experimentiell - Gyroskop Sensor! (Benötigt Neustart)</string>
 <string name="sponsors">Sponsoren</string>
-<string name="not_supported">Nicht Unterstützt durch Dies Gerät...</string>
-<string name="sponsor_thank_you">Danken Sie alle zum Sie Unterstützung!</string>
+<string name="not_supported">Nicht Unterstützt von diesem Gerät...</string>
+<string name="sponsor_thank_you">Danken Euch allen für eure Unterstützung!</string>
 </resources>
