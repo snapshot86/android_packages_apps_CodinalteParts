@@ -118,23 +118,25 @@ public class MainActivity extends Activity {
         public void onClick(View view) {
 
             ImageView thisSwitch = (ImageView)view;
-            if(thisSwitch == whatis_otg){
-                ShowDialog(getResources().getString(R.string.otg_title),FunctionsMain.usb_host_is_supported() ? getString(R.string.otg_desc) : getString(R.string.not_supported));
-            }
-            else if(thisSwitch == whatis_dt2w){
-                ShowDialog(getResources().getString(R.string.dt2w_title),FunctionsMain.dt2w_is_supported() ? getString(R.string.dt2w_desc) : getString(R.string.not_supported));
-            }
-            else if(thisSwitch == whatis_sensorex){
-                ShowDialog(getResources().getString(R.string.sensorex_title),getString(R.string.sensorex_desc));
-            }
-            else if(thisSwitch == whatis_google_enc){
-                ShowDialog(getResources().getString(R.string.google_enc_title),getString(R.string.google_enc_desc));
-            }
-            else if(thisSwitch == whatis_glove){
-                ShowDialog(getResources().getString(R.string.glove_title),FunctionsMain.glove_mode_is_supported() ? getString(R.string.glove_desc) : getString(R.string.not_supported));
-            }
-            else if(thisSwitch == whatis_sim2){
-                ShowDialog(getResources().getString(R.string.sim2_title),getString(R.string.sim2_desc));
+            switch(thisSwitch){
+                case whatis_otg:
+                    ShowDialog(getResources().getString(R.string.otg_title),FunctionsMain.usb_host_is_supported() ? getString(R.string.otg_desc) : getString(R.string.not_supported));
+                    break;
+                case whatis_dt2w:
+                    ShowDialog(getResources().getString(R.string.dt2w_title),FunctionsMain.dt2w_is_supported() ? getString(R.string.dt2w_desc) : getString(R.string.not_supported));
+                    break;
+                case whatis_sensorex:
+                    ShowDialog(getResources().getString(R.string.sensorex_title),getString(R.string.sensorex_desc));
+                    break;
+                case whatis_google_enc:
+                    ShowDialog(getResources().getString(R.string.google_enc_title),getString(R.string.google_enc_desc));
+                    break;
+                case whatis_glove:
+                    ShowDialog(getResources().getString(R.string.glove_title),FunctionsMain.glove_mode_is_supported() ? getString(R.string.glove_desc) : getString(R.string.not_supported));
+                    break;
+                case whatis_sim2:
+                    ShowDialog(getResources().getString(R.string.sim2_title),getString(R.string.sim2_desc));
+                    break;
             }
         }
     };
@@ -145,38 +147,39 @@ public class MainActivity extends Activity {
 
             Switch thisSwitch = (Switch)compoundButton;
             SharedPreferences.Editor editor = sharedPref.edit();
-            if(thisSwitch == otg) {
-		try { 
-                    	FunctionsMain.set_otg(b);
-                }
-                catch(Exception e){e.printStackTrace();}
-	    }
-            else if(thisSwitch == dt2w) {
-		try { 
-                    	FunctionsMain.set_dt2w(b);
-			editor.putBoolean("dt2w",b);
-                }
-                catch(Exception e){e.printStackTrace();}
-	    }
-            else if(thisSwitch == glove) {
-		try { 
-                    	FunctionsMain.set_glove(b);
-			editor.putBoolean("glove",b);
-                }
-                catch(Exception e){e.printStackTrace();}
-	    }
-            else if(thisSwitch == sensorex){
-                SystemProperties.set("persist.sys.sensorex",String.valueOf(b));
-            }
-            else if(thisSwitch == google_enc){
-                SystemProperties.set("persist.sys.google_avc_enc",String.valueOf(b));
-            }
-            else if(thisSwitch == sim2){
-		if(b)
-                    SystemProperties.set("persist.radio.multisim.config","dsds");
-		else
-                    SystemProperties.set("persist.radio.multisim.config","single");
-
+            switch(thisSwitch){
+                case otg:
+                    try {
+                        FunctionsMain.set_otg(b);
+                    }
+                    catch(Exception e){e.printStackTrace();}
+                    break;
+                case dt2w:
+                    try {
+                        FunctionsMain.set_dt2w(b);
+                        editor.putBoolean("dt2w",b);
+                    }
+                    catch(Exception e){e.printStackTrace();}
+                    break;
+                case glove:
+                    try {
+                        FunctionsMain.set_glove(b);
+                        editor.putBoolean("glove",b);
+                    }
+                    catch(Exception e){e.printStackTrace();}
+                    break;
+                case sensorex:
+                    SystemProperties.set("persist.sys.sensorex",String.valueOf(b));
+                    break;
+                case google_enc:
+                    SystemProperties.set("persist.sys.google_avc_enc",String.valueOf(b));
+                    break;
+                case sim2:
+                    if(b)
+                        SystemProperties.set("persist.radio.multisim.config","dsds");
+                    else
+                        SystemProperties.set("persist.radio.multisim.config","single");
+                    break;
             }
             editor.apply();
         }
