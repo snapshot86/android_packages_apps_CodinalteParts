@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string name="development_name">Meticulus Rozwój</string>
-<string name="extras_section_name">Dodatkowy</string>
-<string name="app_name">Meticulus Części</string>
+<string name="development_name">Meticulus Development</string>
+<string name="extras_section_name">Dodatkowe</string>
+<string name="app_name">Dodatki Meticulus</string>
 <string name="kernel_header">Jądro</string>
-<string name="otg_title">USB Gospodarz Tryb</string>
-<string name="sensorex_title">Eksperymentalny czujniki </string>
-<string name="glove_title">Rękawica Tryb</string>
-<string name="dt2w_title">Podwójnie Dotknąć Do Budzić</string>
+<string name="otg_title">USB OTG</string>
+<string name="sensorex_title">Czujniki</string>
+<string name="glove_title">Obsługa w Rekawicy</string>
+<string name="dt2w_title">Stuknij 2 Razy by Wybudzić</string>
 <string name="network_header">Sieć</string>
-<string name="sim2_title">Sim Karta Otwór 2 </string>
-<string name="workaround_header">Praca Na około</string>
-<string name="google_enc_title">Posługiwać się Google H264</string>
+<string name="sim2_title">Druga Karta SIM </string>
+<string name="workaround_header">Obejście</string>
+<string name="google_enc_title">Kodek Google H264</string>
 <string name="action_settings">Ustawienia</string>
-<string name="dt2w_desc">Zezwala ty do budzić urządzenie przez podwójnie stukający na ekran.</string>
-<string name="otg_desc">Zezwala ty do połączyć USB pomysłowość. Gdy aktywowany inny urządzenie związane z USB Funkcje, taki tak jak ADB i MTP, będzie nie być dostępny aż do to jest niepełnosprawny lub urządzenie jest uruchomiony ponownie. Nie wszystko USB pomysłowość będzie praca.</string>
-<string name="glove_desc">Zwiększenia wrażliwość z dotknąć ekran więc dotyka mogą być zarejestrowany podczas gdy ma na sobie rękawiczki.</string>
-<string name="sim2_desc">Pozwala druga sim karta otwór. To powinien nie być aktywowany chyba że tam jest za sim karta w druga otwór. (Wymaga Restart!)</string>
-<string name="google_enc_desc">To Prace na około problemy z Snapchat, Instagram i inny wideo nagranie aplikacje. zastosowania Google AVC koder zamiast z HW AVC enkoder. ty może potrzeba do restart Aplikacja lub restart urządzenie przed to oprawa trwa efekt. To może również przyczyna trochę wideo nagranie aplikacje nie do praca.</string>
-<string name="sensorex_desc">Test eksperymentalny żyroskop czujnik! (Wymaga Restart)</string>
+<string name="dt2w_desc">Pozwala wybudzić telefon przez podwójne stuknięcie w ekran.</string>
+<string name="otg_desc">Pozwala podłaczać urządzenia przez USB. Przy korzystaniu z innych funkcji USB np. ADB czy MTP, funkcje te nie będą dostępne dopóki nie wyłączymy tej funkcji lub nie zrestartujemy urządzenia.</string>
+<string name="glove_desc">Zwiększa czułość ekranu, aby dotyk był wykrywany nawet w rękawiczkach.</string>
+<string name="sim2_desc">Aktywuje drugi slot na kartę SIM. Włączyć dopiero po włożeniu drugiej karty do slotu. (Wymagany Restart!)</string>
+<string name="google_enc_desc">Rozwiązuje problem z nagrywaniem w Snapchat,Instagram i innych. Korzysta z kodowania google avc zamiast sprzętowego avc. Może być potrzebny restart aplikacji bądź telefonu. Niektóre aplikacje aparatu mogą przez to nie działać.</string>
+<string name="sensorex_desc">Testowy, eksperymentalny żyroskop! Może być niestabilny (Wymagany Restart!)</string>
 <string name="sponsors">Sponsorzy</string>
-<string name="not_supported">Nie utrzymany przez to urządzenie...</string>
-<string name="sponsor_thank_you">Podziękować ty wszystko dla ty wsparcie!</string>
+<string name="not_supported">Nie wspierane przez urządzenie...</string>
+<string name="sponsor_thank_you">Dziękuje wszystkim za wsparcie!</string>
 </resources>
