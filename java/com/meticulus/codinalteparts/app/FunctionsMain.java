@@ -10,11 +10,11 @@ import android.os.Build;
 import android.os.SystemProperties;
 import android.util.Log;
 
-import java.io.File;
+import java.io.*;
 import java.io.FileInputStream;
 import java.util.Random;
-
-import org.cyanogenmod.internal.util.FileUtils;
+import java.io.BufferedWriter;
+import java.io.BufferedReader;
 /**
  * Created by meticulus on 4/7/14.
  */
@@ -30,15 +30,69 @@ public class FunctionsMain {
 
     private static final String USB_HOST_FILE = "/sys/devices/ff100000.hisi_usb/plugusb";
 
+    public static String readOneLine(String fileName) {
+        String line = null;
+        BufferedReader reader = null;
+
+        try {
+            reader = new BufferedReader(new FileReader(fileName), 512);
+            line = reader.readLine();
+        } catch (FileNotFoundException e) {
+            Log.w(TAG, "No such file " + fileName + " for reading", e);
+        } catch (IOException e) {
+            Log.e(TAG, "Could not read from file " + fileName, e);
+        } finally {
+            try {
+                if (reader != null) {
+                    reader.close();
+                }
+            } catch (IOException e) {
+                // Ignored, not much we can do anyway
+            }
+        }
+
+        return line;
+    }
+
+    public static boolean isFileWritable(String fileName) {
+        final File file = new File(fileName);
+        return file.exists() && file.canWrite();
+    }
+
+    public static boolean writeLine(String fileName, String value) {
+        BufferedWriter writer = null;
+
+        try {
+            writer = new BufferedWriter(new FileWriter(fileName));
+            writer.write(value);
+        } catch (FileNotFoundException e) {
+            Log.w(TAG, "No such file " + fileName + " for writing", e);
+            return false;
+        } catch (IOException e) {
+            Log.e(TAG, "Could not write to file " + fileName, e);
+            return false;
+        } finally {
+            try {
+                if (writer != null) {
+                    writer.close();
+                }
+            } catch (IOException e) {
+                // Ignored, not much we can do anyway
+            }
+        }
+
+        return true;
+    }
+
     public static boolean glove_mode_is_supported() {
 
-	return FileUtils.isFileWritable(GLOVE_MODE_FILE);
+	return isFileWritable(GLOVE_MODE_FILE);
     }
 
     public static boolean glove_mode_is_on() {
        String result = "";
        try {
-           result = FileUtils.readOneLine(GLOVE_MODE_FILE);
+           result = readOneLine(GLOVE_MODE_FILE);
 
        } catch(Exception e) {e.printStackTrace();}
        Log.i(TAG,"Glove mode is" + result);
@@ -49,26 +103,26 @@ public class FunctionsMain {
 	try {
 	    if(on) {
 		Log.i(TAG, "Setting Glove Mode ON");
-	        FileUtils.writeLine(GLOVE_MODE_FILE, "1");
+	        writeLine(GLOVE_MODE_FILE, "1");
 	    } else {
 		Log.i(TAG, "Settings Glove Mode OFF");
-	        FileUtils.writeLine(GLOVE_MODE_FILE, "0"); 
+	        writeLine(GLOVE_MODE_FILE, "0"); 
 	    }
         } catch(Exception e){e.printStackTrace();}
     }
 
     public static boolean dt2w_is_supported() {
 
-	return FileUtils.isFileWritable(EASY_WAKEUP_GESTURE_FILE) && 
-			FileUtils.isFileWritable(WAKEUP_GESTURE_ENABLE_FILE);
+	return isFileWritable(EASY_WAKEUP_GESTURE_FILE) && 
+			isFileWritable(WAKEUP_GESTURE_ENABLE_FILE);
     }
 
     public static boolean dt2w_is_on() {
        String result = "";
        String result2 = "";
        try {
-           result = FileUtils.readOneLine(EASY_WAKEUP_GESTURE_FILE);
-           result2 = FileUtils.readOneLine(WAKEUP_GESTURE_ENABLE_FILE);
+           result = readOneLine(EASY_WAKEUP_GESTURE_FILE);
+           result2 = readOneLine(WAKEUP_GESTURE_ENABLE_FILE);
 
        } catch(Exception e) {e.printStackTrace();}
        Log.i(TAG,"DT2W is" + result);
@@ -79,25 +133,25 @@ public class FunctionsMain {
 	try {
 	    if(on) {
 		Log.i(TAG, "Settings DT2W ON");
-	        FileUtils.writeLine(EASY_WAKEUP_GESTURE_FILE, "1");
-	        FileUtils.writeLine(WAKEUP_GESTURE_ENABLE_FILE, "1");
+	        writeLine(EASY_WAKEUP_GESTURE_FILE, "1");
+	        writeLine(WAKEUP_GESTURE_ENABLE_FILE, "1");
 	    } else {
 		Log.i(TAG, "Settings DT2W OFF");
-	        FileUtils.writeLine(EASY_WAKEUP_GESTURE_FILE, "0");
-	        FileUtils.writeLine(WAKEUP_GESTURE_ENABLE_FILE, "0");
+	        writeLine(EASY_WAKEUP_GESTURE_FILE, "0");
+	        writeLine(WAKEUP_GESTURE_ENABLE_FILE, "0");
 	    }
         } catch(Exception e){e.printStackTrace();}
     }
 
     public static boolean usb_host_is_supported() {
 
-	return FileUtils.isFileWritable(USB_HOST_FILE);
+	return isFileWritable(USB_HOST_FILE);
     }
 
     public static boolean usb_host_mode_is_on() {
        String result = "";
        try {
-           result = FileUtils.readOneLine(USB_HOST_FILE);
+           result = readOneLine(USB_HOST_FILE);
 
        } catch(Exception e) {e.printStackTrace();}
        Log.i(TAG,"USB HOST is" + result);
@@ -108,10 +162,10 @@ public class FunctionsMain {
 	try {
 	    if(on) {
 		Log.i(TAG, "Settings USB HOST ON");
-	        FileUtils.writeLine(USB_HOST_FILE, "hoston");
+	        writeLine(USB_HOST_FILE, "hoston");
 	    } else {
 		Log.i(TAG, "Settings USB HOST OFF");
-	        FileUtils.writeLine(USB_HOST_FILE, "hostoff"); 
+	        writeLine(USB_HOST_FILE, "hostoff"); 
 	    }
         } catch(Exception e){e.printStackTrace();}
     }
