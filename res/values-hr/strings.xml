@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 <string name="development_name">Meticulus Razvoj</string>
-<string name="extras_section_name">Ekstra</string>
+<string name="extras_section_name">Dodatno</string>
 <string name="app_name">Meticulus Dijelovi </string>
-<string name="kernel_header">Zrno</string>
-<string name="otg_title">USB Domaćin Način </string>
-<string name="sensorex_title">Eksperimentalna Senzori </string>
-<string name="glove_title">Rukavica Način </string>
-<string name="dt2w_title">Dvostruko Dodir Do Probuditi</string>
+<string name="kernel_header">Jezgra</string>
+<string name="otg_title">USB Naćin Domaćina </string>
+<string name="sensorex_title">Eksperimentalni Senzori </string>
+<string name="glove_title">Korištenje S Rukavicama </string>
+<string name="dt2w_title">Dvostruki Dodir Za Buđenje</string>
 <string name="network_header">Mreža</string>
-<string name="sim2_title">Sim Kartica prorez 2 </string>
-<string name="workaround_header">Raditi Oko</string>
-<string name="google_enc_title">Koristiti Google H264 </string>
+<string name="sim2_title">2. Utor Za SIM Karticu </string>
+<string name="workaround_header">Zaobilazak</string>
+<string name="google_enc_title">Korištenje Google H264 </string>
 <string name="action_settings">Postavke</string>
-<string name="dt2w_desc">Dopušta vas do probuditi uređaj po dvostruko kuckanje na zaslon.</string>
-<string name="otg_desc">Dopušta vas do Spojiti USB uređaji. Kada aktiviran drugo uređaj povezan USB funkcije, takav kao ADB i MTP, htjeti ne biti dostupno do ovaj je onesposobljen ili uređaj je digne. Ne svi USB uređaji htjeti raditi.</string>
-<string name="glove_desc">Povećava osjetljivost od dodir zaslon tako dotakne može biti zabilježen dok nošenje rukavice.</string>
-<string name="sim2_desc">Omogućava drugi sim kartica utor. Ovaj trebao ne biti aktiviran osim ako tamo je sim kartica u drugi utor. (Zahtijeva Ponovno podizanje sustava!)</string>
-<string name="google_enc_desc">Ovaj djela oko pitanja s Snapchat Instagram i drugo video snimanje aplikacije. koristi google AVC koder umjesto od hW AVC enkoder. Vas svibanj potreba do restart aplikacija ili restart uređaj prije ovaj postavljanje traje posljedica. Ovaj svibanj također uzrok neki video snimanje aplikacije ne do raditi.</string>
-<string name="sensorex_desc">Test eksperimentalan žiroskop senzor! (Zahtijeva Ponovno podizanje sustava)</string>
+<string name="dt2w_desc">Dopušta buđenje uređaja dvostrukim dodirom ekrana.</string>
+<string name="otg_desc">Dopušta spajanje USB uređaja. Dok je aktivno druge USB funkcije uređaja,poput ADB i MTP, neće biti dostupne dok se ovo ne isključi ili dok se uređaj ne pokrene ponovno. Neće funkcionirati sa svim USB uređajima.</string>
+<string name="glove_desc">Povećava osjetljivost zaslona na dodir tako da dodir može biti prepoznat tijekom nošenja rukavica.</string>
+<string name="sim2_desc">Omogućava rad drugog utora za SIM karticu. Ne bi trebalo biti aktivno osim ako je sim kartica uistinu u drugom utoru. (Zahtijeva Ponovno pokretanje sustava!)</string>
+<string name="google_enc_desc">Ovo rješava probleme sa Snapchatom,Instagramom i ostalim aplikacijama koje se koriste za snimanje videa. Koristi Google-ov avc enkoder umjesto hardverskog avc enkodera. Postoji mogućnost da se uređaj/aplikacija mora ponovno pokrenuti kako bi ova funkcija proradila. Također postoji mogućnost da neke aplikacije za snimanje videa prestanu raditi.</string>
+<string name="sensorex_desc">Test eksperimentalan žiroskop senzor! (Zahtijeva Ponovno pokretanje sustava)</string>
 <string name="sponsors">Sponzori</string>
-<string name="not_supported">Ne podržano po ovaj uređaj...</string>
-<string name="sponsor_thank_you">Zahvaliti vas svi za vas podršku! </string>
+<string name="not_supported">Nije podržano na ovom uređaju...</string>
+<string name="sponsor_thank_you">Hvala vam svima na podršci! </string>
 </resources>
