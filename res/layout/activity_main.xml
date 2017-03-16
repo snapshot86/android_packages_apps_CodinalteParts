@@ -335,6 +335,94 @@
                     android:paddingLeft="10dp"
                     android:baselineAlignBottom="false" />
             </LinearLayout>
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="fill_parent"
+                android:layout_height="2dp"
+		android:background="@color/card_background_grey" />
+
+            <TextView
+                style="@android:style/TextAppearance.DialogWindowTitle"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="@string/hardware_header"
+                android:id="@+id/hardware_textview"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentStart="true"
+                android:textStyle="bold"
+                android:paddingLeft="20dp"
+                android:paddingTop="20dp"
+		android:textColor="?android:attr/colorAccent"
+                android:textSize="10dp" />
+           <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:weightSum="1"
+                android:id="@+id/stock_power_layout"
+                android:layout_margin="10dp">
+
+                <Switch
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/stock_power_title"
+                    android:id="@+id/switch_stock_power"
+                    android:paddingBottom="20dp"
+                    android:checked="false"
+                    android:enabled="true"
+                    android:paddingLeft="20dp"
+                    android:paddingRight="0dp"
+                    android:focusableInTouchMode="false"
+                    android:layout_weight="0.99"
+                    android:paddingTop="20dp"
+                    android:textSize="12dp" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:id="@+id/whatis_stock_power"
+                    android:src="@android:drawable/ic_menu_info_details"
+                    android:layout_gravity="center"
+                    android:paddingLeft="10dp"
+                    android:baselineAlignBottom="false" />
+            </LinearLayout>
+           <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:weightSum="1"
+                android:id="@+id/stock_lights_layout"
+                android:layout_margin="10dp">
+
+                <Switch
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/stock_lights_title"
+                    android:id="@+id/switch_stock_lights"
+                    android:paddingBottom="20dp"
+                    android:checked="false"
+                    android:enabled="true"
+                    android:paddingLeft="20dp"
+                    android:paddingRight="0dp"
+                    android:focusableInTouchMode="false"
+                    android:layout_weight="0.99"
+                    android:paddingTop="20dp"
+                    android:textSize="12dp" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:id="@+id/whatis_stock_lights"
+                    android:src="@android:drawable/ic_menu_info_details"
+                    android:layout_gravity="center"
+                    android:paddingLeft="10dp"
+                    android:baselineAlignBottom="false" />
+            </LinearLayout>
 
         </LinearLayout>
     </ScrollView>

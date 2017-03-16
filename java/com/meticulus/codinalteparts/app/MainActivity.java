@@ -25,19 +25,22 @@ import com.meticulus.codinalteparts.app.FunctionsMain;
 
 public class MainActivity extends Activity {
 
-    TextView kernel, workaround, network; /* Headers */
+    TextView kernel, workaround, network, hardware; /* Headers */
 
     Switch dt2w, otg, glove, sensorex, /* Kernel */
 	    sim2, /* Networking */
-	    google_enc; /* Workarounds */
+	    google_enc, /* Workarounds */
+	    stock_power, stock_lights; /* Hardware */
 
     ImageView whatis_dt2w, whatis_otg, whatis_glove, whatis_sensorex,/* Kernel */
 	    whatis_sim2, /* Networking */
-	    whatis_google_enc; /* Workarounds */
+	    whatis_google_enc, /* Workarounds */
+	    whatis_stock_power, whatis_stock_lights; /* Hardware */
 
     LinearLayout otg_layout, glove_layout, sensorex_layout,/* Kernel */
 	    sim2_layout, /* Networking */
-	    google_enc_layout; /* Workarounds */
+	    google_enc_layout, /* Workarounds */
+	    stock_power_layout, stock_lights_layout; /* Hardware */
 
     SharedPreferences sharedPref;
     String device =  "";
@@ -51,6 +54,7 @@ public class MainActivity extends Activity {
         kernel = (TextView) findViewById(R.id.kernel_textview);
         network = (TextView) findViewById(R.id.network_textview);
         workaround  = (TextView) findViewById(R.id.workaround_textview);
+        hardware  = (TextView) findViewById(R.id.hardware_textview);
 
         /* Assign all switches */
 	dt2w = (Switch) findViewById(R.id.switch_dt2w);
@@ -59,6 +63,8 @@ public class MainActivity extends Activity {
         sensorex = (Switch) findViewById((R.id.switch_sensorex));
         sim2 = (Switch) findViewById((R.id.switch_sim2));
         google_enc = (Switch) findViewById((R.id.switch_google_enc)); 
+        stock_power = (Switch) findViewById((R.id.switch_stock_power)); 
+        stock_lights = (Switch) findViewById((R.id.switch_stock_lights)); 
 
         /* Assign all switches onCheckChanged*/
 	dt2w.setOnCheckedChangeListener(switchListener); 
@@ -67,6 +73,8 @@ public class MainActivity extends Activity {
         sensorex.setOnCheckedChangeListener(switchListener);
         sim2.setOnCheckedChangeListener(switchListener);
         google_enc.setOnCheckedChangeListener(switchListener);
+        stock_power.setOnCheckedChangeListener(switchListener);
+        stock_lights.setOnCheckedChangeListener(switchListener);
 
 	whatis_dt2w = (ImageView) findViewById(R.id.whatis_dt2w);
         whatis_dt2w.setOnClickListener(switchClickListener);
@@ -85,6 +93,12 @@ public class MainActivity extends Activity {
 
 	whatis_google_enc = (ImageView) findViewById(R.id.whatis_google_enc);
         whatis_google_enc.setOnClickListener(switchClickListener);
+
+	whatis_stock_power = (ImageView) findViewById(R.id.whatis_stock_power);
+        whatis_stock_power.setOnClickListener(switchClickListener);
+
+	whatis_stock_lights = (ImageView) findViewById(R.id.whatis_stock_lights);
+        whatis_stock_lights.setOnClickListener(switchClickListener);
 
         sharedPref = PreferenceManager.getDefaultSharedPreferences(this); 
         prepareUI();
@@ -110,6 +124,8 @@ public class MainActivity extends Activity {
 	    dt2w.setClickable(false);
 
 	google_enc.setChecked(SystemProperties.getBoolean("persist.sys.google_avc_enc",false));
+	stock_power.setChecked(SystemProperties.getBoolean("persist.sys.stock_power_HAL",false));
+	stock_lights.setChecked(SystemProperties.getBoolean("persist.sys.stock_lights_HAL",false));
 	sensorex.setChecked(SystemProperties.getBoolean("persist.sys.sensorex",false));
     }
 
@@ -126,6 +142,12 @@ public class MainActivity extends Activity {
             }
             else if(thisSwitch == whatis_sensorex){
                 ShowDialog(getResources().getString(R.string.sensorex_title),getString(R.string.sensorex_desc));
+            }
+            else if(thisSwitch == whatis_stock_power){
+                ShowDialog(getResources().getString(R.string.stock_power_title),getString(R.string.stock_power_desc));
+            }
+            else if(thisSwitch == whatis_stock_lights){
+                ShowDialog(getResources().getString(R.string.stock_lights_title),getString(R.string.stock_lights_desc));
             }
             else if(thisSwitch == whatis_google_enc){
                 ShowDialog(getResources().getString(R.string.google_enc_title),getString(R.string.google_enc_desc));
@@ -170,6 +192,12 @@ public class MainActivity extends Activity {
             }
             else if(thisSwitch == google_enc){
                 SystemProperties.set("persist.sys.google_avc_enc",String.valueOf(b));
+            }
+            else if(thisSwitch == stock_power){
+                SystemProperties.set("persist.sys.stock_power_HAL",String.valueOf(b));
+            }
+            else if(thisSwitch == stock_lights){
+                SystemProperties.set("persist.sys.stock_lights_HAL",String.valueOf(b));
             }
             else if(thisSwitch == sim2){
 		if(b)
