@@ -9,6 +9,9 @@
 <string name="glove_title">Obsługa w Rekawicy</string>
 <string name="dt2w_title">Stuknij 2 Razy by Wybudzić</string>
 <string name="network_header">Sieć</string>
+<string name="hardware_header">Hardware</string>
+<string name="stock_power_title">Stockowe Zarządzanie Energią</string>
+<string name="stock_lights_title">Stockowe Zarządzanie Diodami</string>
 <string name="sim2_title">Druga Karta SIM </string>
 <string name="workaround_header">Obejście</string>
 <string name="google_enc_title">Kodek Google H264</string>
@@ -19,6 +22,8 @@
 <string name="sim2_desc">Aktywuje drugi slot na kartę SIM. Włączyć dopiero po włożeniu drugiej karty do slotu. (Wymagany Restart!)</string>
 <string name="google_enc_desc">Rozwiązuje problem z nagrywaniem w Snapchat,Instagram i innych. Korzysta z kodowania google avc zamiast sprzętowego avc. Może być potrzebny restart aplikacji bądź telefonu. Niektóre aplikacje aparatu mogą przez to nie działać.</string>
 <string name="sensorex_desc">Testowy, eksperymentalny żyroskop! Może być niestabilny (Wymagany Restart!)</string>
+<string name="stock_power_desc">Zarządzanie energią z EMUI4.1 może wydaje się bardziej stabilne. Korzystanie z tej opcji wyłączy niektóre funkcje w menu \"Bateria\" w Ustawieniach. (Wymagany Restart)</string>
+<string name="stock_lights_desc">Zarządzanie diodami z EMUI4.1. (Wymagany Restart)</string>
 <string name="sponsors">Sponsorzy</string>
 <string name="not_supported">Nie wspierane przez urządzenie...</string>
 <string name="sponsor_thank_you">Dziękuje wszystkim za wsparcie!</string>
