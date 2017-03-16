@@ -9,6 +9,9 @@
 <string name="glove_title">Handschoen modus </string>
 <string name="dt2w_title">Dubbel tikken om wakker te worden </string>
 <string name="network_header">Netwerk</string>
+<string name="hardware_header">Hardware</string>
+<string name="stock_power_title">Standaard Power HAL</string>
+<string name="stock_lights_title">Standaard Lights HAL</string>
 <string name="sim2_title">Sim Kaart Sleuf 2 </string>
 <string name="workaround_header">Alternatieven</string>
 <string name="google_enc_title">Gebruik Google H264 </string>
@@ -19,6 +22,8 @@
 <string name="sim2_desc">Hiermee activeert u de tweede sim kaart sleuf. Het is niet aan te raden dit te activeren tenzij er een tweede sim kaart in zit (Herstarten vereist!) </string>
 <string name="google_enc_desc">Deze functie past problemen met Snapchat, Instagram en andere video- opname apps aan. De google avc encoder zal worden gebruikt in plaats van de hw avc encoder. U zal nodig de app of uw apparaat opnieuw moeten op starten voordat dit werkt. Dit kan ook er voor zorgen dat sommige video- opname apps niet meer zullen werken.</string>
 <string name="sensorex_desc">Test de experimentele gyroscoop sensor! (Herstarten Vereist) </string>
+<string name="stock_power_desc">Gebruik de power HAL van EMUI 4.1 die er misschien* stabieler is. Het gebruiken van de standaard power HAL zal sommige geadvanceerde opties onder \"Battery\" in instellingen verwijderen. (Herstarten Vereist)</string>
+<string name="stock_lights_desc">Gebruik de standaard lights HAL van EMUI 4.1. (Herstarten vereist)</string>
 <string name="sponsors">Sponsors</string>
 <string name="not_supported">Niet ondersteund door dit apparaat...</string>
 <string name="sponsor_thank_you">Bedankt voor al uw ondersteuning!</string>
