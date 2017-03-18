@@ -85,7 +85,7 @@ do
 		POS=$[$POS + 1]
 		continue
 	fi
-	if [[ $(echo "${GROSSES[$POS]} >= 2" | bc) -gt 0 ]]; then
+	if [[ $(echo "${GROSSES[$POS]} >= 1" | bc) -gt 0 ]]; then
 		NAMEVAR=$(echo  ${NAMES[$POS]} | awk '{print tolower($0)}' | sed 's/ /_/g')
 		echo "${GROSSES[$POS]},${NAMES[$POS]},$NAMEVAR,${XDAS[$POS]}"
 	fi
