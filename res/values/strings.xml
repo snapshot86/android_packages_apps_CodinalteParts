@@ -17,7 +17,7 @@
     <string name="led_lowpower_title">Low Power</string>
     <string name="led_charging_title">Charging</string>
     <string name="led_fullpower_title">Full Power</string>
-    <string name="led_noti_title">LED Notification Power Color</string>
+    <string name="led_noti_title">Notification</string>
     <string name="sim2_title">Sim Card Slot 2</string>
     <string name="workaround_header">Work Around</string>
     <string name="google_enc_title">Use Google H264</string>
