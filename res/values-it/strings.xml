@@ -19,6 +19,8 @@
     <string name="sim2_desc">Abilita lo slot della seconda scheda SIM. Non deve essere attivano se non presente una SIM nel secondo slot. (Richiede riavvio!)</string>
     <string name="google_enc_desc">Risolve problemi di registrazioni con Snapchat, Instagram e altre app per registrare video. Utilizza i codec video di Google invece di quelli hw. Potrebbe essere necessario un riavvio dell\'app o del dispositivo prima che abbia effetto. Potrebbe causare problemi alle altre app per la registrazione dei video.</string>
     <string name="sensorex_desc">Sensore di giroscopio sperimentale (Richiede riavvio!)</string>
+    <string name="stock_power_desc">Utilizza il powerHAL stock di EMUI 4.1 che potrebbe* rendere il dispositivo più fluido. Utilizzando il powerHAL stock non saranno disponibili alcune opzioni avanzate in \"Batteria\" nelle impostazioni. (Richiede Riavvio)</string>
+    <string name="stock_lights_desc">Utilizza i led HAL stock di EMUI 4.1 (Requires Reboot)</string>
     <string name="sponsors">Sponsors</string>
     <string name="not_supported">Non supportati da questo dispositivo...</string>
     <string name="sponsor_thank_you">Grazie a tutti per il vostro supporto!</string>
