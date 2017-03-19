@@ -25,7 +25,7 @@ public class LedColorDialog extends Dialog {
 	super.onCreate(savedInstanceState);
 	setContentView(R.layout.dialog_color);
 	setTitle("Color Selection");
-	setCancelable(true);
+	setCancelable(false);
 
 	red_txt = (TextView) findViewById(R.id.red_text);
 	green_txt = (TextView) findViewById(R.id.green_text);
@@ -81,6 +81,17 @@ public class LedColorDialog extends Dialog {
 	
     }
 
+    @Override
+    public void onStop() {
+	super.onStop();
+	clearLed();	
+    }
+    @Override
+    public void onStart() {
+	super.onStart();
+	initColor();	
+    }
+
     private String intToHex(int value) {
 	switch(value) {
 	    case 127:
@@ -98,9 +109,12 @@ public class LedColorDialog extends Dialog {
 
     }
     public void setColor(String hexcolor) {
-	red = Integer.parseInt(hexcolor.substring(1,3), 16);
-	green = Integer.parseInt(hexcolor.substring(3,5),16);
-	blue = Integer.parseInt(hexcolor.substring(5,7),16);
+	red = Integer.parseInt(hexcolor.substring(2,4), 16);
+	green = Integer.parseInt(hexcolor.substring(4,6),16);
+	blue = Integer.parseInt(hexcolor.substring(6,8),16);
+	initColor();
+    }
+    private void initColor() {
 	red_sb.setProgress(red);
 	green_sb.setProgress(green);
 	blue_sb.setProgress(blue);

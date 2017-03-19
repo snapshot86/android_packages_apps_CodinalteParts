@@ -13,6 +13,7 @@ import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
+import android.widget.Button;
 import android.widget.CompoundButton;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
@@ -30,6 +31,7 @@ public class LedActivity extends Activity implements DialogInterface.OnDismissLi
 
     LinearLayout lowpower, charging, fullpower, notification;
     String hexlowpower, hexcharging, hexfullpower, hexnotification;
+    LedColorDialog thisdiag;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -63,16 +65,29 @@ public class LedActivity extends Activity implements DialogInterface.OnDismissLi
 	}});
 	refreshColors();	
     } 
+    @Override
+    public void onPause() {
+	super.onPause();
+	if(thisdiag != null && thisdiag.isShowing())
+		thisdiag.onStop();
+    }
+
+    public void onResume() {
+	super.onResume();
+	if(thisdiag != null && thisdiag.isShowing())
+		thisdiag.onStart();
+	
+    }
 
     public void refreshColors() {
-	hexlowpower = SystemProperties.get("persist.sys.lights_HAL_lp","0xffff0000").replace("0xf","");
-	hexcharging = SystemProperties.get("persist.sys.lights_HAL_c","0xffffff00").replace("0xf","");
-	hexfullpower = SystemProperties.get("persist.sys.lights_HAL_fp","0xff00ff00").replace("0xf","");
-	hexnotification = SystemProperties.get("persist.sys.lights_HAL_n","0xff0000ff").replace("0xf","");
-	lowpower.setBackgroundColor(Integer.parseInt(hexlowpower,16));
-	charging.setBackgroundColor(Integer.parseInt(hexcharging,16));
-	fullpower.setBackgroundColor(Integer.parseInt(hexfullpower,16));
-	notification.setBackgroundColor(Integer.parseInt(hexnotification,16));
+	hexlowpower = SystemProperties.get("persist.sys.lights_HAL_lp","0xffff0000").replace("0x","").toUpperCase();
+	hexcharging = SystemProperties.get("persist.sys.lights_HAL_c","0xffffff00").replace("0x","").toUpperCase();
+	hexfullpower = SystemProperties.get("persist.sys.lights_HAL_fp","0xff00ff00").replace("0x","").toUpperCase();
+	hexnotification = SystemProperties.get("persist.sys.lights_HAL_n","0xff0000ff").replace("0x","").toUpperCase();
+	lowpower.setBackgroundColor((int)Long.parseLong(hexlowpower,16));
+	charging.setBackgroundColor((int)Long.parseLong(hexcharging,16));
+	fullpower.setBackgroundColor((int)Long.parseLong(hexfullpower,16));
+	notification.setBackgroundColor((int)Long.parseLong(hexnotification,16));
     }
 
     public AlertDialog ShowDialog(String title,String message, boolean okbtn)
@@ -92,6 +107,7 @@ public class LedActivity extends Activity implements DialogInterface.OnDismissLi
 	lcd.setProperty(property);
 	lcd.show();
 	lcd.setColor(color);
+	thisdiag = lcd;
     }
     @Override
     public void onDismiss(DialogInterface dialog) {
