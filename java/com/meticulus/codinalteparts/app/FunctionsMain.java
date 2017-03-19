@@ -30,6 +30,22 @@ public class FunctionsMain {
 
     private static final String USB_HOST_FILE = "/sys/devices/ff100000.hisi_usb/plugusb";
 
+    private static final String RED_BRIGHTNESS_FILE = "/sys/class/leds/red/brightness";
+    private static final String GREEN_BRIGHTNESS_FILE = "/sys/class/leds/green/brightness";
+    private static final String BLUE_BRIGHTNESS_FILE = "/sys/class/leds/blue/brightness";
+
+    public static void writeLedRed(int value) {
+	writeLine(RED_BRIGHTNESS_FILE, String.valueOf(value));
+    }
+
+    public static void writeLedGreen(int value) {
+	writeLine(GREEN_BRIGHTNESS_FILE, String.valueOf(value));
+    }
+
+    public static void writeLedBlue(int value) {
+	writeLine(BLUE_BRIGHTNESS_FILE, String.valueOf(value));
+    }
+
     public static String readOneLine(String fileName) {
         String line = null;
         BufferedReader reader = null;

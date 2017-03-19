@@ -17,9 +17,12 @@ import android.widget.CompoundButton;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.Switch;
+import android.widget.SeekBar;
 import android.widget.TextView;
 import android.widget.Toast;
 import android.app.ProgressDialog;
+import android.app.Dialog;
+import android.content.Intent;
 
 import com.meticulus.codinalteparts.app.FunctionsMain;
 
@@ -41,6 +44,9 @@ public class MainActivity extends Activity {
 	    sim2_layout, /* Networking */
 	    google_enc_layout, /* Workarounds */
 	    stock_power_layout, stock_lights_layout; /* Hardware */
+
+    /* Led */
+    TextView led;
 
     SharedPreferences sharedPref;
     String device =  "";
@@ -100,7 +106,16 @@ public class MainActivity extends Activity {
 	whatis_stock_lights = (ImageView) findViewById(R.id.whatis_stock_lights);
         whatis_stock_lights.setOnClickListener(switchClickListener);
 
-        sharedPref = PreferenceManager.getDefaultSharedPreferences(this); 
+        sharedPref = PreferenceManager.getDefaultSharedPreferences(this);
+
+	led = (TextView) findViewById(R.id.text_led_color);
+
+	led.setOnClickListener(new View.OnClickListener() {
+	@Override
+	public void onClick(View v) {
+	    Intent intent = new Intent(MainActivity.this, LedActivity.class);
+            startActivity(intent);
+	}});
         prepareUI();
  
     }

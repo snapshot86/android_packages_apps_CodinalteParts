@@ -53,6 +53,8 @@
             android:name=".Sponsors"
             android:label="@string/sponsors" >
         </activity>
+	<activity android:name=".LedActivity"
+          android:parentActivityName=".MainActivity" />
     </application>
 
 </manifest>

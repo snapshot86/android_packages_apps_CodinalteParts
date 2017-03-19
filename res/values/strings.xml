@@ -2,6 +2,7 @@
 <resources>
     <string name="development_name">Meticulus Development</string>
     <string name="extras_section_name">Extra</string>
+    <string name="led_section_name">LED Colors</string>
     <string name="app_name">Meticulus Parts</string>
     <string name="kernel_header">Kernel</string> 
     <string name="otg_title">USB Host Mode</string>
@@ -12,6 +13,11 @@
     <string name="hardware_header">Hardware</string>
     <string name="stock_power_title">Stock Power HAL</string>
     <string name="stock_lights_title">Stock Lights HAL</string>
+    <string name="led_color_title">LED Colors</string>
+    <string name="led_lowpower_title">Low Power</string>
+    <string name="led_charging_title">Charging</string>
+    <string name="led_fullpower_title">Full Power</string>
+    <string name="led_noti_title">LED Notification Power Color</string>
     <string name="sim2_title">Sim Card Slot 2</string>
     <string name="workaround_header">Work Around</string>
     <string name="google_enc_title">Use Google H264</string>
@@ -27,4 +33,8 @@
     <string name="sponsors">Sponsors</string>
     <string name="not_supported">Not supported by this device...</string>
     <string name="sponsor_thank_you">Thank you all for you support!</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+    <string name="ok">OK</string>
 </resources>
