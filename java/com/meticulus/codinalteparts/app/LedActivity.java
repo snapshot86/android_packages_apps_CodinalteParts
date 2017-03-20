@@ -30,6 +30,7 @@ import com.meticulus.codinalteparts.app.FunctionsMain;
 public class LedActivity extends Activity implements DialogInterface.OnDismissListener {
 
     LinearLayout lowpower, charging, fullpower, notification;
+    ImageView whatis_lowpower, whatis_charging, whatis_fullpower,whatis_notification;
     String hexlowpower, hexcharging, hexfullpower, hexnotification;
     LedColorDialog thisdiag;
 
@@ -43,6 +44,7 @@ public class LedActivity extends Activity implements DialogInterface.OnDismissLi
 	charging = (LinearLayout) findViewById(R.id.led_charging_layout);
 	fullpower = (LinearLayout) findViewById(R.id.led_fullpower_layout);
 	notification = (LinearLayout) findViewById(R.id.led_noti_layout);
+
 	lowpower.setOnClickListener(new View.OnClickListener() {
 	@Override
 	public void onClick(View v) {
@@ -63,7 +65,17 @@ public class LedActivity extends Activity implements DialogInterface.OnDismissLi
 	public void onClick(View v) {
 	    ShowLedDialog("persist.sys.lights_HAL_n", hexnotification);
 	}});
-	refreshColors();	
+	whatis_lowpower = (ImageView) findViewById(R.id.whatis_led_lowpower);
+	whatis_charging = (ImageView) findViewById(R.id.whatis_led_charging);
+	whatis_fullpower = (ImageView) findViewById(R.id.whatis_led_fullpower);
+	whatis_notification = (ImageView) findViewById(R.id.whatis_led_noti);
+
+        whatis_lowpower.setOnClickListener(whatisClickListener);
+        whatis_charging.setOnClickListener(whatisClickListener);
+        whatis_fullpower.setOnClickListener(whatisClickListener);
+        whatis_notification.setOnClickListener(whatisClickListener);
+        
+	refreshColors();
     } 
     @Override
     public void onPause() {
@@ -78,6 +90,25 @@ public class LedActivity extends Activity implements DialogInterface.OnDismissLi
 		thisdiag.onStart();
 	
     }
+    private View.OnClickListener whatisClickListener = new View.OnClickListener() {
+        @Override
+        public void onClick(View view) {
+
+            ImageView thisWhatIs = (ImageView)view;
+            if(thisWhatIs == whatis_lowpower){
+                ShowDialog(getResources().getString(R.string.led_lowpower_title), getString(R.string.led_lowpower_desc));
+            }
+            else if(thisWhatIs == whatis_charging){
+                ShowDialog(getResources().getString(R.string.led_charging_title),getString(R.string.led_charging_desc));
+            }
+            else if(thisWhatIs == whatis_fullpower){
+                ShowDialog(getResources().getString(R.string.led_fullpower_title),getString(R.string.led_fullpower_desc));
+            }
+            else if(thisWhatIs == whatis_notification){
+                ShowDialog(getResources().getString(R.string.led_noti_title),getString(R.string.led_notification_desc));
+            }
+        }
+    };
 
     public void refreshColors() {
 	hexlowpower = SystemProperties.get("persist.sys.lights_HAL_lp","0xffff0000").replace("0x","").toUpperCase();
@@ -90,6 +121,10 @@ public class LedActivity extends Activity implements DialogInterface.OnDismissLi
 	notification.setBackgroundColor((int)Long.parseLong(hexnotification,16));
     }
 
+    public AlertDialog ShowDialog(String title,String message)
+    {
+        return ShowDialog(title,message,true);
+    }
     public AlertDialog ShowDialog(String title,String message, boolean okbtn)
     {
         AlertDialog.Builder builder = new AlertDialog.Builder(this);

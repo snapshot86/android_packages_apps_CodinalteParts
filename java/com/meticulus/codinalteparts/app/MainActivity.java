@@ -38,7 +38,7 @@ public class MainActivity extends Activity {
     ImageView whatis_dt2w, whatis_otg, whatis_glove, whatis_sensorex,/* Kernel */
 	    whatis_sim2, /* Networking */
 	    whatis_google_enc, /* Workarounds */
-	    whatis_stock_power, whatis_stock_lights; /* Hardware */
+	    whatis_stock_power, whatis_stock_lights, whatis_led_color; /* Hardware */
 
     LinearLayout otg_layout, glove_layout, sensorex_layout,/* Kernel */
 	    sim2_layout, /* Networking */
@@ -106,6 +106,9 @@ public class MainActivity extends Activity {
 	whatis_stock_lights = (ImageView) findViewById(R.id.whatis_stock_lights);
         whatis_stock_lights.setOnClickListener(switchClickListener);
 
+	whatis_led_color = (ImageView) findViewById(R.id.whatis_led_color);
+        whatis_led_color.setOnClickListener(switchClickListener);
+
         sharedPref = PreferenceManager.getDefaultSharedPreferences(this);
 
 	led = (TextView) findViewById(R.id.text_led_color);
@@ -172,6 +175,9 @@ public class MainActivity extends Activity {
             }
             else if(thisSwitch == whatis_sim2){
                 ShowDialog(getResources().getString(R.string.sim2_title),getString(R.string.sim2_desc));
+            }
+            else if(thisSwitch == whatis_led_color){
+                ShowDialog(getResources().getString(R.string.led_color_title),getString(R.string.led_color_desc));
             }
         }
     };

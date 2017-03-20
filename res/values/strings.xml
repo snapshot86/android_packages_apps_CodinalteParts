@@ -30,6 +30,11 @@
     <string name="sensorex_desc">Test experimental gyroscope sensor! (Requires Reboot)</string>
     <string name="stock_power_desc">Use the power HAL from EMUI 4.1 which may* be more stable. Using the stock power HAL will remove some of the advanced options under \"Battery\" in Settings. (Requires Reboot)</string>
     <string name="stock_lights_desc">Use the lights HAL from EMUI 4.1. (Requires Reboot)</string>
+    <string name="led_color_desc">Modify the led colors</string>
+    <string name="led_lowpower_desc">This is the color used when power is at or below 25%</string>
+    <string name="led_charging_desc">This is the color used when power is above 25% and below 90%</string>
+    <string name="led_fullpower_desc">This is the color used when power is above 90%</string>
+    <string name="led_notification_desc">This is the color for notifications</string>
     <string name="sponsors">Sponsors</string>
     <string name="not_supported">Not supported by this device...</string>
     <string name="sponsor_thank_you">Thank you all for you support!</string>
