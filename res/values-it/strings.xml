@@ -21,7 +21,12 @@
     <string name="sensorex_desc">Sensore di giroscopio sperimentale (Richiede riavvio!)</string>
     <string name="stock_power_desc">Utilizza il powerHAL stock di EMUI 4.1 che potrebbe* rendere il dispositivo più fluido. Utilizzando il powerHAL stock non saranno disponibili alcune opzioni avanzate in \"Batteria\" nelle impostazioni. (Richiede Riavvio)</string>
     <string name="stock_lights_desc">Utilizza i led HAL stock di EMUI 4.1 (Richiede Riavvio)</string>
+    <string name="led_color_desc">Modifica i colori del LED</string>
+    <string name="led_lowpower_desc">Colore del LED utilizzato quando la batteria è pari o inferiore al 25%</string>
+    <string name="led_charging_desc">Colore del LED utilizzato quando la batteria è fra il 25% e il 90%</string>
+    <string name="led_fullpower_desc">Colore del LED utilizzato quando la batteria è superiore al 90%</string>
+    <string name="led_notification_desc">Colore del LED utilizzato per le notifiche</string>
     <string name="sponsors">Sponsors</string>
-    <string name="not_supported">Non supportati da questo dispositivo...</string>
+    <string name="not_supported">Non supportato da questo dispositivo...</string>
     <string name="sponsor_thank_you">Grazie a tutti per il vostro supporto!</string>
 </resources>
