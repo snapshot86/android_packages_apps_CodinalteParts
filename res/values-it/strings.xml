@@ -2,14 +2,23 @@
 <resources>
     <string name="development_name">Meticulus Development</string>
     <string name="extras_section_name">Extra</string>
+    <string name="led_section_name">Colori LED</string>
     <string name="app_name">Meticulus Parts</string>
     <string name="kernel_header">Kernel</string>
     <string name="otg_title">USB Host Mode</string>
     <string name="sensorex_title">Sensori Sperimentali</string>
     <string name="glove_title">Modalità guanti</string>
     <string name="dt2w_title">Doppio tocco per risvegliare il dispositivo</string>
+    <string name="hardware_header">Hardware</string>
+    <string name="stock_power_title">Stock Power HAL</string>
+    <string name="stock_lights_title">Stock LED HAL</string>
     <string name="network_header">Network</string>
-    <string name="sim2_title">Sim Card Slot 2</string>
+    <string name="led_color_title">Colori LED</string>
+    <string name="led_lowpower_title">Scarico</string>
+    <string name="led_charging_title">In carica</string>
+    <string name="led_fullpower_title">Carico</string>
+    <string name="led_noti_title">Colore LED di notifica</string>
+    <string name="sim2_title">Sim Slot 2</string>
     <string name="workaround_header">Work Around</string>
     <string name="google_enc_title">Usa Google H264</string>
     <string name="action_settings">Impostazioni</string>
@@ -19,14 +28,13 @@
     <string name="sim2_desc">Abilita lo slot della seconda scheda SIM. Non deve essere attivano se non presente una SIM nel secondo slot. (Richiede riavvio!)</string>
     <string name="google_enc_desc">Risolve problemi di registrazioni con Snapchat, Instagram e altre app per registrare video. Utilizza i codec video di Google invece di quelli hw. Potrebbe essere necessario un riavvio dell\'app o del dispositivo prima che abbia effetto. Potrebbe causare problemi alle altre app per la registrazione dei video.</string>
     <string name="sensorex_desc">Sensore di giroscopio sperimentale (Richiede riavvio!)</string>
-    <string name="stock_power_desc">Utilizza il powerHAL stock di EMUI 4.1 che potrebbe* rendere il dispositivo più fluido. Utilizzando il powerHAL stock non saranno disponibili alcune opzioni avanzate in \"Batteria\" nelle impostazioni. (Richiede Riavvio)</string>
+    <string name="stock_power_desc">Utilizza il power HAL stock di EMUI 4.1 che potrebbe* rendere il dispositivo più fluido. Utilizzando il power HAL stock non saranno disponibili alcune opzioni avanzate in \"Batteria\" nelle impostazioni. (Richiede Riavvio)</string>
     <string name="stock_lights_desc">Utilizza i led HAL stock di EMUI 4.1 (Richiede Riavvio)</string>
-    <string name="led_color_desc">Modifica i colori del LED</string>
-    <string name="led_lowpower_desc">Colore del LED utilizzato quando la batteria è pari o inferiore al 25%</string>
-    <string name="led_charging_desc">Colore del LED utilizzato quando la batteria è fra il 25% e il 90%</string>
-    <string name="led_fullpower_desc">Colore del LED utilizzato quando la batteria è superiore al 90%</string>
-    <string name="led_notification_desc">Colore del LED utilizzato per le notifiche</string>
     <string name="sponsors">Sponsors</string>
     <string name="not_supported">Non supportato da questo dispositivo...</string>
-    <string name="sponsor_thank_you">Grazie a tutti per il vostro supporto!</string>
+    <string name="sponsor_thank_you">Grazie per il vostro supporto!</string>
+    <string name="red">Rosso</string>
+    <string name="green">Verde</string>
+    <string name="blue">Blu</string>
+    <string name="ok">OK</string>
 </resources>
