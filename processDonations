@@ -6,6 +6,7 @@ NAMES[0]=""
 STATUSES[0]=""
 GROSSES[0]=0
 XDAS[0]=""
+
 getPosition() {
 #echo "${1}"
 local POS=0
@@ -22,11 +23,30 @@ echo -1
 
 }
 
+getName() {
+EMAIL=$1
+NAME=$2
+echo "getName $EMAIL $NAME" >&2
+while read LINE
+do
+ EEMAIL=$(echo $LINE | cut -d ',' -f1)
+ ENAME=$(echo $LINE | cut -d ',' -f2)
+ if [[ "$EMAIL" == "$EEMAIL" ]]; then
+	echo "getName found $ENAME" >&2
+	echo $ENAME
+	return
+ fi
+done < exceptions.csv
+echo $NAME
+}
+
 POS=0
 while read LINE
 do
 #	echo "$LINE"
 	NAME=$(echo "$LINE" | cut -d ',' -f4 | sed 's/\"//g')
+	EMAIL=$(echo "$LINE" | cut -d ',' -f10 | sed 's/\"//g' | sed 's/ //g')
+        NAME=$(getName $EMAIL "$NAME")
 	if [[ $? -gt 0 ]]; then exit; fi
 	STATUS=$(echo "$LINE" | cut -d ',' -f6 | sed 's/\"//g')
 	GROSS=$(echo "$LINE" | cut -d ',' -f7 | sed 's/\"//g')
@@ -34,7 +54,7 @@ do
 	if [[ $( echo $XDA | grep -c XDA) -eq 0 ]]; then
 	    XDA=""
         else
-	    XDA="$(echo "$XDA" | cut -d '[' -f1)@ XDA"
+	    XDA="$(echo "$XDA" | cut -d '[' -f1)"
 	fi
 #	echo "$NAME $STATUS $GROSS"
 	if [[ "${NAMES[@]}" == *"$NAME"* ]]; then
@@ -65,7 +85,7 @@ do
 		POS=$[$POS + 1]
 		continue
 	fi
-	if [[ $(echo "${GROSSES[$POS]} >= 2" | bc) -gt 0 ]]; then
+	if [[ $(echo "${GROSSES[$POS]} >= 1" | bc) -gt 0 ]]; then
 		NAMEVAR=$(echo  ${NAMES[$POS]} | awk '{print tolower($0)}' | sed 's/ /_/g')
 		echo "${GROSSES[$POS]},${NAMES[$POS]},$NAMEVAR,${XDAS[$POS]}"
 	fi

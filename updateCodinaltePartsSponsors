@@ -39,7 +39,8 @@ do
 #        NAME="$POS. $NAME"
 	AMOUNT=$( echo $LINE | cut -d ',' -f1)
 	NAMEVAR=$( echo $LINE | cut -d ',' -f3)
-	NAMEVAR="$(echo $NAMEVAR | head -c 1)"_"$( echo $NAMEVAR | cut -d '_' -f2)_$RANDOM"
+	NAMEVAR=_"$( echo $NAMEVAR | cut -d '_' -f2)_$RANDOM"
+	#NAMEVAR="$(echo $NAMEVAR | head -c 1)"_"$( echo $NAMEVAR | cut -d '_' -f2)_$RANDOM"
 	SPONSORSXML="$SPONSORSXML    <string name=\"$NAMEVAR\">$NAME</string>\n"
 
 	SPONSORS_ACTIVITYXML="$SPONSORS_ACTIVITYXML $(sed "s/#VARNAME#/$NAMEVAR/g" < activity_sponsors.entry)\n"

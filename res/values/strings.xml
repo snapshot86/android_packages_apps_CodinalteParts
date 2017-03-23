@@ -2,6 +2,7 @@
 <resources>
     <string name="development_name">Meticulus Development</string>
     <string name="extras_section_name">Extra</string>
+    <string name="led_section_name">LED Colors</string>
     <string name="app_name">Meticulus Parts</string>
     <string name="kernel_header">Kernel</string> 
     <string name="otg_title">USB Host Mode</string>
@@ -9,6 +10,14 @@
     <string name="glove_title">Glove Mode</string>
     <string name="dt2w_title">Double Touch To Wake</string>
     <string name="network_header">Network</string>
+    <string name="hardware_header">Hardware</string>
+    <string name="stock_power_title">Stock Power HAL</string>
+    <string name="stock_lights_title">Stock Lights HAL</string>
+    <string name="led_color_title">LED Colors</string>
+    <string name="led_lowpower_title">Low Power</string>
+    <string name="led_charging_title">Charging</string>
+    <string name="led_fullpower_title">Full Power</string>
+    <string name="led_noti_title">Notification</string>
     <string name="sim2_title">Sim Card Slot 2</string>
     <string name="workaround_header">Work Around</string>
     <string name="google_enc_title">Use Google H264</string>
@@ -19,7 +28,18 @@
     <string name="sim2_desc">Enables the second sim card slot. This should not be activated unless there is a sim card in the second slot. (Requires Reboot!)</string>
     <string name="google_enc_desc">This works around issues with Snapchat, Instagram and other video recording apps. Uses the google avc encoder instead of the hw avc encoder. You may need to restart the app or restart the device before this setting takes effect. This may also cause some video recording apps not to work.</string>
     <string name="sensorex_desc">Test experimental gyroscope sensor! (Requires Reboot)</string>
+    <string name="stock_power_desc">Use the power HAL from EMUI 4.1 which may* be more stable. Using the stock power HAL will remove some of the advanced options under \"Battery\" in Settings. (Requires Reboot)</string>
+    <string name="stock_lights_desc">Use the lights HAL from EMUI 4.1. (Requires Reboot)</string>
+    <string name="led_color_desc">Modify the led colors</string>
+    <string name="led_lowpower_desc">This is the color used when power is at or below 25%</string>
+    <string name="led_charging_desc">This is the color used when power is above 25% and below 90%</string>
+    <string name="led_fullpower_desc">This is the color used when power is above 90%</string>
+    <string name="led_notification_desc">This is the color for notifications</string>
     <string name="sponsors">Sponsors</string>
     <string name="not_supported">Not supported by this device...</string>
     <string name="sponsor_thank_you">Thank you all for you support!</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+    <string name="ok">OK</string>
 </resources>

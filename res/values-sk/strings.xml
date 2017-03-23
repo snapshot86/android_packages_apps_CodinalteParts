@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string name="development_name">Meticulus rozvoj</string>
+<string name="development_name">Meticulus Development</string>
 <string name="extras_section_name">Extra</string>
-<string name="app_name">Meticulus časti</string>
-<string name="kernel_header">Jadrá</string>
-<string name="otg_title">USB Hostiteľ mode</string>
-<string name="sensorex_title">Experimentálne senzory</string>
-<string name="glove_title">Glove mode</string>
-<string name="dt2w_title">Double dotyk na Wake </string>
-<string name="network_header">Network</string>
-<string name="sim2_title">Sim karta štrbina 2 </string>
-<string name="workaround_header">Práca Okolo</string>
-<string name="google_enc_title">Use Google H264</string>
+<string name="app_name">Meticulusove Nastavenia</string>
+<string name="kernel_header">Kernel</string>
+<string name="otg_title">Režim USB Host</string>
+<string name="sensorex_title">Experimentálne Senzory</string>
+<string name="glove_title">Režim Rukavíc</string>
+<string name="dt2w_title">Double Tap 2 Wake</string>
+<string name="network_header">Sieť</string>
+<string name="sim2_title">Slot pre SIM 2</string>
+<string name="workaround_header">Náhradné riešenia</string>
+<string name="google_enc_title">Použiť kodek Google H264</string>
 <string name="action_settings">Nastavenie</string>
-<string name="dt2w_desc">Umožňuje vy na prebudiť zariadenie podľa dvojitý poklepaním na obrazovka.</string>
-<string name="otg_desc">Umožňuje vy na pripojiť USB zariadení. Kedy aktivovaný ostatné zariadenie príbuzný USB funkcie, taký ako ADB a MTP, vôľa nie byť k dispozícii kým toto je invalidný alebo zariadenie je reštartuje. nie všetko USB zariadení vôľa práca.</string>
-<string name="glove_desc">Zvýšenie citlivosť z dotyk plátno tak dotyky môcť byť registrovaný zatiaľ čo nosenie rukavice.</string>
-<string name="sim2_desc">Umožňuje druhý sim karta slot. toto mal nie byť aktivovaný pokiaľ tam je sim karta v druhý slot. (vyžaduje Reštartovať!)</string>
-<string name="google_enc_desc">Táto práce okolo problémy s snapchat, Instagram a ostatné video záznam aplikácie. použitie Google AVC kodér namiesto z hw AVC kodér. vy smieť potrebovať na reštart aplikácie alebo reštart zariadenie pred toto nastavenie berie účinok. toto smieť taktiež príčina niečo video záznam aplikácie nie na práca.</string>
-<string name="sensorex_desc">Skúšobným experimentálne gyroskop Senzor! (vyžaduje Reboot)</string>
+<string name="dt2w_desc">Umožňuje zobudiť zariadenie dvojitým poklepaním na obrazovku.</string>
+<string name="otg_desc">Umožňuje pripojiť USB zariadenia. Po aktivovaní nie je možné používať funkcie ako ADB a MTP. Nie všetky USB zariadenia musia fungovať.</string>
+<string name="glove_desc">Zvýšenie citlivosti dotykovej obrazovky aby ste mohli používať telefón s rukavicami.</string>
+<string name="sim2_desc">Aktivuje slot pre SIM 2. Toto nastavenie by sa malo zapnúť len ak je SIM karta aj v druhom slote. (Vyžaduje reštart!)</string>
+<string name="google_enc_desc">Toto nastavenie by malo vyriešiť problémy so Snapchatom alebo Instagramom a inými nahrávacími aplikáciami. Použije sa Google H264 kodek miesto hardvérového. Možno budete musieť reštartovať danú aplikáciu. Po aktivovaní niektoré kamerové aplikácie nemusia fungovať.</string>
+<string name="sensorex_desc">Aktivuje experimentálny gyroskopický senzor. (Vyžaduje reštart!)</string>
 <string name="sponsors">Sponzori</string>
-<string name="not_supported">Nie podporovaný podľa toto zariadenie...</string>
-<string name="sponsor_thank_you">Poďakovať vy všetko pre vy podpora!</string>
+<string name="not_supported">Nie je podporovaný týmto zariadením...</string>
+<string name="sponsor_thank_you">Všetkým ďakujem za podporu!</string>
 </resources>

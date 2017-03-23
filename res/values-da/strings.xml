@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string name="development_name">Meticulus Udvikling</string>
+<string name="development_name">Meticulus - Udvikling</string>
 <string name="extras_section_name">»Ekstra«</string>
-<string name="app_name">Meticulus Dele </string>
+<string name="app_name">Meticulus indstillinger </string>
 <string name="kernel_header">Kerne</string>
-<string name="otg_title">USB Vært Mode</string>
-<string name="sensorex_title">Experimental sensorer </string>
-<string name="glove_title">Handske Mode</string>
-<string name="dt2w_title">Dobbelt Røre ved Til Vågne</string>
-<string name="network_header">Netværk</string>
-<string name="sim2_title">Sim Kort Slot 2 </string>
-<string name="workaround_header">Arbejde Rundt om</string>
-<string name="google_enc_title">Brug Google H264 </string>
+<string name="otg_title">USB-værtstilstand</string>
+<string name="sensorex_title">Eksperimentelle sensorer </string>
+<string name="glove_title">Handsketilstand</string>
+<string name="dt2w_title">Væk skærm med dobbeltklik</string>
+<string name="network_header">Forbindelser</string>
+<string name="sim2_title">SIM-kort 2</string>
+<string name="workaround_header">Justeringer</string>
+<string name="google_enc_title">Brug Google H.264 </string>
 <string name="action_settings">Indstillinger</string>
-<string name="dt2w_desc">Tillader du til vågne det enhed ved dobbelt aflytning på det skærm. </string>
-<string name="otg_desc">Tillader du til forbinde USB enheder. Hvornår aktiveret Andet enhed relaterede USB funktioner, sådan som ADB og MTP, vilje ikke være ledig indtil det her er handicappet eller det enhed er genstartet. Ikke alle USB enheder vilje arbejde.</string>
-<string name="glove_desc">Stigninger det følsomhed af det røre ved skærm så rører kan være anbefalet mens iført handsker. </string>
-<string name="sim2_desc">Aktiverer det anden sim kort slot. Det her bør ikke være aktiveret med mindre der er -en sim kort i det anden slot. (Kræver Genstart!)</string>
-<string name="google_enc_desc">Det her arbejder rundt om problemer med snapchat, Instagram og Andet video indspilning apps. Anvendelser det google AVC encoder i stedet af det hw AVC encoder. Du kan brug for til genstart det app eller genstart det enhed Før det her indstilling tager effekt. Det her kan også årsag nogle video indspilning apps ikke til arbejde.</string>
-<string name="sensorex_desc">Prøve eksperimenterende gyroskop sensor! (Kræver Reboot) </string>
+<string name="dt2w_desc">Væk telefonen ved dobbeltklik på skærmen.</string>
+<string name="otg_desc">Tillad forbindelser til USB-enheder. Når aktiveret, vil andre funktioner såsom ADB og MTP ikke fungere korrekt. Virker ikke med alle typer USB-enheder.</string>
+<string name="glove_desc">Forøg følsomhed af touchskærm, så den kan bruges med handsker på.</string>
+<string name="sim2_desc">Aktivér det andet SIM-kort. Bør kun aktiveres, når der er isat 2 SIM-kort (kræver genstart!).</string>
+<string name="google_enc_desc">Forsøger at omgå problemer med Snapchat, Instagram og andre apps, der optager video. Anvender Googles AVC-enkoder i stedet for hardwarens egen AVC-enkoder. Du skal muligvis genstarte app'en eller hele enheden før indstillingen får effekt. Kan forhindre andre videooptage-apps i at virke.</string>
+<string name="sensorex_desc">Aktivér eksperimental gyroskop-sensor! (kræver genstart) </string>
 <string name="sponsors">Sponsorer</string>
-<string name="not_supported">Ikke understøttes ved det her enhed... </string>
-<string name="sponsor_thank_you">Takke du alle til du support!</string>
+<string name="not_supported">Understøttes ikke af denne enhed :-( </string>
+<string name="sponsor_thank_you">Tak til alle, der har valgt at støtte!</string>
 </resources>
