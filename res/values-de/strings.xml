@@ -34,7 +34,7 @@
 <string name="led_charging_desc">Das ist die Farbe die benutzt wird bei einem Akku über 25% und unter 90%</string>
 <string name="led_fullpower_desc">Das ist die Farbe die benutzt wird bei einem Akku über 90%</string>
 <string name="led_notification_desc">Das ist die Farbe bei Benachrichtigungen</string>
-<string name="sensorex_desc">Test Experimentell - Gyroskop Sensor! (Benötigt Neustart)</string>
+<string name="sensorex_desc">Test Experimentell - Gyroskop Sensor! (Benötigt Neustart!)</string>
 <string name="sponsors">Sponsoren</string>
 <string name="not_supported">Nicht Unterstützt von diesem Gerät...</string>
 <string name="sponsor_thank_you">Danke Euch allen für eure Unterstützung!</string>
