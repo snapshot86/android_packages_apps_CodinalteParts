@@ -2,6 +2,7 @@
 <resources>
 <string name="development_name">Meticulus Development</string>
 <string name="extras_section_name">Extras</string>
+<string name="led_section_name">LED Farben</string>
 <string name="app_name">Meticulus Extras</string>
 <string name="kernel_header">Kernel</string>
 <string name="otg_title">USB OTG Modus</string>
@@ -9,6 +10,14 @@
 <string name="glove_title">Handschuh Modus</string>
 <string name="dt2w_title">DT2W</string>
 <string name="network_header">Netzwerk</string>
+<string name="hardware_header">Hardware</string>
+<string name="stock_power_title">Standard Power-HAL</string>
+<string name="stock_lights_title">Standard Licht-HAL</string>
+<string name="led_color_title">LED Farben</string>
+<string name="led_lowpower_title">Akku schwach</string>
+<string name="led_charging_title">Ladevorgang</string>
+<string name="led_fullpower_title">Akku voll</string>
+<string name="led_noti_title">Benachrichtigung</string>
 <string name="sim2_title">SIM Karten Slot 2 </string>
 <string name="workaround_header">Übergangslösungen</string>
 <string name="google_enc_title">Google H264 benutzen</string>
@@ -18,8 +27,19 @@
 <string name="glove_desc">Erhöht die Empfindlichkeit des Bildschirms damit Berührungen mit Handschuhen erkannt werden. </string>
 <string name="sim2_desc">Aktiviert den zweiten Sim Karten Slot. Dies sollte nicht Aktiviert sein wenn keine zweite SIM Karte dort eingelegt ist. (Neustart erforderlich!) </string>
 <string name="google_enc_desc">Eine Übergangslösung für Snapchat, Instagram und andere Video-Aufzeichnungs-Apps. Verwendet den Google Avc Encoder anstatt des Hw Avc Encoders. Kann einen Neustart der App oder des Gerätes benötigen. Dies kann auch zu Problemen mit anderen Video-Aufzeichnung-Apps führen.</string>
-<string name="sensorex_desc">Test Experimentell - Gyroskop Sensor! (Benötigt Neustart)</string>
+<string name="sensorex_desc">Test Experimentiell - Gyroskop Sensor! (Benötigt Neustart)</string>
+<string name="stock_power_desc">Den Power-HAL von EMUI 4.1 benutzen, welcher Stabiler sein kann*. Benutzen des Standard Power-HALs wird einige erweiterte Einstellngen unter \"Akku\" entfernen. (Neustart erforderlich)</string>
+<string name="stock_lights_desc">Den Licht-HAL von EMUI 4.1 benutzen. (Benötigt Neustart!)</string>
+<string name="led_color_desc">LED Farben anpassen</string>
+<string name="led_lowpower_desc">Das ist die Farbe die benutzt wird bei einem Akku von oder unter 25%</string>
+<string name="led_charging_desc">Das ist die Farbe die benutzt wird bei einem Akku über 25% und unter 90%</string>
+<string name="led_fullpower_desc">Das ist die Farbe die benutzt wird bei einem Akku über 90%</string>
+<string name="led_notification_desc">Das ist die Farbe bei Benachrichtigungen</string>
 <string name="sponsors">Sponsoren</string>
 <string name="not_supported">Nicht Unterstützt von diesem Gerät...</string>
 <string name="sponsor_thank_you">Danke Euch allen für eure Unterstützung!</string>
+<string name="red">Rot</string>
+<string name="green">Grün</string>
+<string name="blue">Blau</string>
+<string name="ok">OK</string>
 </resources>
