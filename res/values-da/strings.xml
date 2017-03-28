@@ -17,7 +17,7 @@
 <string name="otg_desc">Tillad forbindelser til USB-enheder. Når aktiveret, vil andre funktioner såsom ADB og MTP ikke fungere korrekt. Virker ikke med alle typer USB-enheder.</string>
 <string name="glove_desc">Forøg følsomhed af touchskærm, så den kan bruges med handsker på.</string>
 <string name="sim2_desc">Aktivér det andet SIM-kort. Bør kun aktiveres, når der er isat 2 SIM-kort (kræver genstart!).</string>
-<string name="google_enc_desc">Forsøger at omgå problemer med Snapchat, Instagram og andre apps, der optager video. Anvender Googles AVC-enkoder i stedet for hardwarens egen AVC-enkoder. Du skal muligvis genstarte app'en eller hele enheden før indstillingen får effekt. Kan forhindre andre videooptage-apps i at virke.</string>
+<string name="google_enc_desc">Forsøger at omgå problemer med Snapchat, Instagram og andre apps, der optager video. Anvender Googles AVC-enkoder i stedet for hardwarens egen AVC-enkoder. Du skal muligvis genstarte app\'en eller hele enheden før indstillingen får effekt. Kan forhindre andre videooptage-apps i at virke.</string>
 <string name="sensorex_desc">Aktivér eksperimental gyroskop-sensor! (kræver genstart) </string>
 <string name="sponsors">Sponsorer</string>
 <string name="not_supported">Understøttes ikke af denne enhed :-( </string>
